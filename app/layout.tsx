@@ -1,6 +1,6 @@
 import "./globals.css";
 import Navbar from "../components/Navbar";
-import Footer from "../components/Footer";
+//import Footer from "../components/Footer";
 import type { Metadata } from "next";
 
 export const metadata = {
@@ -45,7 +45,7 @@ export default function RootLayout({
       <body className="min-h-screen bg-gradient-to-b from-[#f9f5e6] to-[#e6d3b1] text-[#1c1b2b]">
         <Navbar />
         <main className="flex-1">{children}</main>
-        <Footer />
+        {/* <Footer /> */}
       </body>
     </html>
   );

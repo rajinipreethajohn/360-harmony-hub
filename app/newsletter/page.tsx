@@ -1,8 +1,9 @@
 "use client";
-
+import useIsPrinting from "@/hooks/useIsPrinting";
 import { motion } from "framer-motion";
 
 export default function NewsletterPage() {
+  const isPrinting = useIsPrinting();
   const fadeIn = {
     hidden: { opacity: 0, y: 20 },
     visible: { opacity: 1, y: 0 },
@@ -36,6 +37,16 @@ export default function NewsletterPage() {
 
   
 </motion.div>
+
+<div className="text-center my-8 no-print">
+  <button
+    onClick={() => window.print()}
+    className="px-5 py-2 bg-[#1c1b2b] text-[#f9f5e6] rounded-lg shadow-md hover:bg-[#cbb89d] hover:text-[#1c1b2b] transition-all duration-300"
+  >
+    📄 Download as PDF
+  </button>
+</div>
+
 
 
       {/* Intro */}
@@ -204,22 +215,35 @@ export default function NewsletterPage() {
             </>
           ),
         },
-      ].map((section, idx) => (
-        <motion.section
-          key={idx}
-          variants={fadeIn}
-          initial="hidden"
-          whileInView="visible"
-          viewport={{ once: true }}
-          transition={{ duration: 0.8, delay: idx * 0.2 }}
-          className="bg-white/60 backdrop-blur-sm rounded-2xl shadow-md p-6 space-y-3 border border-[#e6c79244]"
-        >
-          <h2 className="text-2xl font-semibold">{section.title}</h2>
-          <p><b>Yin (Sacred Feminine):</b> {section.yin}</p>
-          <p><b>Yang (Sacred Masculine):</b> {section.yang}</p>
-          {section.content}
-        </motion.section>
-      ))}
+      // ... rest of your section objects ...
+].map((section, idx) =>
+  isPrinting ? (
+    <section
+      key={idx}
+      className="bg-white/60 backdrop-blur-sm rounded-2xl shadow-md p-6 space-y-3 border border-[#e6c79244]"
+    >
+      <h2 className="text-2xl font-semibold">{section.title}</h2>
+      <p><b>Yin (Sacred Feminine):</b> {section.yin}</p>
+      <p><b>Yang (Sacred Masculine):</b> {section.yang}</p>
+      {section.content}
+    </section>
+  ) : (
+    <motion.section
+  key={idx}
+  variants={fadeIn}
+  initial="hidden"
+  animate="visible"   // ✅ use this instead
+  transition={{ duration: 0.8, delay: idx * 0.2 }}
+  className="bg-white/60 backdrop-blur-sm rounded-2xl shadow-md p-6 space-y-3 border border-[#e6c79244]"
+>
+
+      <h2 className="text-2xl font-semibold">{section.title}</h2>
+      <p><b>Yin (Sacred Feminine):</b> {section.yin}</p>
+      <p><b>Yang (Sacred Masculine):</b> {section.yang}</p>
+      {section.content}
+    </motion.section>
+  )
+)}
       {/* Floating Yin–Yang Symbol */}
 {/* Floating Yin–Yang Symbol (fish-shaped) */}
 {/* Yin–Yang Fish Symbol (true Taijitu) */}
@@ -228,37 +252,49 @@ export default function NewsletterPage() {
 {/* Yin–Yang Symbol (perfect fish shape) */}
 {/* Floating Yin–Yang Symbol */}
 <motion.div
-  className="fixed bottom-6 right-6 w-14 h-14 rounded-full bg-gradient-to-tr from-[#f9f5e6] to-[#1c1b2b] shadow-lg flex items-center justify-center border border-[#e6c792]/70"
+  className="no-print fixed bottom-6 right-6 w-14 h-14 rounded-full bg-gradient-to-tr from-[#f9f5e6] to-[#1c1b2b] shadow-lg flex items-center justify-center border border-[#e6c792]/70"
   animate={{ rotate: 360 }}
   transition={{ repeat: Infinity, duration: 30, ease: "linear" }}
 >
   <svg
-  viewBox="0 0 100 100"
-  className="w-10 h-10 pointer-events-none"
-  xmlns="http://www.w3.org/2000/svg"
->
-  {/* Outer circle */}
-  <circle cx="50" cy="50" r="50" fill="#000" />
+    viewBox="0 0 100 100"
+    className="w-10 h-10 pointer-events-none"
+    xmlns="http://www.w3.org/2000/svg"
+  >
+    {/* Outer circle */}
+    <circle cx="50" cy="50" r="50" fill="#000" />
 
-  {/* White half */}
-  <path
-    d="M50 0
-       A50 50 0 0 1 50 100
-       A25 25 0 0 0 50 50
-       A25 25 0 0 1 50 0
-       Z"
-    fill="#fff"
-  />
+    {/* White half */}
+    <path
+      d="M50 0
+         A50 50 0 0 1 50 100
+         A25 25 0 0 0 50 50
+         A25 25 0 0 1 50 0
+         Z"
+      fill="#fff"
+    />
 
-  {/* Yin small circle (white area’s black dot) */}
-  <circle cx="50" cy="25" r="7" fill="#000" />
+    {/* Yin small circle (white area’s black dot) */}
+    <circle cx="50" cy="25" r="7" fill="#000" />
 
-  {/* Yang small circle (black area’s white dot) */}
-  <circle cx="50" cy="75" r="7" fill="#fff" />
-</svg>
+    {/* Yang small circle (black area’s white dot) */}
+    <circle cx="50" cy="75" r="7" fill="#fff" />
+  </svg>
 </motion.div>
 
 
+{/* 🌿 Footer (visible on web, hidden in print) */}
+<footer className="text-center mt-12 text-sm text-gray-700 italic print-only-or-web">
+  Visit us at{" "}
+  <a
+    href="https://360harmonyhub.netlify.app"
+    target="_blank"
+    rel="noopener noreferrer"
+    className="underline hover:text-[#cbb89d] transition"
+  >
+    www.360harmonyhub.netlify.app
+  </a>
+</footer>
 
 
 

@@ -32,7 +32,70 @@ body {
 html {
   scroll-behavior: smooth;
 }
+/* Hide this footer on screen but show in print */
+@media screen {
+  .print-only-or-web {
+    display: none;
+  }
+}
+/* 🌙 PRINT STYLES for PDF Export */
+@media print {
+  /* Hide navbar and interactive UI elements */
+  nav, .no-print {
+    display: none !important;
+  }
 
+  /* 🧘‍♀️ Newsletter Footer (print-only) */
+  .print-only-or-web {
+    display: block !important;
+    text-align: center;
+    font-size: 0.9rem;
+    font-style: italic;
+    margin-top: 2rem;
+    color: #5c5244 !important;
+    font-family: "Georgia", serif;
+  }
+
+  
+
+  .print-only-or-web a {
+    text-decoration: none;
+    color: inherit !important;
+  }
+
+  /* 🪶 Page background + layout */
+  body {
+    background: #f9f5e6 !important;
+    color: #1c1b2b !important;
+    font-family: "Georgia", serif;
+    -webkit-print-color-adjust: exact;
+    print-color-adjust: exact;
+  }
+
+  main {
+    margin: 0 auto;
+    padding: 2rem;
+    max-width: 800px;
+    border: 1px solid #e6d3b1;
+    background: linear-gradient(to bottom, #f9f5e6, #f2e2c8);
+    box-shadow: none;
+  }
+
+  h1, h2, h3 {
+    color: #1c1b2b !important;
+    text-align: center;
+  }
+
+  a {
+    color: #1c1b2b !important;
+    text-decoration: none;
+  }
+
+  /* Page margins for print */
+  @page {
+    margin: 1.5cm;
+  }
+}
 
 
 
