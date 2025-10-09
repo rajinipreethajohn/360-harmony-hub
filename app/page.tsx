@@ -55,12 +55,12 @@ export default function HomePage() {
 
       {/* About Preview */}
       <section className="max-w-4xl mx-auto px-6 py-20 text-center">
-        <h2 className="text-2xl md:text-3xl font-serif font-bold mb-4">About 360 Harmony Hub</h2>
+        <h2 className="text-2xl md:text-3xl font-serif font-bold mb-4">360 Harmony Hub</h2>
         <p className="text-gray-700 leading-relaxed max-w-2xl mx-auto">
           360 Harmony Hub is a sanctuary for the spiritually awakened modern soul —
-          a space where <b>mindfulness</b>, <b>astrology</b>, <b>wellness</b>, and
+          a space where <b>mindfulness</b>, <b>wellness</b>, and
           <b> wisdom</b> converge. Every week, we explore how celestial rhythms can
-          inspire inner balance, empowering both <i>strength</i> and <i>softness</i>
+          inspire inner balance, empowering both <i>strength</i> and <i>softness </i>
           in daily life.
         </p>
       </section>
