@@ -5,18 +5,16 @@ export default function useIsPrinting() {
   const [isPrinting, setIsPrinting] = useState(false);
 
   useEffect(() => {
-    const beforePrint = () => setIsPrinting(true);
-    const afterPrint = () => setIsPrinting(false);
-
-    // Listen for print start and end
-    window.addEventListener("beforeprint", beforePrint);
-    window.addEventListener("afterprint", afterPrint);
-
-    return () => {
-      window.removeEventListener("beforeprint", beforePrint);
-      window.removeEventListener("afterprint", afterPrint);
-    };
-  }, []);
-
-  return isPrinting;
-}
+  const handleBeforePrint = () => {
+    document.body.classList.add("printing");
+  };
+  const handleAfterPrint = () => {
+    document.body.classList.remove("printing");
+  };
+  window.addEventListener("beforeprint", handleBeforePrint);
+  window.addEventListener("afterprint", handleAfterPrint);
+  return () => {
+    window.removeEventListener("beforeprint", handleBeforePrint);
+    window.removeEventListener("afterprint", handleAfterPrint);
+  };
+}, []);

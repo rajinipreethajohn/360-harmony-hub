@@ -32,12 +32,7 @@ body {
 html {
   scroll-behavior: smooth;
 }
-/* Hide this footer on screen but show in print */
-@media screen {
-  .print-only-or-web {
-    display: none;
-  }
-}
+
 /* 🌙 PRINT STYLES for PDF Export */
 @media print {
   /* Hide navbar and interactive UI elements */
@@ -71,6 +66,13 @@ html {
     -webkit-print-color-adjust: exact;
     print-color-adjust: exact;
   }
+
+  body.printing * {
+  transition: none !important;
+  animation: none !important;
+  opacity: 1 !important;
+}
+
 
   main {
     margin: 0 auto;
