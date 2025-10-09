@@ -3,7 +3,7 @@ import Navbar from "../components/Navbar";
 import Footer from "../components/Footer";
 import type { Metadata } from "next";
 
-export const metadata: Metadata = {
+export const metadata = {
   title: "360 Harmony Hub | A Space Where Science Meets Soul",
   description:
     "Discover balance through The Yin Yang Newsletter — exploring harmony between Yin (Sacred Feminine) and Yang (Sacred Masculine).",
@@ -15,7 +15,7 @@ export const metadata: Metadata = {
     siteName: "360 Harmony Hub",
     images: [
       {
-        url: "/og-image.jpg",
+        url: "https://360harmonyhub.netlify.app/og-image.jpg", // 👈 absolute URL
         width: 1200,
         height: 630,
         alt: "360 Harmony Hub — Balance Between Yin and Yang",
@@ -29,10 +29,11 @@ export const metadata: Metadata = {
     title: "360 Harmony Hub | A Space Where Science Meets Soul",
     description:
       "A mindful digital sanctuary for the modern, spiritually aware human.",
-    images: ["/og-image.jpg"],
+    images: ["https://360harmonyhub.netlify.app/og-image.jpg"], // 👈 absolute URL
     creator: "@360HarmonyHub",
   },
 };
+
 
 export default function RootLayout({
   children,
