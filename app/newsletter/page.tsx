@@ -12,17 +12,31 @@ export default function NewsletterPage() {
     <div className="max-w-3xl mx-auto text-gray-900 py-24 px-6 space-y-12">
       {/* Header */}
       <motion.div
-        initial="hidden"
-        animate="visible"
-        variants={fadeIn}
-        transition={{ duration: 1 }}
-        className="text-center"
-      >
-        <h1 className="text-4xl font-serif font-bold mb-4">🌗 The Yin Yang Newsletter</h1>
-        <p className="italic text-lg text-gray-700">
-          Theme: <b>Balance in Motion — Grace Between Strength and Softness</b>
-        </p>
-      </motion.div>
+  initial="hidden"
+  animate="visible"
+  variants={fadeIn}
+  transition={{ duration: 1 }}
+  className="text-center space-y-2"
+>
+  <h1 className="text-5xl font-serif font-bold text-gray-900 mb-2">
+    🌗 The Yin Yang Newsletter
+  </h1>
+
+  <h2 className="text-2xl font-serif text-gray-800 mb-1">
+    October 06 – 12, 2025
+  </h2>
+
+  <p className="italic text-sm text-gray-600 tracking-wide mt-2">
+    Weekly newsletter for the spiritually awakened modern-day men and women
+  </p>
+
+  <p className="italic text-lg text-gray-700">
+    Theme: <b>Balance in Motion — Grace Between Strength and Softness</b>
+  </p>
+
+  
+</motion.div>
+
 
       {/* Intro */}
       <motion.div
@@ -32,11 +46,23 @@ export default function NewsletterPage() {
         transition={{ duration: 1.2, delay: 0.2 }}
         className="text-lg leading-relaxed space-y-4"
       >
-        <p>
-          In us live two sacred energies — <b>Yin (Sacred Feminine)</b>: receptive, intuitive,
-          soft, nourishing — and <b>Yang (Sacred Masculine)</b>: expressive, protective, active,
-          creative. This week invites us to awaken both — to listen with poise and act with purpose.
-        </p>
+        <div className="text-center max-w-3xl mx-auto leading-relaxed text-[1.05rem]">
+  <p className="mb-6">
+    In the rhythm of our modern lives, <b>balance isn’t found in stillness</b> — it’s 
+    <b> created through awareness. </b>  
+     Within each of us live two sacred forces —  
+    <b>Yin (Sacred Feminine)</b>: intuitive, receptive, nourishing,  
+    and <b>Yang (Sacred Masculine)</b>: expressive, focused, courageous.
+  </p>
+
+  <p>
+    This edition is for the <b>modern man and woman</b> — grounded yet awake —  
+    who understand that <b>power and tenderness can coexist. </b>  
+    As Venus enters Libra and Pluto turns direct, we’re invited to honor both energies:  
+    <b> listen with presence, act with purpose,</b>  
+    and let harmony be our quiet strength.
+  </p>
+</div>
       </motion.div>
 
       {/* Sections */}
