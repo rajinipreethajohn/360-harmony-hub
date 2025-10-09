@@ -285,9 +285,16 @@ export default function NewsletterPage() {
 
 
 
-{/* 🌿 Footer (print-only version) */}
-<footer className="print-only text-center mt-12 text-sm italic text-[#5c5244]">
-  Visit us at 360harmonyhub.netlify.app
+{/* 🌿 Footer (print-only version, stays hyperlink but looks elegant in print) */}
+<footer className="print-only">
+  Visit us at{" "}
+  <a
+    href="https://360harmonyhub.netlify.app"
+    target="_blank"
+    rel="noopener noreferrer"
+  >
+    360harmonyhub.netlify.app
+  </a>
 </footer>
 
 

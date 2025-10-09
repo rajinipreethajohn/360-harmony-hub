@@ -38,13 +38,13 @@ html {
 
 /* 🌙 PRINT STYLES for PDF Export */
 @media print {
-  
+
   /* Hide floating UI and buttons */
   nav, .no-print {
     display: none !important;
   }
 
-  /* Elegant print-only footer */
+  /* Elegant print-only footer (clickable, clean) */
   .print-only {
     display: block !important;
     text-align: center;
@@ -53,7 +53,17 @@ html {
     margin-top: 2rem;
     color: #5c5244 !important;
     font-family: "Georgia", serif;
-    opacity: 0.8;
+    opacity: 0.9;
+  }
+
+  .print-only a {
+    color: #5c5244 !important;
+    text-decoration: none !important;
+    font-weight: normal;
+  }
+
+  .print-only a:visited {
+    color: #5c5244 !important;
   }
 
   /* Page background and layout */
