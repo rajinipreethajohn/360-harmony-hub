@@ -1,20 +1,22 @@
 "use client";
-import { useEffect, useState } from "react";
+import { useState, useEffect } from "react";
 
-export default function useIsPrinting() {
+export default function useIsPrinting(): boolean {
   const [isPrinting, setIsPrinting] = useState(false);
 
   useEffect(() => {
-  const handleBeforePrint = () => {
-    document.body.classList.add("printing");
-  };
-  const handleAfterPrint = () => {
-    document.body.classList.remove("printing");
-  };
-  window.addEventListener("beforeprint", handleBeforePrint);
-  window.addEventListener("afterprint", handleAfterPrint);
-  return () => {
-    window.removeEventListener("beforeprint", handleBeforePrint);
-    window.removeEventListener("afterprint", handleAfterPrint);
-  };
-}, []);
+    const handleBeforePrint = () => setIsPrinting(true);
+    const handleAfterPrint = () => setIsPrinting(false);
+
+    window.addEventListener("beforeprint", handleBeforePrint);
+    window.addEventListener("afterprint", handleAfterPrint);
+
+    return () => {
+      window.removeEventListener("beforeprint", handleBeforePrint);
+      window.removeEventListener("afterprint", handleAfterPrint);
+    };
+  }, []);
+
+  return isPrinting;
+}
+
