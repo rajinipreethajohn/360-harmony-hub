@@ -5,8 +5,6 @@
   --foreground: #171717;
 }
 
-
-
 @media (prefers-color-scheme: dark) {
   :root {
     --background: #0a0a0a;
@@ -33,15 +31,21 @@ html {
   scroll-behavior: smooth;
 }
 
+/* 🌸 Hide footer on web, show only in print */
+.print-only {
+  display: none;
+}
+
 /* 🌙 PRINT STYLES for PDF Export */
 @media print {
+  
   /* Hide floating UI and buttons */
   nav, .no-print {
     display: none !important;
   }
 
-  /* Footer visible in print with subtle style */
-  footer {
+  /* Elegant print-only footer */
+  .print-only {
     display: block !important;
     text-align: center;
     font-size: 0.85rem;
@@ -49,11 +53,7 @@ html {
     margin-top: 2rem;
     color: #5c5244 !important;
     font-family: "Georgia", serif;
-  }
-
-  footer a {
-    color: #5c5244 !important;
-    text-decoration: none;
+    opacity: 0.8;
   }
 
   /* Page background and layout */
@@ -76,5 +76,3 @@ html {
     margin: 1.5cm;
   }
 }
-
-

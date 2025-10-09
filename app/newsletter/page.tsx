@@ -283,20 +283,12 @@ export default function NewsletterPage() {
 </motion.div>
 
 
-{/* 🌿 Footer (always visible, styled differently for print) */}
-<footer className="text-center mt-12 text-sm text-gray-700 italic">
-  Visit us at{" "}
-  <a
-    href="https://360harmonyhub.netlify.app"
-    target="_blank"
-    rel="noopener noreferrer"
-    className="underline hover:text-[#cbb89d] transition"
-  >
-    www.360harmonyhub.netlify.app
-  </a>
+
+
+{/* 🌿 Footer (print-only version) */}
+<footer className="print-only text-center mt-12 text-sm italic text-[#5c5244]">
+  Visit us at 360harmonyhub.netlify.app
 </footer>
-
-
 
 
 
