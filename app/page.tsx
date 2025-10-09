@@ -80,36 +80,63 @@ export default function HomePage() {
       </section>
 
       {/* Six Harmony Sections Preview */}
-      <section className="max-w-5xl mx-auto px-6 py-20">
-        <h2 className="text-2xl font-serif font-bold text-center mb-10">
-          Explore the Six Realms of Harmony 🌸
-        </h2>
+<section className="max-w-5xl mx-auto px-6 py-20">
+  <h2 className="text-2xl font-serif font-bold text-center mb-10">
+    Explore the Six Realms of Harmony 🌸
+  </h2>
 
-        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
-          {[
-            "Celestial Insights",
-            "Sacred Wellness",
-            "Restful Rhythms",
-            "Financial Wisdom",
-            "Meditation Focus",
-            "Sacred Affirmation",
-          ].map((title, index) => (
-            <motion.div
-              key={index}
-              initial={{ opacity: 0, y: 30 }}
-              whileInView={{ opacity: 1, y: 0 }}
-              viewport={{ once: true }}
-              transition={{ duration: 0.6, delay: index * 0.1 }}
-              className="rounded-2xl bg-[#fefaf2] shadow-md border border-[#e6c792]/50 p-6 text-center hover:shadow-xl hover:scale-[1.02] transition"
-            >
-              <h3 className="text-lg font-semibold text-[#1c1b2b] mb-2">{title}</h3>
-              <p className="text-sm text-gray-700 italic">
-                Discover balance through {title.toLowerCase()}.
-              </p>
-            </motion.div>
-          ))}
-        </div>
-      </section>
+  <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
+    {[
+      {
+        title: "Celestial Insights",
+        description:
+          "Trace the rhythm of the stars and the pull of the moon. Learn how cosmic shifts shape your emotions, intentions, and flow.",
+      },
+      {
+        title: "Sacred Wellness",
+        description:
+          "Nourish your body as a temple of light. Explore rituals, herbs, and mindful practices for holistic vitality.",
+      },
+      {
+        title: "Restful Rhythms",
+        description:
+          "Sink into the softness of stillness. Discover how sleep, breath, and silence restore your spirit.",
+      },
+      {
+        title: "Financial Wisdom",
+        description:
+          "Redefine abundance through conscious living. Align your energy with prosperity that sustains, not drains.",
+      },
+      {
+        title: "Meditation Focus",
+        description:
+          "Return to your inner sanctuary. Breathe, pause, and awaken awareness beyond the noise.",
+      },
+      {
+        title: "Sacred Affirmation",
+        description:
+          "Rewrite your inner narrative with compassion. Let your words become the bridge between thought and transformation.",
+      },
+    ].map((item, index) => (
+      <motion.div
+        key={index}
+        initial={{ opacity: 0, y: 30 }}
+        whileInView={{ opacity: 1, y: 0 }}
+        viewport={{ once: true }}
+        transition={{ duration: 0.6, delay: index * 0.1 }}
+        className="rounded-2xl bg-[#fefaf2] shadow-md border border-[#e6c792]/50 p-6 text-center hover:shadow-xl hover:scale-[1.02] transition"
+      >
+        <h3 className="text-lg font-semibold text-[#1c1b2b] mb-2">
+          {item.title}
+        </h3>
+        <p className="text-sm text-gray-700 leading-relaxed">
+          {item.description}
+        </p>
+      </motion.div>
+    ))}
+  </div>
+</section>
+
 
       {/* Footer Quote */}
       <footer className="text-center py-16 px-6 italic text-gray-700 text-sm">
