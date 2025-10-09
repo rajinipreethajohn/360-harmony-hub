@@ -5,11 +5,13 @@ import { motion } from 'framer-motion'
 
 export default function Navbar() {
   return (
-    <nav className="fixed top-0 left-0 w-full z-50 backdrop-blur-md bg-gradient-to-r from-[#f9f5e6]/90 via-[#e6c792]/70 to-[#1c1b2b]/90 shadow-sm">
-  <div className="max-w-6xl mx-auto px-6 py-3 flex justify-between items-center">
-    <h1 className="text-base md:text-lg font-semibold text-[#1b1b34] tracking-wide">
-      360 Harmony Hub
-    </h1>
+    
+    <nav className="fixed top-0 w-full bg-gradient-to-r from-[#b59b79]/80 to-[#2e2939]/80 backdrop-blur-md shadow-md z-50">
+      <div className="max-w-6xl mx-auto px-6 py-4 flex justify-between items-center">
+        {/* Logo / Site Title */}
+        <Link href="/" className="text-lg font-semibold text-[#1c1b2b] hover:text-[#4b3f32] transition duration-300">
+          360 Harmony Hub
+        </Link>
     <div className="space-x-6 md:space-x-8 flex items-center">
       <a
         href="/newsletter"
