@@ -26,7 +26,7 @@ export default function NewsletterPage() {
     October 06 – 12, 2025
   </h2>
 
-  <p className="italic text-sm text-gray-600 tracking-wide mt-2">
+  <p className="italic text-sm text-gray-600 tracking-wide my-6">
     Weekly newsletter for the spiritually awakened modern-day men and women
   </p>
 
