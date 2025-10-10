@@ -38,14 +38,11 @@ export default function NewsletterPage() {
   
 </motion.div>
 
-<div className="text-center my-8 no-print">
-  <button
-    onClick={() => window.print()}
-    className="px-5 py-2 bg-[#1c1b2b] text-[#f9f5e6] rounded-lg shadow-md hover:bg-[#cbb89d] hover:text-[#1c1b2b] transition-all duration-300"
-  >
-    📄 Download as PDF
-  </button>
-</div>
+{/* 🌿 Note at the top */}
+<p className="text-center text-sm italic text-gray-600 mt-6 no-print">
+  💡 To save this week’s edition, scroll to the end and click 
+  <b> “Download as PDF”</b>.
+</p>
 
 
 
@@ -297,7 +294,14 @@ export default function NewsletterPage() {
   </a>
 </footer>
 
-
+<div className="text-center my-8 no-print">
+  <button
+    onClick={() => window.print()}
+    className="px-5 py-2 bg-[#1c1b2b] text-[#f9f5e6] rounded-lg shadow-md hover:bg-[#cbb89d] hover:text-[#1c1b2b] transition-all duration-300"
+  >
+    📄 Download as PDF
+  </button>
+</div>
 
 
     </div>
