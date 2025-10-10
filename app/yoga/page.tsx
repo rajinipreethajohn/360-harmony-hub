@@ -19,7 +19,7 @@ export default function YogaPage() {
 
   return (
     <div className="section-wrapper max-w-5xl mx-auto py-28 px-6 text-center">
-      {/* 🧘‍♀️ Title */}
+      {/* Title */}
       <motion.h1
         variants={fadeIn}
         initial="hidden"
@@ -27,7 +27,7 @@ export default function YogaPage() {
         transition={{ duration: 0.8 }}
         className="text-4xl md:text-5xl font-serif font-bold text-[#1c1b2b] mb-4"
       >
-        🧘‍♀️ Yoga — The Union of Body, Mind & Spirit
+        Yoga - The Union of Body, Mind & Spirit
       </motion.h1>
 
       {/* 🌿 Intro with Vedic roots */}
