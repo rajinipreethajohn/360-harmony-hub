@@ -49,4 +49,9 @@ export default function RootLayout({
       </body>
     </html>
   );
+<body className="min-h-screen bg-gradient-to-b from-[#f9f5e6] to-[#e6d3b1] text-[#1c1b2b] overflow-x-hidden">
+  <Navbar />
+  <main className="flex-1 pt-20">{children}</main> {/* Added padding-top so content isn’t hidden under navbar */}
+</body>
+ 
 }
