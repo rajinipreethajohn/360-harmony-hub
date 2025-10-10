@@ -139,10 +139,11 @@ export default function HomePage() {
 
 
       {/* Footer Quote */}
-      <footer className="text-center py-16 px-6 italic text-gray-700 text-sm">
-        “Live in rhythm with the cosmos, move with intention,
-        <br /> and let harmony be your quiet strength.”
-      </footer>
+      <footer className="print-only text-center mt-12 text-sm italic text-[#5c5244]">
+  Visit us at <a href="https://360harmonyhub.netlify.app">https://360harmonyhub.netlify.app</a>
+</footer>
+
+
     </main>
   );
 }
