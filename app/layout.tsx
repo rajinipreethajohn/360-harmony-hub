@@ -34,7 +34,7 @@ export const metadata: Metadata = {
     creator: "@360HarmonyHub",
   },
 
-  // ✅ Add Google Search Console verification here (cleaner method)
+  // ✅ Built-in Next.js verification tag for Google Search Console
   verification: {
     google: "LnFiEuQ4hJn7o2D_2yhsQJzOKei-foM1xuz843QzHtg",
   },
@@ -55,9 +55,9 @@ export default function RootLayout({
           strategy="afterInteractive"
         />
 
-        {/* ✅ Google Analytics (replace G-XXXXXXX with your GA4 ID) */}
+        {/* ✅ Google Analytics (GA4) */}
         <Script
-          src="https://www.googletagmanager.com/gtag/js?id=G-XXXXXXX"
+          src="https://www.googletagmanager.com/gtag/js?id=G-BSYKB6LS0V"
           strategy="afterInteractive"
         />
         <Script id="gtag-init" strategy="afterInteractive">
@@ -65,7 +65,7 @@ export default function RootLayout({
             window.dataLayer = window.dataLayer || [];
             function gtag(){dataLayer.push(arguments);}
             gtag('js', new Date());
-            gtag('config', 'G-XXXXXXX');
+            gtag('config', 'G-BSYKB6LS0V');
           `}
         </Script>
       </head>
