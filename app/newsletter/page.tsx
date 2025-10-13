@@ -13,38 +13,34 @@ export default function NewsletterPage() {
     <div className="max-w-3xl mx-auto text-gray-900 py-24 px-6 space-y-12">
       {/* Header */}
       <motion.div
-  initial="hidden"
-  animate="visible"
-  variants={fadeIn}
-  transition={{ duration: 1 }}
-  className="text-center space-y-2"
->
-  <h1 className="text-5xl font-serif font-bold text-gray-900 mb-2">
-    🌗 The Yin Yang Newsletter
-  </h1>
+        initial="hidden"
+        animate="visible"
+        variants={fadeIn}
+        transition={{ duration: 1 }}
+        className="text-center space-y-2"
+      >
+        <h1 className="text-5xl font-serif font-bold text-gray-900 mb-2">
+          🌗 The Yin Yang Newsletter
+        </h1>
 
-  <h2 className="text-2xl font-serif text-gray-800 mb-1">
-    October 06 – 12, 2025
-  </h2>
+        <h2 className="text-2xl font-serif text-gray-800 mb-1">
+          October 13 – 19, 2025
+        </h2>
 
-  <p className="italic text-sm text-gray-600 tracking-wide my-6">
-    Weekly newsletter for the spiritually awakened modern-day men and women
-  </p>
+        <p className="italic text-sm text-gray-600 tracking-wide my-6">
+          Weekly newsletter for the spiritually awakened modern-day men and women
+        </p>
 
-  <p className="italic text-lg text-gray-700">
-    Theme: <b>Balance in Motion — Grace Between Strength and Softness</b>
-  </p>
+        <p className="italic text-lg text-gray-700">
+          Theme: <b>Relational Rebirth — Power, Beauty & Trust in Union</b>
+        </p>
+      </motion.div>
 
-  
-</motion.div>
-
-{/* 🌿 Note at the top */}
-<p className="text-center text-sm italic text-gray-600 mt-6 no-print">
-  💡 To save this week’s edition, scroll to the end and click 
-  <b> “Download as PDF”</b>.
-</p>
-
-
+      {/* 🌿 Note at the top */}
+      <p className="text-center text-sm italic text-gray-600 mt-6 no-print">
+        💡 To save this week’s edition, scroll to the end and click{" "}
+        <b>“Download as PDF”</b>.
+      </p>
 
       {/* Intro */}
       <motion.div
@@ -54,256 +50,225 @@ export default function NewsletterPage() {
         transition={{ duration: 1.2, delay: 0.2 }}
         className="text-lg leading-relaxed space-y-4"
       >
-        <div className="text-center max-w-3xl mx-auto leading-relaxed text-[1.05rem]">
-  <p className="mb-6">
-    In the rhythm of our modern lives, <b>balance isn’t found in stillness</b> — it’s 
-    <b> created through awareness. </b>  
-     Within each of us live two sacred forces —  
-    <b>Yin (Sacred Feminine)</b>: intuitive, receptive, nourishing,  
-    and <b>Yang (Sacred Masculine)</b>: expressive, focused, courageous.
-  </p>
+        <div className="text-center max-w-3xl mx-auto leading-loose text-[1.05rem] font-serif text-gray-700 tracking-wider">
+          <p className="mb-6">
+            As we step into this week, the cosmic atmosphere invites a profound shift.
+            On <b>October 13</b>, two major transits — <b>Venus entering Libra</b> and{" "}
+            <b>Pluto turning direct in Aquarius</b> — activate the energies of{" "}
+            <b>relationship, power, trust, and transformation</b>.<br />
+            This is not a casual week: it is a threshold.<br />
+            Let us move with <b>vulnerability and strength</b>, open to deeper
+            connection and greater clarity.
+          </p>
 
-  <p>
-    This edition is for the <b>modern man and woman</b> — grounded yet awake —  
-    who understand that <b>power and tenderness can coexist. </b>  
-    As Venus enters Libra and Pluto turns direct, we’re invited to honor both energies:  
-    <b> listen with presence, act with purpose,</b>  
-    and let harmony be our quiet strength.
-  </p>
-</div>
+          <p>
+            We enter a week of <b>relational rebirth</b> — where softness can be sure,
+            power gentle, and trust sacred.<br />
+            May your inner balance guide your outer dance.
+          </p>
+        </div>
       </motion.div>
 
       {/* Sections */}
       {[
         {
           title: "🌕 Celestial Balance",
-          yin: "Let your inner silence receive subtle truths.",
-          yang: "Let those truths guide your voice.",
+          yin: "Let your heart feel first; let your lips speak later.",
+          yang: "Let your words carry the weight of your inner truth.",
           content: (
             <>
               <p className="mt-4">
-                <b>Astrological Events:</b> On <b>Oct 6</b>, Mercury enters Scorpio, deepening
-                communication and revealing what’s hidden — conversations may hold more weight than
-                usual. Full Moon in Aries (Oct 6) accelerates confrontations or breakthroughs in
-                relational dynamics. Towards week’s end, the Moon’s movement encourages shifting
-                perspectives into tangible action.
+                <b>Astrological Events:</b><br />
+                • On <b>October 13</b>, <b>Venus enters Libra</b>, opening the door to graceful relating, harmony, and reclamation of beauty in connection.<br />
+                • Also on <b>October 13</b>, <b>Pluto stations direct</b> at ~1° Aquarius, ending a 5-month retrograde and releasing transformative power into forward motion.<br />
+                • On <b>October 14</b>, Venus opposes Neptune (ideal love vs reality) and trines Uranus + Pluto (flashes of relational insight).<br />
+                • Midweek (Oct 16–17), <b>Mars & Mercury trine the North Node</b>, supporting aligned action and communication.<br />
+                • On <b>October 17</b>, <b>Sun squares Jupiter</b> — expansive yet overreaching energy.<br />
+                • <b>Oct 17–18</b>: Sun opposes Chiron — healing through vulnerability in relationships.<br />
               </p>
               <p className="mt-4">
-                <b>Reflections:</b>
-                <br />• What has been unspoken, waiting beneath the surface?
-                <br />• Where do you need to bridge inner clarity with outer expression?
+                <b>Reflections:</b><br />
+                • In your closest relationships, where does idealism blind you?<br />
+                • Where is power unmet by tenderness?<br />
+                • What trust do you long to rebuild or reimagine?
               </p>
               <p className="mt-4">
-                <b>Rituals:</b>
-                <br />• On Oct 6, pause midday — breathe, listen inward, note any sudden insight or
-                tension. <br />• Journal what wants to emerge, and what needs to fall away.
-                <br />• Before sleep, visualize your inner and outer energies merging in harmony.
+                <b>Rituals:</b><br />
+                • On Oct 13, pause at sunrise and set the intention: <i>“I invite harmony, I speak truth.”</i><br />
+                • Midweek, write a dialog between your youthful heart and your present wisdom—permit both to speak.<br />
+                • At week’s end, draw a mandala of relational balance (yin + yang forces) and sit with it in silence.
               </p>
             </>
           ),
         },
         {
           title: "💗 Wellness in Flow",
-          yin: "Sit with your breath; feel the space between thoughts.",
-          yang: "Move your body in service of that harmony.",
+          yin: "Let your nervous system rest in the quiet between heartbeats.",
+          yang: "Let your body speak in movement aligned with your center.",
           content: (
             <>
               <p className="mt-4">
-                Begin the week with gentle heart stretches + 3 golden breaths. Sip rose or
-                chrysanthemum tea to soften internal tension. Offer one genuine compliment or act of
-                kindness each day — let your inner light touch another.
+                Begin each day with <b>5 slow heart-centered breaths</b>. As Venus blesses Libra, let beauty guide your movement: flowing yoga, dance, or tai chi. Let your body be an art form.
               </p>
               <p className="mt-4">
-                Eat nourishing greens, berries, nuts; hydrate intentionally. In evenings, practice
-                4-7-8 breathing, focusing the exhale into your heart center.
+                For nourishment: include fresh greens, pomegranate, olive oil, seeds. Cultivate bites of beauty—herbs, edible flowers, colorful plates. At night, practice <b>coherent breathing</b> (inhale ~5, exhale ~5) to ground body and emotion.
               </p>
             </>
           ),
         },
         {
           title: "🌿 Rest & Renewal",
-          yin: "Receive rest as sacred — allow inertia its space.",
-          yang: "Defend your rest with clear boundaries and rituals.",
+          yin: "Let rest be your altar — guard it tenderly.",
+          yang: "Let your boundaries protect your peace.",
           content: (
             <>
               <p className="mt-4">
-                On or around the Full Moon, journal what you release and what you seed. Light soft,
-                pale candles to honor balance and boundary. Use lavender or tulsi tea before sleep.
+                As Pluto shifts direct, deep sediments may stir. Offer yourself longer pauses, soft baths, moonlit journaling. Use moonstone, amethyst, or selenite in your resting space.
               </p>
               <p className="mt-4">
-                Keep your sleeping space in shades of rose, cream, or pale blue. Place a moonstone
-                or rose quartz nearby as quiet support. Practice a visualization: inhale yin
-                (softness), exhale yang (integrity).
+                Create a nightly ritual: dim lights, herbal teas (lavender, passionflower), write three things you release and three you intend to invite. Then rest, knowing transformation works beneath.
               </p>
             </>
           ),
         },
         {
           title: "✨ Abundance in Balance",
-          yin: "Receive without judgment, gratitude without condition.",
-          yang: "Act from integrity — give where you are called.",
+          yin: "Receive energy and value in honest ways.",
+          yang: "Offer with integrity, not overreach.",
           content: (
             <>
               <p className="mt-4">
-                As Mercury in Scorpio reveals hidden value dynamics, revisit your beliefs about
-                money, worth, and equity. Be mindful of investments or financial moves — allow
-                insight to stabilize before leaps.
+                Venus in Libra awakens the art of equitable exchange. This week, notice where you overgive or undersell your value. Rebalance: receive openly, give from grounded purpose.
               </p>
               <p className="mt-4">
-                Offer gratitude or small gift to someone who supports you. Draw inner scales:
-                self-worth vs shared value — where do they feel imbalanced?
+                In finances, hold off on risky leaps until clarity deepens (especially early in the week). Later, look for inspired opportunities in relational ventures or creative collaboration.
               </p>
               <p className="mt-4 italic">
-                “I receive with openness; I act with integrity.”
+                “I attract in beauty; I act in truth.”
               </p>
             </>
           ),
         },
         {
-          title: "🧘‍♀️ Stillness & Power",
-          yin: "Rest in silence; let your intuition breathe.",
-          yang: "Speak and act from that grounded center.",
+          title: "🧘 Stillness & Power",
+          yin: "Be still; let insight rise from the depths.",
+          yang: "Let your actions root from that stillness.",
           content: (
             <>
               <p className="mt-4">
-                Meditate visualizing silver light (yin) meeting gold light (yang) in your heart —
-                dancing, not colliding.
+                Meditate with imagery of <b>lavender & steel</b> — softness meeting strength. Let whatever surfaces be witnessed without judgment.
               </p>
               <p className="mt-4">
-                <b>Affirm:</b> “I embody balance and speak with elegance.”<br />
-                “My strength is calm; my power compassionate.”
+                <b>Affirm:</b> “My voice is both gentle and exact.”<br />
+                “I move in alignment; I attract with integrity.”
               </p>
               <p className="mt-4">
-                <b>Prompt:</b> In your relationships or leadership this week, where do you want new
-                expression of truth + tenderness?
+                <b>Prompt:</b> In your inner leadership this week, where is there room for more listening, and where must you speak even if it feels risky?
               </p>
             </>
           ),
         },
         {
           title: "🌟 Sacred Affirmation",
-          yin: "Whisper inward until truth becomes felt.",
-          yang: "Let that truth echo through your actions.",
+          yin: "Whisper into your being until it blossoms.",
+          yang: "Let your life echo that whisper loud.",
           content: (
             <>
               <p className="mt-4 italic">
-                “I move in relationship with grace and grounded power.”
+                “In love, power, vulnerability — I stand in both grace and strength.”
               </p>
               <p className="mt-4">
-                Repeat each morning before your first word — let it shape your tone, your
-                boundaries, your presence.
+                Speak it daily, especially before relational encounters. Let it anchor your boundaries, your tone, your presence.
               </p>
             </>
           ),
         },
         {
           title: "🔮 A Final Whisper",
-          yin: "Let softness guide your listening.",
-          yang: "Let clarity guide your steps.",
+          yin: "Let beauty draw you in; let truth steady your step.",
+          yang: "Move with courage from the devotional center within.",
           content: (
             <>
               <p className="mt-4 italic">
-                “Harmony and power need not clash — they can dance.”
+                “Relational rebirth is my invitation, integrity my compass.”
               </p>
               <p className="mt-4">
-                Venus in Libra teaches elegance; Pluto direct calls for truth. Together, they ask:
-                Can you be both soft and strong this week?
+                Venus in Libra re-tunes our relational frequency toward harmony. Pluto direct releases us from hidden binds. This week asks: <b>can you hold tenderness and resolve simultaneously?</b> Let the dance begin.
               </p>
             </>
           ),
         },
-      // ... rest of your section objects ...
-].map((section, idx) =>
-  isPrinting ? (
-    <section
-      key={idx}
-      className="bg-white/60 backdrop-blur-sm rounded-2xl shadow-md p-6 space-y-3 border border-[#e6c79244]"
-    >
-      <h2 className="text-2xl font-semibold">{section.title}</h2>
-      <p><b>Yin (Sacred Feminine):</b> {section.yin}</p>
-      <p><b>Yang (Sacred Masculine):</b> {section.yang}</p>
-      {section.content}
-    </section>
-  ) : (
-    <motion.section
-  key={idx}
-  variants={fadeIn}
-  initial="hidden"
-  animate="visible"   // ✅ use this instead
-  transition={{ duration: 0.8, delay: idx * 0.2 }}
-  className="bg-white/60 backdrop-blur-sm rounded-2xl shadow-md p-6 space-y-3 border border-[#e6c79244]"
->
+      ].map((section, idx) =>
+        isPrinting ? (
+          <section
+            key={idx}
+            className="bg-white/60 backdrop-blur-sm rounded-2xl shadow-md p-6 space-y-3 border border-[#e6c79244] text-center font-serif text-gray-700 tracking-wider leading-loose"
 
-      <h2 className="text-2xl font-semibold">{section.title}</h2>
-      <p><b>Yin (Sacred Feminine):</b> {section.yin}</p>
-      <p><b>Yang (Sacred Masculine):</b> {section.yang}</p>
-      {section.content}
-    </motion.section>
-  )
-)}
+          >
+            <h2 className="text-2xl font-semibold text-center">{section.title}</h2>
+            <p><b>Yin (Sacred Feminine):</b> {section.yin}</p>
+            <p><b>Yang (Sacred Masculine):</b> {section.yang}</p>
+            {section.content}
+          </section>
+        ) : (
+          <motion.section
+            key={idx}
+            variants={fadeIn}
+            initial="hidden"
+            animate="visible"
+            transition={{ duration: 0.8, delay: idx * 0.2 }}
+            className="bg-white/60 backdrop-blur-sm rounded-2xl shadow-md p-6 space-y-3 border border-[#e6c79244] text-center font-serif text-gray-700 tracking-wider leading-loose"
+
+          >
+            <h2 className="text-2xl font-semibold text-center">{section.title}</h2>
+            <p><b>Yin (Sacred Feminine):</b> {section.yin}</p>
+            <p><b>Yang (Sacred Masculine):</b> {section.yang}</p>
+            {section.content}
+          </motion.section>
+        )
+      )}
+
       {/* Floating Yin–Yang Symbol */}
-{/* Floating Yin–Yang Symbol (fish-shaped) */}
-{/* Yin–Yang Fish Symbol (true Taijitu) */}
-{/* Yin–Yang Symbol (Balanced with Fish Eyes) */}
-{/* Yin–Yang Symbol (True Fish Shape) */}
-{/* Yin–Yang Symbol (perfect fish shape) */}
-{/* Floating Yin–Yang Symbol */}
-<motion.div
-  className="no-print fixed bottom-6 right-6 w-14 h-14 rounded-full bg-gradient-to-tr from-[#f9f5e6] to-[#1c1b2b] shadow-lg flex items-center justify-center border border-[#e6c792]/70"
-  animate={{ rotate: 360 }}
-  transition={{ repeat: Infinity, duration: 30, ease: "linear" }}
->
-  <svg
-    viewBox="0 0 100 100"
-    className="w-10 h-10 pointer-events-none"
-    xmlns="http://www.w3.org/2000/svg"
-  >
-    {/* Outer circle */}
-    <circle cx="50" cy="50" r="50" fill="#000" />
+      <motion.div
+        className="no-print fixed bottom-6 right-6 w-14 h-14 rounded-full bg-gradient-to-tr from-[#f9f5e6] to-[#1c1b2b] shadow-lg flex items-center justify-center border border-[#e6c792]/70"
+        animate={{ rotate: 360 }}
+        transition={{ repeat: Infinity, duration: 30, ease: "linear" }}
+      >
+        <svg
+          viewBox="0 0 100 100"
+          className="w-10 h-10 pointer-events-none"
+          xmlns="http://www.w3.org/2000/svg"
+        >
+          <circle cx="50" cy="50" r="50" fill="#000" />
+          <path
+            d="M50 0 A50 50 0 0 1 50 100 A25 25 0 0 0 50 50 A25 25 0 0 1 50 0 Z"
+            fill="#fff"
+          />
+          <circle cx="50" cy="25" r="7" fill="#000" />
+          <circle cx="50" cy="75" r="7" fill="#fff" />
+        </svg>
+      </motion.div>
 
-    {/* White half */}
-    <path
-      d="M50 0
-         A50 50 0 0 1 50 100
-         A25 25 0 0 0 50 50
-         A25 25 0 0 1 50 0
-         Z"
-      fill="#fff"
-    />
+      {/* 🌿 Footer */}
+      <footer className="print-only">
+        Visit us at{" "}
+        <a
+          href="https://360harmonyhub.netlify.app"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          360harmonyhub.netlify.app
+        </a>
+      </footer>
 
-    {/* Yin small circle (white area’s black dot) */}
-    <circle cx="50" cy="25" r="7" fill="#000" />
-
-    {/* Yang small circle (black area’s white dot) */}
-    <circle cx="50" cy="75" r="7" fill="#fff" />
-  </svg>
-</motion.div>
-
-
-
-
-{/* 🌿 Footer (print-only version, stays hyperlink but looks elegant in print) */}
-<footer className="print-only">
-  Visit us at{" "}
-  <a
-    href="https://360harmonyhub.netlify.app"
-    target="_blank"
-    rel="noopener noreferrer"
-  >
-    360harmonyhub.netlify.app
-  </a>
-</footer>
-
-<div className="text-center my-8 no-print">
-  <button
-    onClick={() => window.print()}
-    className="px-5 py-2 bg-[#1c1b2b] text-[#f9f5e6] rounded-lg shadow-md hover:bg-[#cbb89d] hover:text-[#1c1b2b] transition-all duration-300"
-  >
-    📄 Download as PDF
-  </button>
-</div>
-
-
+      <div className="text-center my-8 no-print">
+        <button
+          onClick={() => window.print()}
+          className="px-5 py-2 bg-[#1c1b2b] text-[#f9f5e6] rounded-lg shadow-md hover:bg-[#cbb89d] hover:text-[#1c1b2b] transition-all duration-300"
+        >
+          📄 Download as PDF
+        </button>
+      </div>
     </div>
   );
 }
