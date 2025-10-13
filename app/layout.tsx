@@ -2,7 +2,7 @@ import "./globals.css";
 import Navbar from "../components/Navbar";
 // import Footer from "../components/Footer";
 import type { Metadata } from "next";
-import Script from "next/script"; // ✅ Add this import
+import Script from "next/script";
 
 export const metadata: Metadata = {
   title: "360 Harmony Hub | A Space Where Science Meets Soul",
@@ -16,7 +16,7 @@ export const metadata: Metadata = {
     siteName: "360 Harmony Hub",
     images: [
       {
-        url: "https://360harmonyhub.netlify.app/og-image.jpg", // 👈 absolute URL
+        url: "https://360harmonyhub.netlify.app/og-image.jpg",
         width: 1200,
         height: 630,
         alt: "360 Harmony Hub — Balance Between Yin and Yang",
@@ -30,8 +30,13 @@ export const metadata: Metadata = {
     title: "360 Harmony Hub | A Space Where Science Meets Soul",
     description:
       "A mindful digital sanctuary for the modern, spiritually aware human.",
-    images: ["https://360harmonyhub.netlify.app/og-image.jpg"], // 👈 absolute URL
+    images: ["https://360harmonyhub.netlify.app/og-image.jpg"],
     creator: "@360HarmonyHub",
+  },
+
+  // ✅ Add Google Search Console verification here (cleaner method)
+  verification: {
+    google: "LnFiEuQ4hJn7o2D_2yhsQJzOKei-foM1xuz843QzHtg",
   },
 };
 
@@ -43,13 +48,14 @@ export default function RootLayout({
   return (
     <html lang="en">
       <head>
-        {/* ✅ Ahrefs Analytics Script */}
+        {/* ✅ Ahrefs Analytics */}
         <Script
           src="https://analytics.ahrefs.com/analytics.js"
           data-key="63cPJ2Izcts1+/UV6sQqSg"
           strategy="afterInteractive"
         />
-        {/* ✅ Google Analytics (replace G-XXXXXXX with your real GA4 ID) */}
+
+        {/* ✅ Google Analytics (replace G-XXXXXXX with your GA4 ID) */}
         <Script
           src="https://www.googletagmanager.com/gtag/js?id=G-XXXXXXX"
           strategy="afterInteractive"
