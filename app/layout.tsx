@@ -49,6 +49,19 @@ export default function RootLayout({
           data-key="63cPJ2Izcts1+/UV6sQqSg"
           strategy="afterInteractive"
         />
+        {/* ✅ Google Analytics (replace G-XXXXXXX with your real GA4 ID) */}
+        <Script
+          src="https://www.googletagmanager.com/gtag/js?id=G-XXXXXXX"
+          strategy="afterInteractive"
+        />
+        <Script id="gtag-init" strategy="afterInteractive">
+          {`
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date());
+            gtag('config', 'G-XXXXXXX');
+          `}
+        </Script>
       </head>
 
       <body className="min-h-screen bg-gradient-to-b from-[#f9f5e6] to-[#e6d3b1] text-[#1c1b2b] overflow-x-hidden">
