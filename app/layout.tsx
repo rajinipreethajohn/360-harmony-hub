@@ -1,9 +1,10 @@
 import "./globals.css";
 import Navbar from "../components/Navbar";
-//import Footer from "../components/Footer";
+// import Footer from "../components/Footer";
 import type { Metadata } from "next";
+import Script from "next/script"; // ✅ Add this import
 
-export const metadata = {
+export const metadata: Metadata = {
   title: "360 Harmony Hub | A Space Where Science Meets Soul",
   description:
     "Discover balance through The Yin Yang Newsletter — exploring harmony between Yin (Sacred Feminine) and Yang (Sacred Masculine).",
@@ -34,7 +35,6 @@ export const metadata = {
   },
 };
 
-
 export default function RootLayout({
   children,
 }: {
@@ -42,16 +42,20 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en">
-      <body className="min-h-screen bg-gradient-to-b from-[#f9f5e6] to-[#e6d3b1] text-[#1c1b2b]">
+      <head>
+        {/* ✅ Ahrefs Analytics Script */}
+        <Script
+          src="https://analytics.ahrefs.com/analytics.js"
+          data-key="63cPJ2Izcts1+/UV6sQqSg"
+          strategy="afterInteractive"
+        />
+      </head>
+
+      <body className="min-h-screen bg-gradient-to-b from-[#f9f5e6] to-[#e6d3b1] text-[#1c1b2b] overflow-x-hidden">
         <Navbar />
-        <main className="flex-1">{children}</main>
+        <main className="flex-1 pt-20">{children}</main>
         {/* <Footer /> */}
       </body>
     </html>
   );
-<body className="min-h-screen bg-gradient-to-b from-[#f9f5e6] to-[#e6d3b1] text-[#1c1b2b] overflow-x-hidden">
-  <Navbar />
-  <main className="flex-1 pt-20">{children}</main> {/* Added padding-top so content isn’t hidden under navbar */}
-</body>
- 
 }
