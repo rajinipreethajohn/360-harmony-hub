@@ -24,7 +24,7 @@ export default function NewsletterPage() {
         </h1>
 
         <h2 className="text-2xl font-serif text-gray-800 mb-1">
-          October 13 – 19, 2025
+          October 20 – 26, 2025
         </h2>
 
         <p className="italic text-sm text-gray-600 tracking-wide my-6">
@@ -32,14 +32,14 @@ export default function NewsletterPage() {
         </p>
 
         <p className="italic text-lg text-gray-700">
-          Theme: <b>Relational Rebirth — Power, Beauty & Trust in Union</b>
+          Theme: <b>Inner Alchemy — Transforming Shadow into Light</b>
         </p>
       </motion.div>
 
-      {/* 🌿 Note at the top */}
+      {/* 💡 PDF note */}
       <p className="text-center text-sm italic text-gray-600 mt-6 no-print">
         💡 To save this week’s edition, scroll to the end and click{" "}
-        <b>“Download as PDF”</b>.
+        <b>“Download as PDF.”</b>
       </p>
 
       {/* Intro */}
@@ -52,19 +52,19 @@ export default function NewsletterPage() {
       >
         <div className="text-center max-w-3xl mx-auto leading-loose text-[1.05rem] font-serif text-gray-700 tracking-wider">
           <p className="mb-6">
-            As we step into this week, the cosmic atmosphere invites a profound shift.
-            On <b>October 13</b>, two major transits — <b>Venus entering Libra</b> and{" "}
-            <b>Pluto turning direct in Aquarius</b> — activate the energies of{" "}
-            <b>relationship, power, trust, and transformation</b>.<br />
-            This is not a casual week: it is a threshold.<br />
-            Let us move with <b>vulnerability and strength</b>, open to deeper
-            connection and greater clarity.
+            This week’s cosmic currents invite deep inner transmutation. On{" "}
+            <b>October 20</b>, <b>Mercury conjunct Mars in Scorpio</b> ignites
+            piercing honesty and courage in communication, while on{" "}
+            <b>October 21</b> the <b>New Moon in Libra</b> restores equilibrium
+            to hearts stretched by change. <br />
+            As light meets shadow, we are asked to speak truth and
+            surrender control — to find sacred balance in the fire of
+            transformation.
           </p>
-
           <p>
-            We enter a week of <b>relational rebirth</b> — where softness can be sure,
-            power gentle, and trust sacred.<br />
-            May your inner balance guide your outer dance.
+            May this week be your crucible of renewal: where clarity
+            replaces confusion, courage dissolves fear, and softness
+            becomes your strength.
           </p>
         </div>
       </motion.div>
@@ -72,128 +72,142 @@ export default function NewsletterPage() {
       {/* Sections */}
       {[
         {
-          title: "🌕 Celestial Balance",
-          yin: "Let your heart feel first; let your lips speak later.",
-          yang: "Let your words carry the weight of your inner truth.",
+          title: "🌕 Celestial Alchemy",
+          yin: "Let silence hold your truth before you release it.",
+          yang: "Speak not from impulse, but from insight.",
           content: (
             <>
               <p className="mt-4">
-                <b>Astrological Events:</b><br />
-                • On <b>October 13</b>, <b>Venus enters Libra</b>, opening the door to graceful relating, harmony, and reclamation of beauty in connection.<br />
-                • Also on <b>October 13</b>, <b>Pluto stations direct</b> at ~1° Aquarius, ending a 5-month retrograde and releasing transformative power into forward motion.<br />
-                • On <b>October 14</b>, Venus opposes Neptune (ideal love vs reality) and trines Uranus + Pluto (flashes of relational insight).<br />
-                • Midweek (Oct 16–17), <b>Mars & Mercury trine the North Node</b>, supporting aligned action and communication.<br />
-                • On <b>October 17</b>, <b>Sun squares Jupiter</b> — expansive yet overreaching energy.<br />
-                • <b>Oct 17–18</b>: Sun opposes Chiron — healing through vulnerability in relationships.<br />
+                <b>Astrological Highlights:</b><br />
+                • <b>Oct 20 – Mercury conjunct Mars in Scorpio</b>: mental fire,
+                decisive speech, and courage to confront truth.<br />
+                • <b>Oct 21 – New Moon in Libra</b>: recalibration of harmony,
+                fairness, and heartfelt connection.<br />
+                • <b>Oct 22 – Sun enters Scorpio</b>: the descent into depth and
+                regeneration begins.<br />
+                • <b>Oct 24–25</b>: Moon conjunct Venus in Libra softens edges,
+                opening intimacy after clarity.<br />
               </p>
               <p className="mt-4">
                 <b>Reflections:</b><br />
-                • In your closest relationships, where does idealism blind you?<br />
-                • Where is power unmet by tenderness?<br />
-                • What trust do you long to rebuild or reimagine?
+                • Where are you still afraid to speak your full truth?<br />
+                • Which relationship mirrors your own unhealed patterns?<br />
+                • Can honesty become a bridge instead of a weapon?
               </p>
               <p className="mt-4">
                 <b>Rituals:</b><br />
-                • On Oct 13, pause at sunrise and set the intention: <i>“I invite harmony, I speak truth.”</i><br />
-                • Midweek, write a dialog between your youthful heart and your present wisdom—permit both to speak.<br />
-                • At week’s end, draw a mandala of relational balance (yin + yang forces) and sit with it in silence.
+                • Write a letter you’ll never send — release unspoken words.<br />
+                • During the New Moon, light one white and one black candle
+                  beside a mirror: whisper what balance means to you.<br />
+                • End the week with a water-based ritual — a bath, a river, a
+                  simple bowl — to symbolize rebirth.
               </p>
             </>
           ),
         },
         {
-          title: "💗 Wellness in Flow",
-          yin: "Let your nervous system rest in the quiet between heartbeats.",
-          yang: "Let your body speak in movement aligned with your center.",
+          title: "💗 Wellness & Vital Flow",
+          yin: "Let still waters cleanse your nervous system.",
+          yang: "Let movement circulate that renewal through every cell.",
           content: (
             <>
               <p className="mt-4">
-                Begin each day with <b>5 slow heart-centered breaths</b>. As Venus blesses Libra, let beauty guide your movement: flowing yoga, dance, or tai chi. Let your body be an art form.
+                This week, merge detox with nourishment. Choose grounding foods:
+                beetroot, turmeric, ginger, and dark leafy greens. Drink warm
+                lemon water + a pinch of cinnamon at dawn to awaken inner fire
+                gently.
               </p>
               <p className="mt-4">
-                For nourishment: include fresh greens, pomegranate, olive oil, seeds. Cultivate bites of beauty—herbs, edible flowers, colorful plates. At night, practice <b>coherent breathing</b> (inhale ~5, exhale ~5) to ground body and emotion.
+                In movement, prefer slow flow yoga or walking meditations near
+                water. The Scorpio current asks for presence over intensity.
+                Move like liquid light through resistance.
               </p>
             </>
           ),
         },
         {
           title: "🌿 Rest & Renewal",
-          yin: "Let rest be your altar — guard it tenderly.",
-          yang: "Let your boundaries protect your peace.",
+          yin: "Let darkness cradle your light.",
+          yang: "Let release become your restoration.",
           content: (
             <>
               <p className="mt-4">
-                As Pluto shifts direct, deep sediments may stir. Offer yourself longer pauses, soft baths, moonlit journaling. Use moonstone, amethyst, or selenite in your resting space.
+                With the Sun shifting into Scorpio, sleep carries symbolic
+                weight. Keep your room dim, cool, and free of digital light.
+                Journal before bed to clear the mind’s surface ripples.
               </p>
               <p className="mt-4">
-                Create a nightly ritual: dim lights, herbal teas (lavender, passionflower), write three things you release and three you intend to invite. Then rest, knowing transformation works beneath.
+                Use lavender, vetiver, or myrrh essential oils to anchor your
+                breath. Each exhale is an exorcism of stress; each inhale a
+                quiet homecoming.
               </p>
             </>
           ),
         },
         {
-          title: "✨ Abundance in Balance",
-          yin: "Receive energy and value in honest ways.",
-          yang: "Offer with integrity, not overreach.",
+          title: "✨ Abundance in Equilibrium",
+          yin: "Receive by relaxing, not by reaching.",
+          yang: "Give with precision, not pressure.",
           content: (
             <>
               <p className="mt-4">
-                Venus in Libra awakens the art of equitable exchange. This week, notice where you overgive or undersell your value. Rebalance: receive openly, give from grounded purpose.
+                The New Moon in Libra reminds us that abundance follows
+                alignment. Balance your books and your energies — notice where
+                giving drains you and where receiving feels unsafe.
               </p>
               <p className="mt-4">
-                In finances, hold off on risky leaps until clarity deepens (especially early in the week). Later, look for inspired opportunities in relational ventures or creative collaboration.
-              </p>
-              <p className="mt-4 italic">
-                “I attract in beauty; I act in truth.”
+                Mid-week insights may inspire new partnerships or collaborations.
+                Say yes only if the exchange feels reciprocal. Trust that less can be more.
               </p>
             </>
           ),
         },
         {
           title: "🧘 Stillness & Power",
-          yin: "Be still; let insight rise from the depths.",
-          yang: "Let your actions root from that stillness.",
+          yin: "Enter your depth without fear.",
+          yang: "Emerge with clarity, not ego.",
           content: (
             <>
               <p className="mt-4">
-                Meditate with imagery of <b>lavender & steel</b> — softness meeting strength. Let whatever surfaces be witnessed without judgment.
+                Meditate on the symbol of the phoenix — breathing light into the
+                ashes of what was. Let the breath rise and fall like wings.
               </p>
               <p className="mt-4">
-                <b>Affirm:</b> “My voice is both gentle and exact.”<br />
-                “I move in alignment; I attract with integrity.”
-              </p>
-              <p className="mt-4">
-                <b>Prompt:</b> In your inner leadership this week, where is there room for more listening, and where must you speak even if it feels risky?
+                <b>Affirm:</b> “I transform through truth; I create through peace.”<br />
+                <b>Prompt:</b> What truth about yourself are you ready to honor without defense?
               </p>
             </>
           ),
         },
         {
           title: "🌟 Sacred Affirmation",
-          yin: "Whisper into your being until it blossoms.",
-          yang: "Let your life echo that whisper loud.",
+          yin: "Whisper forgiveness into your bones.",
+          yang: "Act from the grace of that forgiveness.",
           content: (
             <>
               <p className="mt-4 italic">
-                “In love, power, vulnerability — I stand in both grace and strength.”
+                “I am both shadow and light — and I walk home whole.”
               </p>
               <p className="mt-4">
-                Speak it daily, especially before relational encounters. Let it anchor your boundaries, your tone, your presence.
+                Speak this each morning as you stretch or breathe. Let it soften
+                guilt and anchor self-trust.
               </p>
             </>
           ),
         },
         {
           title: "🔮 A Final Whisper",
-          yin: "Let beauty draw you in; let truth steady your step.",
-          yang: "Move with courage from the devotional center within.",
+          yin: "Let the embers of the past warm you, not burn you.",
+          yang: "Step into the fire of truth and emerge as gold.",
           content: (
             <>
               <p className="mt-4 italic">
-                “Relational rebirth is my invitation, integrity my compass.”
+                “From shadow to light, from fear to faith — I am renewed.”
               </p>
               <p className="mt-4">
-                Venus in Libra re-tunes our relational frequency toward harmony. Pluto direct releases us from hidden binds. This week asks: <b>can you hold tenderness and resolve simultaneously?</b> Let the dance begin.
+                The New Moon resets our relational and inner harmony. Mercury +
+                Mars in Scorpio teach bravery in truth. Let honesty be your alchemy and
+                stillness your power.
               </p>
             </>
           ),
@@ -203,7 +217,6 @@ export default function NewsletterPage() {
           <section
             key={idx}
             className="bg-white/60 backdrop-blur-sm rounded-2xl shadow-md p-6 space-y-3 border border-[#e6c79244] text-center font-serif text-gray-700 tracking-wider leading-loose"
-
           >
             <h2 className="text-2xl font-semibold text-center">{section.title}</h2>
             <p><b>Yin (Sacred Feminine):</b> {section.yin}</p>
@@ -218,7 +231,6 @@ export default function NewsletterPage() {
             animate="visible"
             transition={{ duration: 0.8, delay: idx * 0.2 }}
             className="bg-white/60 backdrop-blur-sm rounded-2xl shadow-md p-6 space-y-3 border border-[#e6c79244] text-center font-serif text-gray-700 tracking-wider leading-loose"
-
           >
             <h2 className="text-2xl font-semibold text-center">{section.title}</h2>
             <p><b>Yin (Sacred Feminine):</b> {section.yin}</p>
@@ -232,13 +244,9 @@ export default function NewsletterPage() {
       <motion.div
         className="no-print fixed bottom-6 right-6 w-14 h-14 rounded-full bg-gradient-to-tr from-[#f9f5e6] to-[#1c1b2b] shadow-lg flex items-center justify-center border border-[#e6c792]/70"
         animate={{ rotate: 360 }}
-        transition={{ repeat: Infinity, duration: 30, ease: "linear" }}
+        transition={{ repeat: Infinity, duration: 30, ease: 'linear' }}
       >
-        <svg
-          viewBox="0 0 100 100"
-          className="w-10 h-10 pointer-events-none"
-          xmlns="http://www.w3.org/2000/svg"
-        >
+        <svg viewBox="0 0 100 100" className="w-10 h-10 pointer-events-none">
           <circle cx="50" cy="50" r="50" fill="#000" />
           <path
             d="M50 0 A50 50 0 0 1 50 100 A25 25 0 0 0 50 50 A25 25 0 0 1 50 0 Z"
@@ -249,14 +257,10 @@ export default function NewsletterPage() {
         </svg>
       </motion.div>
 
-      {/* 🌿 Footer */}
+      {/* Footer + Print Button */}
       <footer className="print-only">
         Visit us at{" "}
-        <a
-          href="https://360harmonyhub.netlify.app"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
+        <a href="https://360harmonyhub.netlify.app" target="_blank" rel="noopener noreferrer">
           360harmonyhub.netlify.app
         </a>
       </footer>
