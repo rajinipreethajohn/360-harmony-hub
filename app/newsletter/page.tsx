@@ -24,7 +24,7 @@ export default function NewsletterPage() {
         </h1>
 
         <h2 className="text-2xl font-serif text-gray-800 mb-1">
-          October 20 – 26, 2025
+          October 27 – November 2, 2025
         </h2>
 
         <p className="italic text-sm text-gray-600 tracking-wide my-6">
@@ -32,14 +32,13 @@ export default function NewsletterPage() {
         </p>
 
         <p className="italic text-lg text-gray-700">
-          Theme: <b>Inner Alchemy — Transforming Shadow into Light</b>
+          Theme: <b>Emergent Truth — Clarity in the Depths of Scorpio</b>
         </p>
       </motion.div>
 
       {/* 💡 PDF note */}
       <p className="text-center text-sm italic text-gray-600 mt-6 no-print">
-        💡 To save this week’s edition, scroll to the end and click{" "}
-        <b>“Download as PDF.”</b>
+        💡 To save this week’s edition, scroll to the end and click <b>“Download as PDF.”</b>
       </p>
 
       {/* Intro */}
@@ -52,19 +51,11 @@ export default function NewsletterPage() {
       >
         <div className="text-center max-w-3xl mx-auto leading-loose text-[1.05rem] font-serif text-gray-700 tracking-wider">
           <p className="mb-6">
-            This week’s cosmic currents invite deep inner transmutation. On{" "}
-            <b>October 20</b>, <b>Mercury conjunct Mars in Scorpio</b> ignites
-            piercing honesty and courage in communication, while on{" "}
-            <b>October 21</b> the <b>New Moon in Libra</b> restores equilibrium
-            to hearts stretched by change. <br />
-            As light meets shadow, we are asked to speak truth and
-            surrender control — to find sacred balance in the fire of
-            transformation.
+            This week opens under a <b>deep Scorpio influence</b>. On <b>October 29</b>, <b>Mercury enters Sagittarius</b>, inviting <b>truth to travel freely</b> and <b>intentions to be anchored in hope</b>. Meanwhile, the tone of transformation remains potent — you are called to move from <b>hidden knowing</b> into <b>articulate clarity</b>.<br />
+            As <b>boundaries dissolve</b> and <b>authenticity rises</b>, may you emerge renewed — speaking from depth and living with aligned purpose.
           </p>
           <p>
-            May this week be your crucible of renewal: where clarity
-            replaces confusion, courage dissolves fear, and softness
-            becomes your strength.
+            Let this week be your <b>channel of clarity</b> — where <b>silence becomes voice</b>, <b>alignment births action</b>, and your <b>inner power</b> becomes outward expression.
           </p>
         </div>
       </motion.div>
@@ -72,142 +63,119 @@ export default function NewsletterPage() {
       {/* Sections */}
       {[
         {
-          title: "🌕 Celestial Alchemy",
-          yin: "Let silence hold your truth before you release it.",
-          yang: "Speak not from impulse, but from insight.",
+          title: "🌕 Celestial Flow",
+          yin: "Let the undercurrents speak before the surface stirs.",
+          yang: "Let your words reflect the depth of your felt experience.",
           content: (
             <>
               <p className="mt-4">
                 <b>Astrological Highlights:</b><br />
-                • <b>Oct 20 – Mercury conjunct Mars in Scorpio</b>: mental fire,
-                decisive speech, and courage to confront truth.<br />
-                • <b>Oct 21 – New Moon in Libra</b>: recalibration of harmony,
-                fairness, and heartfelt connection.<br />
-                • <b>Oct 22 – Sun enters Scorpio</b>: the descent into depth and
-                regeneration begins.<br />
-                • <b>Oct 24–25</b>: Moon conjunct Venus in Libra softens edges,
-                opening intimacy after clarity.<br />
+                • <b>Oct 29 – Mercury enters Sagittarius</b>: communication expands in <b>optimism and truth</b>.<br />
+                • <b>Sun, Mars & Pluto in Scorpio</b> continue their <b>transformational run</b> — from <b>shadow</b> to <b>phoenix flight</b>.<br />
+                • <b>Oct 31 – Waxing Gibbous Moon in Pisces</b>: inviting <b>mystery</b>, <b>release</b>, and <b>creative surrender</b>.
               </p>
               <p className="mt-4">
                 <b>Reflections:</b><br />
-                • Where are you still afraid to speak your full truth?<br />
-                • Which relationship mirrors your own unhealed patterns?<br />
-                • Can honesty become a bridge instead of a weapon?
+                • What truth have you been avoiding because your <b>voice was too soft</b>?<br />
+                • Where is your <b>inner world</b> asking to be translated into <b>expression</b>?<br />
+                • Can your <b>shadow become your message</b> instead of your secret?
               </p>
               <p className="mt-4">
                 <b>Rituals:</b><br />
-                • Write a letter you’ll never send — release unspoken words.<br />
-                • During the New Moon, light one white and one black candle
-                  beside a mirror: whisper what balance means to you.<br />
-                • End the week with a water-based ritual — a bath, a river, a
-                  simple bowl — to symbolize rebirth.
+                • On <b>October 29</b>, write one sentence you’ve held in silence — read it aloud at sunrise.<br />
+                • On the night of <b>October 31</b>, light one black and one silver candle and whisper: <i>“I release what hides; I receive what emerges.”</i><br />
+                • In your journal, trace the line between what you feel and what you say — <b>notice the gap</b> and <b>step through it</b>.
               </p>
             </>
           ),
         },
         {
           title: "💗 Wellness & Vital Flow",
-          yin: "Let still waters cleanse your nervous system.",
-          yang: "Let movement circulate that renewal through every cell.",
+          yin: "Let your breath soften the tension; let your motion flow the truth.",
+          yang: "Let your body express the clarity your mind births.",
           content: (
             <>
               <p className="mt-4">
-                This week, merge detox with nourishment. Choose grounding foods:
-                beetroot, turmeric, ginger, and dark leafy greens. Drink warm
-                lemon water + a pinch of cinnamon at dawn to awaken inner fire
-                gently.
+                As <b>Scorpio energies deepen</b>, choose <b>restorative movement</b>: yin yoga, slow pranayama, and long exhalations. Nourish yourself with <b>wild rice</b>, <b>mushrooms</b>, <b>selenium-rich Brazil nuts</b>, and <b>deeply hydrating greens</b>.
               </p>
               <p className="mt-4">
-                In movement, prefer slow flow yoga or walking meditations near
-                water. The Scorpio current asks for presence over intensity.
-                Move like liquid light through resistance.
+                On <b>October 30</b>, aim for a <b>silent walk by water</b> — let your nervous system integrate the subtle charge of transformation. Later in the week, use shorter, grounded <b>strength practices</b> (body-weight or kettlebells) to stabilize the fire you’ve stirred.
               </p>
             </>
           ),
         },
         {
           title: "🌿 Rest & Renewal",
-          yin: "Let darkness cradle your light.",
-          yang: "Let release become your restoration.",
+          yin: "Let the depth of your stillness mirror the magnitude of your growth.",
+          yang: "Let boundaries protect your rest so your roots can rebuild.",
           content: (
             <>
               <p className="mt-4">
-                With the Sun shifting into Scorpio, sleep carries symbolic
-                weight. Keep your room dim, cool, and free of digital light.
-                Journal before bed to clear the mind’s surface ripples.
+                With the <b>intensity of Scorpio season</b>, your system needs <b>sanctuary</b>. Prioritize <b>7–8 hours of rest</b>. Dim lights after 8 pm; use amber filters if screens remain. Journal what stillness brings rather than what motion takes.
               </p>
               <p className="mt-4">
-                Use lavender, vetiver, or myrrh essential oils to anchor your
-                breath. Each exhale is an exorcism of stress; each inhale a
-                quiet homecoming.
+                At bedtime, choose one of two rituals: a <b>salt bath</b> followed by 10 minutes of <b>alternate-nostril breathing</b>, or a <b>sound bath</b> with soft hums. Let the night <b>soften the edges</b> of your transformation.
               </p>
             </>
           ),
         },
         {
-          title: "✨ Abundance in Equilibrium",
-          yin: "Receive by relaxing, not by reaching.",
-          yang: "Give with precision, not pressure.",
+          title: "✨ Abundance in Alignment",
+          yin: "Receive the shift without over-structuring it.",
+          yang: "Act from insight, not urgency.",
           content: (
             <>
               <p className="mt-4">
-                The New Moon in Libra reminds us that abundance follows
-                alignment. Balance your books and your energies — notice where
-                giving drains you and where receiving feels unsafe.
+                <b>Mercury in Sagittarius</b> opens <b>new pathways</b> — stay alert to <b>messages and invitations</b> that feel meaningful, not rushed. Financially, <b>revisit joint commitments</b> from Libra season; <b>clarity prevents regret</b>.
               </p>
               <p className="mt-4">
-                Mid-week insights may inspire new partnerships or collaborations.
-                Say yes only if the exchange feels reciprocal. Trust that less can be more.
+                Trust the <b>slow build</b>. This is not a sprint but a refinement of power. Choose one <b>aligned collaboration</b> — not because it dazzles, but because it endures.
               </p>
             </>
           ),
         },
         {
           title: "🧘 Stillness & Power",
-          yin: "Enter your depth without fear.",
-          yang: "Emerge with clarity, not ego.",
+          yin: "Sink into the depth of your knowing before you rise into your voice.",
+          yang: "Let your emergence be the ripple, not the storm.",
           content: (
             <>
               <p className="mt-4">
-                Meditate on the symbol of the phoenix — breathing light into the
-                ashes of what was. Let the breath rise and fall like wings.
+                Meditate on the image of the <b>phoenix rising from the sea</b> — dark water, silver flame. Let <b>stillness become fire</b> within your chest. Each inhale calls power in; each exhale releases what no longer aligns.
               </p>
               <p className="mt-4">
-                <b>Affirm:</b> “I transform through truth; I create through peace.”<br />
-                <b>Prompt:</b> What truth about yourself are you ready to honor without defense?
+                <b>Affirm:</b> “I emerge not from haste but from depth.”<br />
+                <b>Prompt:</b> Where will you take your <b>first quiet step of emergence</b> this week?
               </p>
             </>
           ),
         },
         {
           title: "🌟 Sacred Affirmation",
-          yin: "Whisper forgiveness into your bones.",
-          yang: "Act from the grace of that forgiveness.",
+          yin: "Let the roots of your truth stretch quietly beneath the soil.",
+          yang: "Let your presence be the signal, not just the message.",
           content: (
             <>
               <p className="mt-4 italic">
-                “I am both shadow and light — and I walk home whole.”
+                “From shadowed whisper to radiant clarity — I rise in my own light.”
               </p>
               <p className="mt-4">
-                Speak this each morning as you stretch or breathe. Let it soften
-                guilt and anchor self-trust.
+                Speak this each morning as you sip water or breathe in stillness. Let it be your <b>anchor of self-trust</b> and your <b>foundation for courage</b>.
               </p>
             </>
           ),
         },
         {
           title: "🔮 A Final Whisper",
-          yin: "Let the embers of the past warm you, not burn you.",
-          yang: "Step into the fire of truth and emerge as gold.",
+          yin: "Let the hidden parts of you become the next chapter of your story.",
+          yang: "Let your story lead with integrity, not urgency.",
           content: (
             <>
               <p className="mt-4 italic">
-                “From shadow to light, from fear to faith — I am renewed.”
+                “This week I step from beneath into beyond — aligned, anchored, and alive.”
               </p>
               <p className="mt-4">
-                The New Moon resets our relational and inner harmony. Mercury +
-                Mars in Scorpio teach bravery in truth. Let honesty be your alchemy and
-                stillness your power.
+                As we move deeper into <b>Scorpio season</b> and <b>Mercury’s voyage into Sagittarius</b> begins, your task is not merely to transform — it is to <b>emerge</b>. Let your <b>inner truth</b> become your <b>outer path</b>.
               </p>
             </>
           ),
@@ -244,7 +212,7 @@ export default function NewsletterPage() {
       <motion.div
         className="no-print fixed bottom-6 right-6 w-14 h-14 rounded-full bg-gradient-to-tr from-[#f9f5e6] to-[#1c1b2b] shadow-lg flex items-center justify-center border border-[#e6c792]/70"
         animate={{ rotate: 360 }}
-        transition={{ repeat: Infinity, duration: 30, ease: 'linear' }}
+        transition={{ repeat: Infinity, duration: 30, ease: "linear" }}
       >
         <svg viewBox="0 0 100 100" className="w-10 h-10 pointer-events-none">
           <circle cx="50" cy="50" r="50" fill="#000" />
