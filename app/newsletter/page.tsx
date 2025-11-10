@@ -24,7 +24,7 @@ export default function NewsletterPage() {
         </h1>
 
         <h2 className="text-2xl font-serif text-gray-800 mb-1">
-          November 3 – November 9, 2025
+          November 10 – November 16, 2025
         </h2>
 
         <p className="italic text-sm text-gray-600 tracking-wide my-6">
@@ -35,7 +35,7 @@ export default function NewsletterPage() {
         <p className="italic text-lg text-gray-700">
           Theme:{" "}
           <b>
-            Transformation and Expansion — Embrace New Horizons in Scorpio
+            Deepening Roots — Cultivating Stability and Inner Power in Scorpio
             Season
           </b>
         </p>
@@ -57,21 +57,20 @@ export default function NewsletterPage() {
       >
         <div className="text-center max-w-3xl mx-auto leading-loose text-[1.05rem] font-serif text-gray-700 tracking-wider">
           <p className="mb-6">
-            This week opens under the expansive energy of{" "}
-            <b>Mars entering Sagittarius</b> on <b>November 4</b>, igniting
-            motivation and passion to explore new horizons. The{" "}
-            <b>Full Moon in Taurus</b> on <b>November 5</b> grounds our
-            intentions in stability, while <b>Venus enters Scorpio</b> on{" "}
-            <b>November 6</b>, deepening emotional connections and authentic
-            intimacy.
+            This week the transformative energy of <b>Scorpio season</b> deepens
+            as <b>Mercury retrogrades in Sagittarius</b> until November 15,
+            inviting reflection and recalibration. The{" "}
+            <b>New Moon in Scorpio</b> on November 12 fuels potent
+            intention-setting and emotional renewal.
             <br />
-            As you navigate these celestial shifts, focus on expanding your
-            vision while staying rooted in your core values.
+            Ground yourself in <b>stability and inner power</b> as you navigate
+            these energies — embracing the depth of transformation with patience
+            and self-compassion.
           </p>
           <p>
-            Let this week be a powerful period of{" "}
-            <b>transformation, growth, and alignment</b> — where your passion
-            fuels purposeful action and your relationships deepen in meaning.
+            Let this week be a time to <b>nurture your roots</b>, clear
+            emotional clutter, and cultivate resilience for the unfolding path
+            ahead.
           </p>
         </div>
       </motion.div>
@@ -80,151 +79,145 @@ export default function NewsletterPage() {
       {[
         {
           title: "🌕 Celestial Flow",
-          yin: "Let the expansive fire guide your spirit’s quest.",
-          yang: "Let your actions be bold yet grounded.",
+          yin: "Let the stillness deepen your knowing.",
+          yang: "Let your presence carry quiet strength.",
           content: (
             <>
               <p className="mt-4">
                 <b>Astrological Highlights:</b>
-                <br />- <b>Nov 4 – Mars enters Sagittarius</b>: motivation soars
-                with adventurous energy.
-                <br />- <b>Nov 5 – Full Moon in Taurus</b>: focus on stability,
-                finance, and sensual grounding.
-                <br />- <b>Nov 6 – Venus enters Scorpio</b>: emotional depth and
-                transformative love deepen relationships.
+                <br />- <b>Nov 11 – Mercury retrograde in Sagittarius</b>{" "}
+                encourages review and inner clarity.
+                <br />- <b>Nov 12 – New Moon in Scorpio</b> supports deep
+                emotional resets and fresh intentions.
+                <br />- <b>Nov 14 – Mars enters Capricorn</b>, grounding passion
+                into structured ambition.
               </p>
               <p className="mt-4">
                 <b>Reflections:</b>
                 <br />
-                - What bold step are you ready to take that aligns with your
-                true values?
+                - What old patterns are you ready to release for deeper growth?
                 <br />
-                - How can grounding your intentions create lasting growth?
-                <br />- Where can deeper emotional connection bring healing and
-                transformation?
+                - How can stillness invite clarity in your transformational
+                process?
+                <br />- Where in your life is it time to build stronger
+                foundations?
               </p>
               <p className="mt-4">
                 <b>Rituals:</b>
-                <br />- On <b>November 4</b>, set an intention for fearless
-                exploration—write it and revisit throughout the week.
-                <br />- On <b>November 5</b>, ground yourself with a mindful
-                meditation focused on stability.
-                <br />- On <b>November 6</b>, express gratitude for deep
-                connections by lighting a candle and reflecting on loved ones.
+                <br />- On <b>November 12</b>, write intentions for renewal —
+                read and revisit them after one moon cycle.
+                <br />
+                - Meditate each morning on releasing emotional clutter.
+                <br />- On <b>November 14</b>, set a practical goal to organize
+                and structure a personal or professional project.
               </p>
             </>
           ),
         },
         {
           title: "💗 Wellness & Vital Flow",
-          yin: "Let your breath expand with new energy.",
-          yang: "Let your body move with intention and joy.",
+          yin: "Let your breath steady the depths within.",
+          yang: "Let movement stabilize your emerging strength.",
           content: (
             <>
               <p className="mt-4">
-                With the celestial energy expanding, focus on nourishing your
-                body with <b>hydrating foods</b>, <b>vitamin D</b>, and{" "}
-                <b>grounding herbs</b>. Incorporate mindful movement practices
-                such as <b>yoga</b> or <b>tai chi</b> to balance your energetic
-                flow.
+                Focus on grounding practices: restorative yoga, deep
+                diaphragmatic breathing, and nourishing warm foods like root
+                vegetables and hearty soups.
               </p>
               <p className="mt-4">
-                Schedule time in nature to connect with the grounding energy of
-                earth as the season shifts. Practice gratitude journaling to
-                align body and mind with abundance.
+                Spend time in nature to connect with earth energy and support
+                emotional balance. Prioritize hydration and gentle stretching to
+                align body and mind.
               </p>
             </>
           ),
         },
         {
           title: "🌿 Rest & Renewal",
-          yin: "Let stillness nurture your roots deeply.",
+          yin: "Let quiet moments replenish your core.",
           yang: "Let restful boundaries protect your growth.",
           content: (
             <>
               <p className="mt-4">
-                Prioritize sleep with calming evening routines—dim lights after
-                8 pm and consider using amber light filters if using screens. A
-                salt bath or sound bath can offer deep restoration and help
-                release tension.
+                Embrace early nights and calming rituals such as herbal teas and
+                sound baths. Dim lights after 8 pm and limit screen time to
+                support restful sleep.
               </p>
               <p className="mt-4">
-                Practice gentle breathing exercises before sleep to calm the
-                nervous system and invite restorative rest.
+                Try gentle self-massage or warm baths infused with calming herbs
+                to soothe tension and deepen relaxation.
               </p>
             </>
           ),
         },
         {
           title: "✨ Abundance in Alignment",
-          yin: "Receive with openness and patience.",
-          yang: "Act with clarity and strategic intent.",
+          yin: "Receive with trust and gentle patience.",
+          yang: "Act with mindful intention and long-term vision.",
           content: (
             <>
               <p className="mt-4">
-                Use this week to recalibrate your financial goals under the
-                grounding Full Moon energies. Practice patience and long-term
-                planning—avoid impulsive financial decisions and focus on
-                sustainable growth.
+                Use this time to review your financial plans honestly and
+                recalibrate for sustainable growth. Mercury retrograde reminds
+                us to check the details and avoid rushing decisions.
               </p>
               <p className="mt-4">
-                Collaborate thoughtfully and seek harmony in joint ventures.
-                Trust the slow, steady pace of aligned abundance.
+                Seek alignment in collaborations — shared values build steady
+                prosperity.
               </p>
             </>
           ),
         },
         {
           title: "🧘 Stillness & Power",
-          yin: "Sink into the quiet strength within.",
-          yang: "Let your presence radiate calm confidence.",
+          yin: "Sink deeply into your inner sanctuary.",
+          yang: "Let calm presence radiate quiet confidence.",
           content: (
             <>
               <p className="mt-4">
-                Visualize yourself rooted like a sturdy tree—grounded yet
-                reaching upward. Use meditation to anchor your strength and
-                clarity amidst expansion.
+                Visualize grounding like deep roots extending into earth,
+                stabilizing your power. Use meditation and breathwork to connect
+                to your inner strength and wisdom.
               </p>
               <p className="mt-4">
-                <b>Affirm:</b> “I expand with grace and stand firm in my truth.”
+                <b>Affirm:</b> “I cultivate resilience through patience and
+                presence.”
                 <br />
-                <b>Prompt:</b> What is one area this week where you can embody
-                both strength and openness?
+                <b>Prompt:</b> Where will you anchor your energy this week to
+                build lasting strength?
               </p>
             </>
           ),
         },
         {
           title: "🌟 Sacred Affirmation",
-          yin: "Let your spirit unfold gently like a blooming flower.",
-          yang: "Let your actions reflect your deepest values.",
+          yin: "Let your soul’s depth be your guiding light.",
+          yang: "Let your actions reflect grounded wisdom.",
           content: (
             <>
               <p className="mt-4 italic">
-                “I embrace change with grace, and my spirit expands with
-                clarity.”
+                “In stillness, I find strength; in patience, I grow.”
               </p>
               <p className="mt-4">
-                Repeat this affirmation each morning to center your intentions
-                and energize your day.
+                Repeat this affirmation daily to anchor your week in calm power.
               </p>
             </>
           ),
         },
         {
           title: "🔮 A Final Whisper",
-          yin: "Let transformation be your guide.",
-          yang: "Let expansion be your compass.",
+          yin: "Let roots grow deep before reaching skyward.",
+          yang: "Let your journey unfold with steady courage.",
           content: (
             <>
               <p className="mt-4 italic">
-                “This week I step boldly into new horizons — anchored, aligned,
-                and alive.”
+                “This week, I ground myself fully — anchored, aligned, and ready
+                to rise.”
               </p>
               <p className="mt-4">
-                As we journey deeper into <b>Scorpio season</b> and welcome new
-                fire with <b>Mars in Sagittarius</b>, open your heart to
-                transformation and the unknown.
+                As <b>Scorpio season</b> deepens and <b>Mercury retrogrades</b>,
+                honor the power of slow, steady transformation.
               </p>
             </>
           ),
