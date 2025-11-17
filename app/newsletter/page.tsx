@@ -24,7 +24,7 @@ export default function NewsletterPage() {
         </h1>
 
         <h2 className="text-2xl font-serif text-gray-800 mb-1">
-          November 10 – November 16, 2025
+          November 17 – November 23, 2025
         </h2>
 
         <p className="italic text-sm text-gray-600 tracking-wide my-6">
@@ -35,7 +35,7 @@ export default function NewsletterPage() {
         <p className="italic text-lg text-gray-700">
           Theme:{" "}
           <b>
-            Deepening Roots — Cultivating Stability and Inner Power in Scorpio
+            Harvesting Wisdom — Integration and Renewal in the Wake of Scorpio
             Season
           </b>
         </p>
@@ -57,20 +57,18 @@ export default function NewsletterPage() {
       >
         <div className="text-center max-w-3xl mx-auto leading-loose text-[1.05rem] font-serif text-gray-700 tracking-wider">
           <p className="mb-6">
-            This week the transformative energy of <b>Scorpio season</b> deepens
-            as <b>Mercury retrogrades in Sagittarius</b> until November 15,
-            inviting reflection and recalibration. The{" "}
-            <b>New Moon in Scorpio</b> on November 12 fuels potent
-            intention-setting and emotional renewal.
+            As <b>Scorpio season draws to a close</b>, the week invites you to{" "}
+            <b>integrate deep insights</b> and <b>harvest the wisdom</b> from
+            recent transformations. With{" "}
+            <b>Mercury direct motion resuming on November 16</b>, clarity and
+            forward momentum return.
             <br />
-            Ground yourself in <b>stability and inner power</b> as you navigate
-            these energies — embracing the depth of transformation with patience
-            and self-compassion.
+            Embrace this time to renew your emotional foundations and prepare
+            for new cycles of growth.
           </p>
           <p>
-            Let this week be a time to <b>nurture your roots</b>, clear
-            emotional clutter, and cultivate resilience for the unfolding path
-            ahead.
+            May this week be a sacred container for{" "}
+            <b>reflection, gratitude, and grounded renewal.</b>
           </p>
         </div>
       </motion.div>
@@ -79,145 +77,141 @@ export default function NewsletterPage() {
       {[
         {
           title: "🌕 Celestial Flow",
-          yin: "Let the stillness deepen your knowing.",
-          yang: "Let your presence carry quiet strength.",
+          yin: "Let quiet insight soak deeply into your spirit.",
+          yang: "Let renewed clarity inform your bold steps forward.",
           content: (
             <>
               <p className="mt-4">
                 <b>Astrological Highlights:</b>
-                <br />- <b>Nov 11 – Mercury retrograde in Sagittarius</b>{" "}
-                encourages review and inner clarity.
-                <br />- <b>Nov 12 – New Moon in Scorpio</b> supports deep
-                emotional resets and fresh intentions.
-                <br />- <b>Nov 14 – Mars enters Capricorn</b>, grounding passion
-                into structured ambition.
+                <br />- <b>Nov 16 – Mercury goes direct in Sagittarius</b>,
+                releasing retrograde tensions.
+                <br />- <b>Nov 18 – Venus enters Sagittarius</b> bringing
+                adventurous and expansive love energy.
+                <br />- <b>Nov 19 – Sun enters Sagittarius</b> igniting optimism
+                and expansive vision.
               </p>
               <p className="mt-4">
                 <b>Reflections:</b>
                 <br />
-                - What old patterns are you ready to release for deeper growth?
+                - What new insights are ready to guide your next steps?
                 <br />
-                - How can stillness invite clarity in your transformational
-                process?
-                <br />- Where in your life is it time to build stronger
-                foundations?
+                - How can you embody both grounded roots and soaring vision?
+                <br />- Where does your heart seek expansion and joy?
               </p>
               <p className="mt-4">
                 <b>Rituals:</b>
-                <br />- On <b>November 12</b>, write intentions for renewal —
-                read and revisit them after one moon cycle.
-                <br />
-                - Meditate each morning on releasing emotional clutter.
-                <br />- On <b>November 14</b>, set a practical goal to organize
-                and structure a personal or professional project.
+                <br />- On <b>November 16</b>, journal about lessons learned
+                during Mercury retrograde.
+                <br />- On <b>November 18</b>, set intentions for joyful
+                connection and exploration.
+                <br />- On <b>November 19</b>, spend time in nature envisioning
+                your next goals with optimism.
               </p>
             </>
           ),
         },
         {
           title: "💗 Wellness & Vital Flow",
-          yin: "Let your breath steady the depths within.",
-          yang: "Let movement stabilize your emerging strength.",
+          yin: "Let your breath open pathways of curiosity.",
+          yang: "Let movement inspire joy and discovery.",
           content: (
             <>
               <p className="mt-4">
-                Focus on grounding practices: restorative yoga, deep
-                diaphragmatic breathing, and nourishing warm foods like root
-                vegetables and hearty soups.
+                Focus on invigorating practices like dynamic yoga flows or
+                outdoor walks. Incorporate bright, seasonal foods such as
+                citrus, leafy greens, and warming spices to energize your body.
               </p>
               <p className="mt-4">
-                Spend time in nature to connect with earth energy and support
-                emotional balance. Prioritize hydration and gentle stretching to
-                align body and mind.
+                Cultivate playful movement and deep breathing to align vitality
+                with expanding horizons.
               </p>
             </>
           ),
         },
         {
           title: "🌿 Rest & Renewal",
-          yin: "Let quiet moments replenish your core.",
-          yang: "Let restful boundaries protect your growth.",
+          yin: "Let your body and mind relax fully into calm.",
+          yang: "Let restorative rest fuel inspired action.",
           content: (
             <>
               <p className="mt-4">
-                Embrace early nights and calming rituals such as herbal teas and
-                sound baths. Dim lights after 8 pm and limit screen time to
-                support restful sleep.
+                Prioritize restful sleep with grounding rituals like herbal teas
+                or calming music before bed. Consider gentle evening stretching
+                or meditation to ease transition from activity to rest.
               </p>
               <p className="mt-4">
-                Try gentle self-massage or warm baths infused with calming herbs
-                to soothe tension and deepen relaxation.
+                Allow yourself moments of quiet reflection to integrate the
+                week's experiences.
               </p>
             </>
           ),
         },
         {
           title: "✨ Abundance in Alignment",
-          yin: "Receive with trust and gentle patience.",
-          yang: "Act with mindful intention and long-term vision.",
+          yin: "Receive opportunities with open-hearted grace.",
+          yang: "Move forward with clarity and inspired intention.",
           content: (
             <>
               <p className="mt-4">
-                Use this time to review your financial plans honestly and
-                recalibrate for sustainable growth. Mercury retrograde reminds
-                us to check the details and avoid rushing decisions.
+                Mercury’s direct motion supports fresh perspectives on finances
+                and partnerships. Review and adjust goals with confidence,
+                trusting slow but steady progress.
               </p>
               <p className="mt-4">
-                Seek alignment in collaborations — shared values build steady
-                prosperity.
+                Embrace collaboration and new ideas that align with your
+                authentic vision.
               </p>
             </>
           ),
         },
         {
           title: "🧘 Stillness & Power",
-          yin: "Sink deeply into your inner sanctuary.",
-          yang: "Let calm presence radiate quiet confidence.",
+          yin: "Sink into deep wellsprings of calm wisdom.",
+          yang: "Radiate confidence grounded in quiet strength.",
           content: (
             <>
               <p className="mt-4">
-                Visualize grounding like deep roots extending into earth,
-                stabilizing your power. Use meditation and breathwork to connect
-                to your inner strength and wisdom.
+                Visualize yourself as a tree fully rooted yet reaching toward
+                the sun. Use meditation to balance inner calm with outward
+                energy.
               </p>
               <p className="mt-4">
-                <b>Affirm:</b> “I cultivate resilience through patience and
-                presence.”
+                <b>Affirm:</b> “I stand grounded, open, and ready for growth.”
                 <br />
-                <b>Prompt:</b> Where will you anchor your energy this week to
-                build lasting strength?
+                <b>Prompt:</b> How will you embody steady strength this week?
               </p>
             </>
           ),
         },
         {
           title: "🌟 Sacred Affirmation",
-          yin: "Let your soul’s depth be your guiding light.",
-          yang: "Let your actions reflect grounded wisdom.",
+          yin: "Let gratitude fill the depths of your being.",
+          yang: "Let your spirit soar on wings of renewed hope.",
           content: (
             <>
               <p className="mt-4 italic">
-                “In stillness, I find strength; in patience, I grow.”
+                “With open heart and grounded roots, I embrace the unfolding
+                journey.”
               </p>
               <p className="mt-4">
-                Repeat this affirmation daily to anchor your week in calm power.
+                Speak this daily to nurture both presence and expansion.
               </p>
             </>
           ),
         },
         {
           title: "🔮 A Final Whisper",
-          yin: "Let roots grow deep before reaching skyward.",
-          yang: "Let your journey unfold with steady courage.",
+          yin: "Let renewal be the soil of your next chapter.",
+          yang: "Let joy and clarity guide your rising steps.",
           content: (
             <>
               <p className="mt-4 italic">
-                “This week, I ground myself fully — anchored, aligned, and ready
-                to rise.”
+                “This week, I harvest wisdom and prepare to soar — anchored,
+                aligned, and alive.”
               </p>
               <p className="mt-4">
-                As <b>Scorpio season</b> deepens and <b>Mercury retrogrades</b>,
-                honor the power of slow, steady transformation.
+                As <b>Sagittarius energy</b> unfolds, welcome new visions with
+                open arms and a steady heart.
               </p>
             </>
           ),
