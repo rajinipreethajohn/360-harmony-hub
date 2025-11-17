@@ -141,7 +141,7 @@ export default function NewsletterPage() {
               </p>
               <p className="mt-4">
                 Allow yourself moments of quiet reflection to integrate the
-                week's experiences.
+                week&apos;s experiences.
               </p>
             </>
           ),
