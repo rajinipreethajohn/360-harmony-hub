@@ -24,7 +24,7 @@ export default function NewsletterPage() {
         </h1>
 
         <h2 className="text-2xl font-serif text-gray-800 mb-1">
-          November 24 – November 30, 2025
+          December 1 – December 7, 2025
         </h2>
 
         <p className="italic text-sm text-gray-600 tracking-wide my-6">
@@ -34,7 +34,9 @@ export default function NewsletterPage() {
 
         <p className="italic text-lg text-gray-700">
           Theme:{" "}
-          <b>Embracing Change — Wisdom and Renewal in the Sagittarius Season</b>
+          <b>
+            Embracing Reflection — Deepening Presence in Early Capricorn Energy
+          </b>
         </p>
       </motion.div>
 
@@ -54,17 +56,18 @@ export default function NewsletterPage() {
       >
         <div className="text-center max-w-3xl mx-auto leading-loose text-[1.05rem] font-serif text-gray-700 tracking-wider">
           <p className="mb-6">
-            As <b>Sagittarius season</b> unfolds, this week calls for embracing{" "}
-            <b>expansive growth</b> and <b>wisdom through change</b>. The
-            continuing glow of the <b>New Moon energy</b> invites a fresh start
-            in your vision, purpose, and connections.
+            As <b>December begins</b>, the Sun’s transit into{" "}
+            <b>Capricorn on December 3</b> invites us into a season of
+            discipline, presence, and steady growth. This week is perfect for
+            reflection on all that’s emerged so far this year and turning
+            intention into grounded action.
             <br />
-            Stand boldly in your truth and open your heart to new adventures and
-            possibilities.
+            Allow yourself to slow down, connect deeply with your roots, and
+            prepare to build steadily for the future.
           </p>
           <p>
-            Let this week be a bridge between reflection and action — a time to
-            plant seeds for future growth and expansion.
+            Let this week be a space of{" "}
+            <b>intentional patience, focused presence, and evolving wisdom.</b>
           </p>
         </div>
       </motion.div>
@@ -73,142 +76,141 @@ export default function NewsletterPage() {
       {[
         {
           title: "🌕 Celestial Flow",
-          yin: "Let expansive vision open your soul’s horizon.",
-          yang: "Let bold action follow inspired insight.",
+          yin: "Let reflection deepen your inner knowing.",
+          yang: "Let steady action embody emerging clarity.",
           content: (
             <>
               <p className="mt-4">
                 <b>Astrological Highlights:</b>
-                <br />- <b>Nov 24 – Mercury conjunct Sagittarius Sun</b>:
-                clarity and communication amplify.
-                <br />- <b>Nov 25 – Moon in Aquarius</b>: innovation and
-                connection with community.
-                <br />- <b>Nov 27 – Mars sextile Uranus</b>: dynamic energy
-                sparks creative breakthroughs.
+                <br />- <b>Dec 1 – Venus sextile Neptune</b>, enhancing
+                compassion and spiritual connection.
+                <br />- <b>Dec 3 – Sun enters Capricorn</b>, marking a turn
+                toward discipline and structure.
+                <br />- <b>Dec 6 – Mercury conjunct Saturn</b>, focusing mental
+                energy on realistic planning.
               </p>
               <p className="mt-4">
                 <b>Reflections:</b>
                 <br />
-                - Where is your spirit ready to expand boldly?
+                - What areas of your life need thoughtful tending and steady
+                patience?
                 <br />
-                - How can innovation inspire your daily life and relationships?
-                <br />- What new paths does your heart wish to explore?
+                - How can you align ambition with heart-centered wisdom?
+                <br />- Where will you plant seeds for growth this winter?
               </p>
               <p className="mt-4">
                 <b>Rituals:</b>
-                <br />- On <b>November 24</b>, set clear intentions for
-                courageous communication.
-                <br />- On <b>November 25</b>, engage in community or group
-                creativity.
-                <br />- On <b>November 27</b>, embrace spontaneous action for
-                innovation.
+                <br />- On <b>December 1</b>, practice a gratitude meditation
+                focused on support systems.
+                <br />- On <b>December 3</b>, set intentions for disciplined
+                nurturing and growth.
+                <br />- On <b>December 6</b>, journal about realistic goals and
+                practical next steps.
               </p>
             </>
           ),
         },
         {
           title: "💗 Wellness & Vital Flow",
-          yin: "Let breath and movement cultivate freedom within.",
-          yang: "Let your body express joy and vitality.",
+          yin: "Let calm breath ease the mind and body.",
+          yang: "Let purposeful movement nourish strength and endurance.",
           content: (
             <>
               <p className="mt-4">
-                Energize your system with outdoor movement: brisk walks, playful
-                exercise, or dance. Include vibrant foods such as fresh berries,
-                leafy greens, and warming spices to support vitality.
+                Embrace grounding wellness practices: slow mindful yoga,
+                restorative stretching, and warm, nourishing foods like root
+                vegetables, whole grains, and stews.
               </p>
               <p className="mt-4">
-                Incorporate breathwork practices that open the chest and enhance
-                oxygen flow—pranayama or deep diaphragmatic breathing work well.
+                Include breath-focused practices such as slow pranayama or
+                gentle meditation to steady energy and improve focus.
               </p>
             </>
           ),
         },
         {
           title: "🌿 Rest & Renewal",
-          yin: "Let calm presence replenish your inner wells.",
-          yang: "Let restful pauses inspire renewed energy.",
+          yin: "Let nurturing stillness restore your core.",
+          yang: "Let restful rhythms support sustained vitality.",
           content: (
             <>
               <p className="mt-4">
-                Prioritize quality sleep with calming rituals like lavender tea
-                and crescent moon visualization before bed. Reduce screen
-                exposure after sunset to support natural rhythms.
+                Prioritize earlier bedtimes and calming evenings with herbal
+                teas and journaling. Minimize screen use at least one hour
+                before sleep to support natural rest cycles.
               </p>
               <p className="mt-4">
-                Practice mindfulness meditation to ground restless energy and
-                promote peace.
+                Consider a weekly ritual of salt baths or sound healing to clear
+                tension and invite deep renewal.
               </p>
             </>
           ),
         },
         {
           title: "✨ Abundance in Alignment",
-          yin: "Open to receive with grace and mindfulness.",
-          yang: "Act decisively with clear intent.",
+          yin: "Receive with openness and wisdom.",
+          yang: "Act with strategic clarity and patient intent.",
           content: (
             <>
               <p className="mt-4">
-                Review financial plans and partnerships with optimism. Venus
-                moves into Sagittarius, encouraging expansive generosity and
-                aligned collaborations.
+                As the Sun enters Capricorn, focus on long-term financial wisdom
+                and responsibility. Mercury conjunct Saturn supports clear,
+                practical communication in partnership and work.
               </p>
               <p className="mt-4">
-                Take inspired steps forward, balancing risk and wisdom for
-                sustainable abundance.
+                Take steady steps toward goals, balancing ambition with
+                self-care and integrity.
               </p>
             </>
           ),
         },
         {
           title: "🧘 Stillness & Power",
-          yin: "Sink into the strength of your centered core.",
-          yang: "Radiate calm confidence in all your actions.",
+          yin: "Sink into the grounding warmth within you.",
+          yang: "Radiate calm, confident strength outward.",
           content: (
             <>
               <p className="mt-4">
-                Visualize energy flowing freely yet rooted firmly within. Use
-                grounding meditation to balance the fire of expansion with the
-                calm of presence.
+                Visualize roots growing deep beneath you, anchoring your
+                empowered presence. Use meditation and centered breathing to
+                balance focus and relaxation.
               </p>
               <p className="mt-4">
-                <b>Affirm:</b> “I ground myself in courage and move with
-                clarity.”
+                <b>Affirm:</b> “I am grounded, patient, and steadily growing.”
                 <br />
-                <b>Prompt:</b> Where will your courage lead you this week?
+                <b>Prompt:</b> What steady growth will you nurture this week?
               </p>
             </>
           ),
         },
         {
           title: "🌟 Sacred Affirmation",
-          yin: "Let your spirit soar with fearless grace.",
-          yang: "Let your actions reflect deep authenticity.",
+          yin: "Let steady patience be your guiding light.",
+          yang: "Let your actions reflect honest intention.",
           content: (
             <>
               <p className="mt-4 italic">
-                “With open heart and steady steps, I embrace the flow of
-                change.”
+                “With grounded roots and open heart, I build my future wisely.”
               </p>
               <p className="mt-4">
-                Recite this daily to anchor courage and authenticity in your
-                journey.
+                Repeat this affirmation each day to embody focus and presence.
               </p>
             </>
           ),
         },
         {
           title: "🔮 A Final Whisper",
-          yin: "Let renewal be the fertile soil of your evolution.",
-          yang: "Let inspired action guide your impending growth.",
+          yin: "Let wisdom and patience sow seeds for lasting change.",
+          yang: "Let steady effort guide your unfolding path.",
           content: (
             <>
               <p className="mt-4 italic">
-                “This week, I stand ready — anchored, inspired, and alive.”
+                “This week, I embrace reflection and steady action — anchored,
+                aligned, alive.”
               </p>
               <p className="mt-4">
-                As the Sagittarius sun shines warmly, open to possibility and
-                purposeful direction.
+                As early Capricorn energy sets in, open to growth through
+                presence and intention.
               </p>
             </>
           ),
