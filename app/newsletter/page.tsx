@@ -24,7 +24,7 @@ export default function NewsletterPage() {
         </h1>
 
         <h2 className="text-2xl font-serif text-gray-800 mb-1">
-          December 1 – December 7, 2025
+          December 8 – December 14, 2025
         </h2>
 
         <p className="italic text-sm text-gray-600 tracking-wide my-6">
@@ -35,15 +35,15 @@ export default function NewsletterPage() {
         <p className="italic text-lg text-gray-700">
           Theme:{" "}
           <b>
-            Embracing Reflection — Deepening Presence in Early Capricorn Energy
+            Clarity & Vision — Bridging Sagittarius Fire and Capricorn Grounding
           </b>
         </p>
       </motion.div>
 
       {/* 💡 PDF note */}
       <p className="text-center text-sm italic text-gray-600 mt-6 no-print">
-        💡 To save this week’s edition, scroll to the end and click{" "}
-        <b>“Download as PDF.”</b>
+        💡 To save this week's edition, scroll to the end and click{" "}
+        <b>"Download as PDF."</b>
       </p>
 
       {/* Intro */}
@@ -56,18 +56,24 @@ export default function NewsletterPage() {
       >
         <div className="text-center max-w-3xl mx-auto leading-loose text-[1.05rem] font-serif text-gray-700 tracking-wider">
           <p className="mb-6">
-            As <b>December begins</b>, the Sun’s transit into{" "}
-            <b>Capricorn on December 3</b> invites us into a season of
-            discipline, presence, and steady growth. This week is perfect for
-            reflection on all that’s emerged so far this year and turning
-            intention into grounded action.
+            This week in <b>late Sagittarius season</b>, as we move toward{" "}
+            <b>Capricorn&apos;s grounded expansion</b>, brings mental clarity
+            and visionary perspective. On <b>December 10</b>,{" "}
+            <b>Neptune stations direct in Pisces</b>, lifting spiritual fog and
+            sharpening intuition, while <b>Mercury opposes Uranus</b>, sparking
+            sudden insights and liberating ideas. On <b>December 11</b>,{" "}
+            <b>Mercury enters Sagittarius</b>, inviting big-picture thinking and
+            truth-telling, and the{" "}
+            <b>Geminids meteor shower peaks on December 13–14</b>, adding cosmic
+            wonder to the night sky.
             <br />
-            Allow yourself to slow down, connect deeply with your roots, and
-            prepare to build steadily for the future.
+            Balance Sagittarius&apos; expansive fire with the steady, practical
+            focus of the approaching Capricorn season for powerful, grounded
+            manifestation.
           </p>
           <p>
-            Let this week be a space of{" "}
-            <b>intentional patience, focused presence, and evolving wisdom.</b>
+            Let this week cultivate clear intentions, spiritual alignment, and
+            inspired action from steady foundations.
           </p>
         </div>
       </motion.div>
@@ -76,141 +82,190 @@ export default function NewsletterPage() {
       {[
         {
           title: "🌕 Celestial Flow",
-          yin: "Let reflection deepen your inner knowing.",
-          yang: "Let steady action embody emerging clarity.",
+          yin: "Let cosmic wonder deepen your inner vision.",
+          yang: "Let clear communication guide purposeful action.",
           content: (
             <>
               <p className="mt-4">
-                <b>Astrological Highlights:</b>
-                <br />- <b>Dec 1 – Venus sextile Neptune</b>, enhancing
-                compassion and spiritual connection.
-                <br />- <b>Dec 3 – Sun enters Capricorn</b>, marking a turn
-                toward discipline and structure.
-                <br />- <b>Dec 6 – Mercury conjunct Saturn</b>, focusing mental
-                energy on realistic planning.
+                <b>Astrological & Celestial Highlights:</b>
+                <br />- <b>Dec 10 – Neptune stations direct in Pisces</b>:
+                spiritual fog lifts, intuition and dreams gain clarity.
+                <br />- <b>Dec 10 – Mercury opposite Uranus</b>: sudden
+                downloads, breakthrough ideas, and liberating conversations.
+                <br />- <b>Dec 11 – Mercury enters Sagittarius</b>: expansive
+                communication and big-picture vision.
+                <br />- <b>Dec 13–14 – Geminid meteor shower peaks</b>: a
+                celestial spectacle amplifying awe, wonder, and cosmic
+                connection.
               </p>
               <p className="mt-4">
                 <b>Reflections:</b>
                 <br />
-                - What areas of your life need thoughtful tending and steady
-                patience?
+                - What sudden insights are ready to expand your perspective?
                 <br />
-                - How can you align ambition with heart-centered wisdom?
-                <br />- Where will you plant seeds for growth this winter?
+                - How can spiritual clarity guide your practical ambitions?
+                <br />- Where do you need both disciplined structure and cosmic
+                vision?
               </p>
               <p className="mt-4">
                 <b>Rituals:</b>
-                <br />- On <b>December 1</b>, practice a gratitude meditation
-                focused on support systems.
-                <br />- On <b>December 3</b>, set intentions for disciplined
-                nurturing and growth.
-                <br />- On <b>December 6</b>, journal about realistic goals and
-                practical next steps.
+                <br />- On <b>December 10</b>, journal intuitive messages and
+                surprising ideas that come through — treat them as guidance from
+                your higher mind.
+                <br />- On <b>December 11</b>, speak your big visions aloud with
+                confidence: record a voice note or share with someone you trust.
+                <br />- On <b>December 13–14</b>, if possible, watch the
+                Geminids under the night sky and make wishes or set intentions
+                with each meteor you notice.
               </p>
             </>
           ),
         },
         {
           title: "💗 Wellness & Vital Flow",
-          yin: "Let calm breath ease the mind and body.",
-          yang: "Let purposeful movement nourish strength and endurance.",
+          yin: "Let breath connect earth and cosmic energies.",
+          yang: "Let movement balance discipline with inspiration.",
           content: (
             <>
               <p className="mt-4">
-                Embrace grounding wellness practices: slow mindful yoga,
-                restorative stretching, and warm, nourishing foods like root
-                vegetables, whole grains, and stews.
+                Blend grounding practices with expansive movement this week.
+                Think <b>slow, strong foundations</b> with moments of{" "}
+                <b>free expression</b>: a steady walk or hike in nature,
+                followed by heart-opening yoga, dancing in your living room, or
+                a few playful sprints with the kids.
               </p>
               <p className="mt-4">
-                Include breath-focused practices such as slow pranayama or
-                gentle meditation to steady energy and improve focus.
+                Nourish your body with <b>warming, antioxidant-rich foods</b>:
+                root vegetables, lentil stews, herbal teas with ginger or
+                cinnamon, and dark berries where available. Let hydration be a
+                loving ritual rather than a chore.
+              </p>
+              <p className="mt-4">
+                Notice how your body feels when you move from{" "}
+                <b>inspiration rather than obligation</b>. Let wellness be a
+                joyful expression of your life force, not a punishment.
               </p>
             </>
           ),
         },
         {
           title: "🌿 Rest & Renewal",
-          yin: "Let nurturing stillness restore your core.",
-          yang: "Let restful rhythms support sustained vitality.",
+          yin: "Let stillness receive cosmic downloads.",
+          yang: "Let deep rest fuel visionary action.",
           content: (
             <>
               <p className="mt-4">
-                Prioritize earlier bedtimes and calming evenings with herbal
-                teas and journaling. Minimize screen use at least one hour
-                before sleep to support natural rest cycles.
+                With <b>Neptune turning direct</b>, your dream life and subtle
+                senses may feel extra active. Prioritize{" "}
+                <b>restorative practices</b>: candlelit baths, gentle yin yoga,
+                yoga nidra, or simply lying down with soothing music and no
+                screens.
               </p>
               <p className="mt-4">
-                Consider a weekly ritual of salt baths or sound healing to clear
-                tension and invite deep renewal.
+                Keep a journal or notes app by your bed. On waking, jot down{" "}
+                <b>symbols, feelings, or phrases</b> from your dreams —
+                don&apos;t over-analyze. Let patterns reveal themselves over
+                time.
+              </p>
+              <p className="mt-4">
+                Protect your nervous system with <b>soft boundaries</b>: limit
+                doomscrolling, step back from draining conversations, and give
+                yourself permission to say, “I&apos;ll answer this tomorrow.”
               </p>
             </>
           ),
         },
         {
           title: "✨ Abundance in Alignment",
-          yin: "Receive with openness and wisdom.",
-          yang: "Act with strategic clarity and patient intent.",
+          yin: "Receive inspired opportunities with open wisdom.",
+          yang: "Act with clear vision and grounded strategy.",
           content: (
             <>
               <p className="mt-4">
-                As the Sun enters Capricorn, focus on long-term financial wisdom
-                and responsibility. Mercury conjunct Saturn supports clear,
-                practical communication in partnership and work.
+                With <b>Mercury in Sagittarius</b>, your money and work mindset
+                naturally zooms out to the <b>big picture</b>. This is a
+                beautiful time to revisit your long-term financial story: What
+                kind of life are you truly building, and does your current
+                strategy match that vision?
               </p>
               <p className="mt-4">
-                Take steady steps toward goals, balancing ambition with
-                self-care and integrity.
+                Use Sagittarius&apos; optimism to brainstorm possibilities, then
+                invite the approaching <b>Capricorn energy</b> to refine them
+                into realistic steps: budgets, timelines, and small, consistent
+                actions.
+              </p>
+              <p className="mt-4">
+                Ask yourself:{" "}
+                <b>Where can I be more courageous in sharing my gifts?</b> and{" "}
+                <b>Where can I be more disciplined in nurturing them?</b>{" "}
+                Abundance grows where inspiration and responsibility meet.
               </p>
             </>
           ),
         },
         {
           title: "🧘 Stillness & Power",
-          yin: "Sink into the grounding warmth within you.",
-          yang: "Radiate calm, confident strength outward.",
+          yin: "Sink into cosmic wisdom while staying grounded.",
+          yang: "Radiate clarity from your steady center.",
           content: (
             <>
               <p className="mt-4">
-                Visualize roots growing deep beneath you, anchoring your
-                empowered presence. Use meditation and centered breathing to
-                balance focus and relaxation.
+                In meditation, visualize yourself as a{" "}
+                <b>mountain under a star-filled sky</b>: roots deep in the
+                earth, crown illuminated by cosmic light. Each inhale draws in
+                wisdom from above; each exhale anchors it into your body and
+                daily life.
               </p>
               <p className="mt-4">
-                <b>Affirm:</b> “I am grounded, patient, and steadily growing.”
+                Try a simple breath pattern: inhale for 4, hold for 4, exhale
+                for 6–8. Let the longer exhale signal safety to your nervous
+                system and create space for insight.
+              </p>
+              <p className="mt-4">
+                <b>Affirm:</b> &quot;I receive cosmic wisdom and ground it into
+                reality.&quot;
                 <br />
-                <b>Prompt:</b> What steady growth will you nurture this week?
+                <b>Prompt:</b> What vision will you lovingly and realistically
+                anchor this week?
               </p>
             </>
           ),
         },
         {
           title: "🌟 Sacred Affirmation",
-          yin: "Let steady patience be your guiding light.",
-          yang: "Let your actions reflect honest intention.",
+          yin: "Let universal wisdom flow through your roots.",
+          yang: "Let inspired action build your destined path.",
           content: (
             <>
               <p className="mt-4 italic">
-                “With grounded roots and open heart, I build my future wisely.”
+                &quot;I align heaven and earth within me — clear in vision,
+                steady in action.&quot;
               </p>
               <p className="mt-4">
-                Repeat this affirmation each day to embody focus and presence.
+                Repeat this each morning and evening. Imagine a column of light
+                running from above your head down through your spine into the
+                earth. See your choices for the day aligning with this column of
+                truth.
               </p>
             </>
           ),
         },
         {
           title: "🔮 A Final Whisper",
-          yin: "Let wisdom and patience sow seeds for lasting change.",
-          yang: "Let steady effort guide your unfolding path.",
+          yin: "Let starlight illuminate your deepest foundations.",
+          yang: "Let clear vision guide your steady ascent.",
           content: (
             <>
               <p className="mt-4 italic">
-                “This week, I embrace reflection and steady action — anchored,
-                aligned, alive.”
+                &quot;This week, I bridge cosmos and earth — clear, grounded,
+                alive.&quot;
               </p>
               <p className="mt-4">
-                As early Capricorn energy sets in, open to growth through
-                presence and intention.
+                As <b>Neptune clears</b> and <b>Mercury expands</b>, trust both
+                your intuition and your intellect. Let the skies inspire you,
+                but let your daily choices build the life you&apos;re truly
+                meant to live. One honest decision, one steady step at a time is
+                more magical than it looks.
               </p>
             </>
           ),
