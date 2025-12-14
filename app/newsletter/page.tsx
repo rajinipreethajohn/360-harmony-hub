@@ -24,7 +24,7 @@ export default function NewsletterPage() {
         </h1>
 
         <h2 className="text-2xl font-serif text-gray-800 mb-1">
-          December 8 – December 14, 2025
+          December 15 – December 21, 2025
         </h2>
 
         <p className="italic text-sm text-gray-600 tracking-wide my-6">
@@ -35,8 +35,8 @@ export default function NewsletterPage() {
         <p className="italic text-lg text-gray-700">
           Theme:{" "}
           <b>
-            Clarity and Wonder — Bridging Sagittarius Fire with Capricorn
-            Grounding
+            The Threshold Week — Mars in Capricorn, Sagittarius New Moon, and
+            the Solstice Shift
           </b>
         </p>
       </motion.div>
@@ -57,24 +57,25 @@ export default function NewsletterPage() {
       >
         <div className="text-center max-w-3xl mx-auto leading-loose text-[1.05rem] font-serif text-gray-700 tracking-wider">
           <p className="mb-6">
-            This week in <b>late Sagittarius season</b>, as we move toward{" "}
-            <b>Capricorn&apos;s grounded expansion</b>, brings mental clarity
-            and visionary insight. On <b>December 10</b>, Mercury opposes
-            Uranus, sparking sudden realizations and fresh perspectives. Around
-            <b> December 10–11</b>, Neptune stations direct in Pisces, lifting
-            spiritual fog and deepening intuitive knowing, while{" "}
-            <b>Mercury enters Sagittarius on December 11</b>, expanding our
-            thinking and communication. The <b>Geminids meteor shower</b> peaks
-            on <b>December 13–14</b>, inviting us to reconnect with cosmic
-            wonder.
+            This week is a powerful <b>threshold</b>: we move through{" "}
+            <b>late Sagittarius season</b> and arrive at{" "}
+            <b>Capricorn&apos;s grounded beginning</b> at the{" "}
+            <b>Winter Solstice on December 21</b> (Sun enters Capricorn). On{" "}
+            <b>December 15</b>, <b>Mars enters Capricorn</b>, shifting our drive
+            from spontaneous fire to disciplined, steady ambition — a signature
+            energy for building what lasts. By <b>December 16</b>, Mercury fully
+            clears its post-retrograde shadow, helping conversations, plans, and
+            decisions feel cleaner and less tangled. The{" "}
+            <b>New Moon in Sagittarius</b> arrives on <b>December 20</b>,
+            offering a fresh reset for beliefs, vision, and faith — and the
+            Solstice the next day anchors those visions into structure.
             <br />
-            Balance Sagittarius&apos; big-picture fire with Capricorn&apos;s
-            steady discipline to manifest your visions in tangible, soul-aligned
-            ways.
+            Let Sagittarius inspire the meaning, and let Capricorn shape the
+            method — so your next steps become both soulful and sustainable.
           </p>
           <p>
-            Let this week cultivate clear intentions, spiritual alignment, and
-            inspired action rooted in steady foundations.
+            Let this week be your quiet pivot: a clearer mind, a steadier
+            backbone, and a renewed devotion to what you are here to build.
           </p>
         </div>
       </motion.div>
@@ -83,168 +84,166 @@ export default function NewsletterPage() {
       {[
         {
           title: "🌕 Celestial Flow",
-          yin: "Let cosmic wonder deepen your inner vision.",
-          yang: "Let clear communication guide purposeful action.",
+          yin: "Let the New Moon renew your inner truth.",
+          yang: "Let Capricorn discipline turn vision into form.",
           content: (
             <>
               <p className="mt-4">
                 <b>Astrological Highlights:</b>
-                <br />- <b>Dec 10 – Mercury opposite Uranus</b>: sudden
-                insights, surprising news, and innovative ideas that shake up
-                stale thinking.
-                <br />- <b>Dec 10–11 – Neptune stations direct in Pisces</b>:
-                spiritual clarity emerges as confusion fades, inviting renewed
-                faith.
-                <br />- <b>Dec 11 – Mercury enters Sagittarius</b>: expansive,
-                truth-seeking communication and big-picture planning.
-                <br />- <b>Dec 13–14 – Geminids meteor shower peaks</b>: a
-                dazzling sky show that awakens awe and cosmic connection.
+                <br />- <b>Dec 15 – Mars enters Capricorn</b>: focused ambition,
+                deliberate action, and the strength to commit to long-term
+                goals.
+                <br />-{" "}
+                <b>Dec 16 – Mercury clears its post-retrograde shadow</b>:
+                clarity returns to plans, logistics, and communication.
+                <br />- <b>Dec 20 – New Moon in Sagittarius</b>: a fresh start
+                for faith, purpose, learning, and big-picture intention-setting.
+                <br />- <b>Dec 21 – Winter Solstice (Sun enters Capricorn)</b>:
+                a seasonal and spiritual turning point toward structure,
+                maturity, and sustainable growth.
               </p>
               <p className="mt-4">
                 <b>Reflections:</b>
                 <br />
-                - Which surprising insights are asking you to see life from a
-                wider angle?
+                - What do you want to build in 2026 that requires consistency
+                more than intensity?
                 <br />
-                - How can spiritual clarity guide the practical decisions you
-                need to make?
-                <br />- Where do you need both disciplined structure and cosmic
-                vision?
+                - Which belief, story, or dream needs an honest New Moon reset?
+                <br />- Where can you simplify your plan so it becomes easy to
+                repeat — day after day?
               </p>
               <p className="mt-4">
                 <b>Rituals:</b>
-                <br />- On <b>December 10</b>, journal any breakthrough ideas
-                that arrive suddenly and note where they challenge old patterns.
-                <br />- On <b>December 11</b>, speak your big visions aloud,
-                sharing them with a trusted person or recording a voice note.
-                <br />- On <b>December 13–14</b>, spend a few minutes under the
-                night sky (if possible) and make wishes with each shooting star
-                you see in your mind&apos;s eye.
+                <br />- On <b>December 15</b>, choose one goal and write the
+                smallest daily action that proves your devotion to it.
+                <br />- On <b>December 20</b>, set 3 New Moon intentions: one
+                for mindset, one for relationships, one for your life path.
+                <br />- On <b>December 21</b>, light a candle and speak one vow
+                aloud: &quot;I commit to building my life with patience,
+                integrity, and grace.&quot;
               </p>
             </>
           ),
         },
         {
           title: "💗 Wellness & Vital Flow",
-          yin: "Let breath connect earth and cosmic energies.",
-          yang: "Let movement balance discipline with inspiration.",
+          yin: "Let steadiness soothe the nervous system.",
+          yang: "Let disciplined movement strengthen your foundations.",
           content: (
             <>
               <p className="mt-4">
-                Blend grounding practices with expansive movement. Take a steady
-                walk or hike in nature, practice heart-opening yoga postures, or
-                put on music and allow yourself to dance freely. Let your body
-                be the bridge between earth and sky.
+                With Mars moving into Capricorn, your body benefits from
+                consistency more than intensity. Choose a simple plan you can
+                repeat: strength training basics, long walks, or slow, focused
+                yoga that builds stability through the legs, hips, and core.
               </p>
               <p className="mt-4">
-                Nourish yourself with antioxidant-rich foods (berries, leafy
-                greens, colorful vegetables) and warming herbal teas that
-                support circulation and nervous-system ease. This week is ideal
-                for routines that support both stamina and joy.
+                Support your bones and energy with grounding nourishment: warm
+                soups, root vegetables, sesame, lentils, and mineral-rich
+                greens. Hydrate steadily, and keep caffeine balanced — this week
+                rewards calm stamina.
               </p>
             </>
           ),
         },
         {
           title: "🌿 Rest & Renewal",
-          yin: "Let stillness receive cosmic downloads.",
-          yang: "Let deep rest fuel visionary action.",
+          yin: "Let darkness teach you sacred quiet.",
+          yang: "Let rest become your strategy for power.",
           content: (
             <>
               <p className="mt-4">
-                Create sacred rest rituals that feel like small ceremonies.
-                Think candlelit baths, gentle yin or restorative yoga, or
-                listening to soft sound-healing tracks before bed. With Neptune
-                moving direct, your dreams may feel more vivid or meaningful.
+                Solstice week invites deeper restoration. Create an evening
+                ritual that signals safety to the body: dim lights, fewer
+                screens, gentle stretches, and a warm shower or bath. If your
+                mind feels busy, repeat one calming phrase with your breath:
+                inhale &quot;I soften&quot; — exhale &quot;I trust.&quot;
               </p>
               <p className="mt-4">
-                Keep a journal by your bedside and jot down any symbols,
-                feelings, or phrases you remember upon waking. These subtle
-                messages can guide your next aligned steps more than force or
-                overthinking ever could.
+                Place a notebook near your bed. Write one sentence each night:
+                &quot;What I release today is...&quot; and &quot;What I am
+                willing to receive is...&quot; The answers don&apos;t need to be
+                dramatic — they just need to be true.
               </p>
             </>
           ),
         },
         {
           title: "✨ Abundance in Alignment",
-          yin: "Receive inspired opportunities with open wisdom.",
-          yang: "Act with clear vision and grounded strategy.",
+          yin: "Receive what matches your values.",
+          yang: "Build what matches your vision.",
           content: (
             <>
               <p className="mt-4">
-                With <b>Mercury in Sagittarius</b>, your financial and career
-                thinking naturally leans toward the big picture: long-term
-                dreams, impact, and meaning. At the same time, the approaching{" "}
-                <b>Capricorn energy</b> reminds you to anchor those dreams in
-                realistic timelines and structures.
+                Mars in Capricorn favors slow wealth: disciplined habits, clear
+                boundaries, and purposeful effort. The Sagittarius New Moon
+                reminds you to keep your work connected to meaning — abundance
+                grows faster when your &quot;why&quot; is alive.
               </p>
               <p className="mt-4">
-                Review your goals, offerings, or projects from a higher
-                perspective, then turn that clarity into simple, actionable
-                steps. Abundance flows more easily when your vision is expansive
-                but your next actions are concrete and doable.
+                Audit your time and energy like a sacred budget. Where are you
+                leaking attention? What single system (a calendar routine, a
+                weekly review, a focused work block) would make your next level
+                feel inevitable rather than exhausting?
               </p>
             </>
           ),
         },
         {
           title: "🧘 Stillness & Power",
-          yin: "Sink into cosmic wisdom while staying grounded.",
-          yang: "Radiate clarity from your steady center.",
+          yin: "Let inner truth guide the way.",
+          yang: "Let commitment become your calm authority.",
           content: (
             <>
               <p className="mt-4">
-                Visualize yourself as a mountain under a star-filled sky: deeply
-                rooted into the earth, while your crown receives gentle
-                starlight. With each inhale, imagine drawing down cosmic wisdom;
-                with each exhale, feel that wisdom anchoring into your body and
-                life.
+                Imagine yourself standing at a mountain gate. Behind you is the
+                old year&apos;s noise; ahead is a quieter, stronger path. With
+                each inhale, gather your scattered energy back into your body.
+                With each exhale, seal it into your spine — steady, unshakable,
+                and aligned.
               </p>
               <p className="mt-4">
-                <b>Affirm:</b> I receive cosmic wisdom and ground it into
-                reality.
+                <b>Affirm:</b> I move with patience, power, and purpose.
                 <br />
-                <b>Prompt:</b> Which single vision or intention feels most
-                important to anchor this week, even if it is only through one
-                small step?
+                <b>Prompt:</b> What is my one most sacred commitment for the
+                season ahead — and what does it look like in daily life?
               </p>
             </>
           ),
         },
         {
           title: "🌟 Sacred Affirmation",
-          yin: "Let universal wisdom flow through your roots.",
-          yang: "Let inspired action build your destined path.",
+          yin: "Let faith renew your inner compass.",
+          yang: "Let discipline turn intention into destiny.",
           content: (
             <>
               <p className="mt-4 italic">
-                "I align heaven and earth within me, and I walk my path with
-                clear vision and steady grace."
+                "I honor the turning of the season. I release what is heavy, and
+                I commit to building what is true."
               </p>
               <p className="mt-4">
-                Speak this affirmation daily, especially in the mornings, to
-                weave together your spiritual insights and your practical
-                responsibilities.
+                Speak this affirmation daily, especially as you set New Moon
+                intentions and step into Capricorn&apos;s steady, life-shaping
+                energy.
               </p>
             </>
           ),
         },
         {
           title: "🔮 A Final Whisper",
-          yin: "Let starlight illuminate your deepest foundations.",
-          yang: "Let clear vision guide your steady ascent.",
+          yin: "Let the Solstice quiet reveal your wisdom.",
+          yang: "Let your devotion shape the year ahead.",
           content: (
             <>
               <p className="mt-4 italic">
-                "This week, I bridge cosmos and earth — clear, grounded, and
-                fully alive to what is possible."
+                "This week, I cross the threshold — renewed in spirit, steady in
+                action, and devoted to what I am becoming."
               </p>
               <p className="mt-4">
-                As Neptune turns direct and Mercury expands into Sagittarius,
-                trust both your intuition and your intellect. Let wonder open
-                the path, and let discipline carry you step by step toward the
-                life you are consciously building.
+                The New Moon invites vision, Mars in Capricorn invites mastery,
+                and the Solstice invites maturity. You don&apos;t need to rush.
+                You only need to keep returning — to your breath, your truth,
+                and the small daily actions that build a life you can trust.
               </p>
             </>
           ),
