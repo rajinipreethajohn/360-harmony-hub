@@ -24,7 +24,7 @@ export default function NewsletterPage() {
         </h1>
 
         <h2 className="text-2xl font-serif text-gray-800 mb-1">
-          December 15 – December 21, 2025
+          December 29, 2025 – January 4, 2026
         </h2>
 
         <p className="italic text-sm text-gray-600 tracking-wide my-6">
@@ -35,8 +35,8 @@ export default function NewsletterPage() {
         <p className="italic text-lg text-gray-700">
           Theme:{" "}
           <b>
-            The Threshold Week — Mars in Capricorn, Sagittarius New Moon, and
-            the Solstice Shift
+            The First Gate of 2026 — Capricorn Devotion and the Cancer Full Moon
+            Heart
           </b>
         </p>
       </motion.div>
@@ -57,25 +57,28 @@ export default function NewsletterPage() {
       >
         <div className="text-center max-w-3xl mx-auto leading-loose text-[1.05rem] font-serif text-gray-700 tracking-wider">
           <p className="mb-6">
-            This week is a powerful <b>threshold</b>: we move through{" "}
-            <b>late Sagittarius season</b> and arrive at{" "}
-            <b>Capricorn&apos;s grounded beginning</b> at the{" "}
-            <b>Winter Solstice on December 21</b> (Sun enters Capricorn). On{" "}
-            <b>December 15</b>, <b>Mars enters Capricorn</b>, shifting our drive
-            from spontaneous fire to disciplined, steady ambition — a signature
-            energy for building what lasts. By <b>December 16</b>, Mercury fully
-            clears its post-retrograde shadow, helping conversations, plans, and
-            decisions feel cleaner and less tangled. The{" "}
-            <b>New Moon in Sagittarius</b> arrives on <b>December 20</b>,
-            offering a fresh reset for beliefs, vision, and faith — and the
-            Solstice the next day anchors those visions into structure.
+            This week bridges the final breath of <b>2025</b> and the first
+            steady steps into <b>2026</b>. The{" "}
+            <b>Sun continues through Capricorn</b>, asking for maturity,
+            simplification, and long-term alignment — not performative
+            resolutions. <b>Mercury is direct in Capricorn</b>, keeping the mind
+            honest and future-facing, while inviting reflective review through
+            meaning: what did you learn, what do you truly believe, and what
+            story are you ready to live next?
             <br />
-            Let Sagittarius inspire the meaning, and let Capricorn shape the
-            method — so your next steps become both soulful and sustainable.
+            The emotional center of the week arrives with the{" "}
+            <b>Full Moon in Cancer on January 3</b>, illuminating home,
+            belonging, family dynamics, and the deeper question of safety: where
+            do you feel held, and what do you need to feel held? With{" "}
+            <b>Venus traveling through Capricorn</b>, love and values lean
+            toward commitment, integrity, and the kind of devotion that shows up
+            in daily life. This is a week to choose what lasts — and to let your
+            heart guide the structure you build.
           </p>
           <p>
-            Let this week be your quiet pivot: a clearer mind, a steadier
-            backbone, and a renewed devotion to what you are here to build.
+            Let this week be a gentle crossing: grounded in Capricorn clarity,
+            softened by Cancer tenderness, and guided by a devotion to what is
+            real.
           </p>
         </div>
       </motion.div>
@@ -84,166 +87,169 @@ export default function NewsletterPage() {
       {[
         {
           title: "🌕 Celestial Flow",
-          yin: "Let the New Moon renew your inner truth.",
-          yang: "Let Capricorn discipline turn vision into form.",
+          yin: "Let the Cancer Full Moon reveal what your heart needs.",
+          yang: "Let Capricorn structure hold your intentions with strength.",
           content: (
             <>
               <p className="mt-4">
                 <b>Astrological Highlights:</b>
-                <br />- <b>Dec 15 – Mars enters Capricorn</b>: focused ambition,
-                deliberate action, and the strength to commit to long-term
-                goals.
-                <br />-{" "}
-                <b>Dec 16 – Mercury clears its post-retrograde shadow</b>:
-                clarity returns to plans, logistics, and communication.
-                <br />- <b>Dec 20 – New Moon in Sagittarius</b>: a fresh start
-                for faith, purpose, learning, and big-picture intention-setting.
-                <br />- <b>Dec 21 – Winter Solstice (Sun enters Capricorn)</b>:
-                a seasonal and spiritual turning point toward structure,
-                maturity, and sustainable growth.
+                <br />- <b>All week – Sun in Capricorn</b>: discipline, focus,
+                boundaries, and long-term priorities.
+                <br />- <b>All week – Mercury direct in Capricorn</b>:
+                big-picture thinking, honest reflection, and truth-centered
+                conversations.
+                <br />- <b>All week – Venus in Capricorn</b>: mature love,
+                steady values, and grounded choices in money and relationships.
+                <br />- <b>Jan 3 – Full Moon in Cancer</b>: heightened emotion,
+                family and home themes, deep intuition, and a call to nurture
+                what is truly important.
+                <br />- <b>Jan 3–4 – Quadrantids meteor shower peaks</b>: cosmic
+                wonder under bright moonlight — a reminder to keep awe alive,
+                even when visibility is imperfect.
               </p>
               <p className="mt-4">
                 <b>Reflections:</b>
                 <br />
-                - What do you want to build in 2026 that requires consistency
-                more than intensity?
+                - What does &quot;home&quot; mean to me right now — a place, a
+                person, a feeling, or a way of being?
                 <br />
-                - Which belief, story, or dream needs an honest New Moon reset?
-                <br />- Where can you simplify your plan so it becomes easy to
-                repeat — day after day?
+                - Where have I been strong, but not soft — and where have I been
+                soft, but not clear?
+                <br />- What commitment would make 2026 feel emotionally safer
+                and spiritually truer?
               </p>
               <p className="mt-4">
                 <b>Rituals:</b>
-                <br />- On <b>December 15</b>, choose one goal and write the
-                smallest daily action that proves your devotion to it.
-                <br />- On <b>December 20</b>, set 3 New Moon intentions: one
-                for mindset, one for relationships, one for your life path.
-                <br />- On <b>December 21</b>, light a candle and speak one vow
-                aloud: &quot;I commit to building my life with patience,
-                integrity, and grace.&quot;
+                <br />- On <b>January 1</b>, choose one simple Capricorn anchor:
+                a daily practice, a boundary, or a routine that supports your
+                nervous system.
+                <br />- On <b>January 3</b>, place a hand on your heart and one
+                on your belly. Breathe slowly and ask: &quot;What am I ready to
+                nurture now?&quot; Write what rises without editing.
+                <br />- On <b>January 3–4</b>, look up at the night sky for a
+                few minutes. Even if you see fewer meteors, let the act of
+                looking up reopen your sense of possibility.
               </p>
             </>
           ),
         },
         {
           title: "💗 Wellness & Vital Flow",
-          yin: "Let steadiness soothe the nervous system.",
-          yang: "Let disciplined movement strengthen your foundations.",
+          yin: "Let tenderness be medicine for the body.",
+          yang: "Let steady habits rebuild trust with yourself.",
           content: (
             <>
               <p className="mt-4">
-                With Mars moving into Capricorn, your body benefits from
-                consistency more than intensity. Choose a simple plan you can
-                repeat: strength training basics, long walks, or slow, focused
-                yoga that builds stability through the legs, hips, and core.
+                Capricorn season supports structure, but the Cancer Full Moon
+                reminds you to care for your body like a beloved home. Choose
+                grounding movement: long walks, gentle strength work, slow yoga,
+                and deep stretching for hips, hamstrings, and back.
               </p>
               <p className="mt-4">
-                Support your bones and energy with grounding nourishment: warm
-                soups, root vegetables, sesame, lentils, and mineral-rich
-                greens. Hydrate steadily, and keep caffeine balanced — this week
-                rewards calm stamina.
+                Eat warming, mineral-rich foods that soothe the system: soups,
+                stews, lentils, root vegetables, sesame, and leafy greens. Keep
+                hydration steady and prioritize nourishment over extremes — this
+                week rewards consistency.
               </p>
             </>
           ),
         },
         {
           title: "🌿 Rest & Renewal",
-          yin: "Let darkness teach you sacred quiet.",
-          yang: "Let rest become your strategy for power.",
+          yin: "Let the Full Moon illuminate what needs soothing.",
+          yang: "Let rest become a sacred strategy, not an afterthought.",
           content: (
             <>
               <p className="mt-4">
-                Solstice week invites deeper restoration. Create an evening
-                ritual that signals safety to the body: dim lights, fewer
-                screens, gentle stretches, and a warm shower or bath. If your
-                mind feels busy, repeat one calming phrase with your breath:
-                inhale &quot;I soften&quot; — exhale &quot;I trust.&quot;
+                Full Moon weeks can heighten emotions and sleep sensitivity.
+                Create a simple nightly ritual: dim lights, warm shower or bath,
+                and a few minutes of slow breathing. Let your nervous system
+                register safety.
               </p>
               <p className="mt-4">
-                Place a notebook near your bed. Write one sentence each night:
-                &quot;What I release today is...&quot; and &quot;What I am
-                willing to receive is...&quot; The answers don&apos;t need to be
-                dramatic — they just need to be true.
+                Keep a journal nearby and write one line before bed: &quot;What
+                I can release tonight is...&quot; and one line upon waking:
+                &quot;What I want to nurture today is...&quot; Small clarity
+                becomes a big reset.
               </p>
             </>
           ),
         },
         {
           title: "✨ Abundance in Alignment",
-          yin: "Receive what matches your values.",
-          yang: "Build what matches your vision.",
+          yin: "Receive what matches your values and your heart.",
+          yang: "Build a stable path through clear choices.",
           content: (
             <>
               <p className="mt-4">
-                Mars in Capricorn favors slow wealth: disciplined habits, clear
-                boundaries, and purposeful effort. The Sagittarius New Moon
-                reminds you to keep your work connected to meaning — abundance
-                grows faster when your &quot;why&quot; is alive.
+                Venus in Capricorn favors sustainable abundance: long-term value
+                over quick wins, and devotion over impulsive spending. Review
+                where your resources go — time, money, energy — and notice what
+                actually returns peace.
               </p>
               <p className="mt-4">
-                Audit your time and energy like a sacred budget. Where are you
-                leaking attention? What single system (a calendar routine, a
-                weekly review, a focused work block) would make your next level
-                feel inevitable rather than exhausting?
+                Let the Cancer Full Moon refine your definition of success: not
+                just what looks impressive, but what feels supportive. Choose
+                one practical structure for the month ahead: a weekly review, a
+                budget reset, or a protected block of time for your most sacred
+                work.
               </p>
             </>
           ),
         },
         {
           title: "🧘 Stillness & Power",
-          yin: "Let inner truth guide the way.",
-          yang: "Let commitment become your calm authority.",
+          yin: "Let your inner home become your sanctuary.",
+          yang: "Let your spine become your steady promise.",
           content: (
             <>
               <p className="mt-4">
-                Imagine yourself standing at a mountain gate. Behind you is the
-                old year&apos;s noise; ahead is a quieter, stronger path. With
-                each inhale, gather your scattered energy back into your body.
-                With each exhale, seal it into your spine — steady, unshakable,
-                and aligned.
+                Visualize a warm lantern glowing inside your chest. With each
+                inhale, the light expands through your ribs, belly, and spine.
+                With each exhale, it settles into your feet, rooting you into
+                the earth. You are both held and capable — soft and strong.
               </p>
               <p className="mt-4">
-                <b>Affirm:</b> I move with patience, power, and purpose.
+                <b>Affirm:</b> I nurture what matters and build what lasts.
                 <br />
-                <b>Prompt:</b> What is my one most sacred commitment for the
-                season ahead — and what does it look like in daily life?
+                <b>Prompt:</b> What does my heart want to feel in 2026 — and
+                what daily structure supports that feeling?
               </p>
             </>
           ),
         },
         {
           title: "🌟 Sacred Affirmation",
-          yin: "Let faith renew your inner compass.",
-          yang: "Let discipline turn intention into destiny.",
+          yin: "Let care be your compass.",
+          yang: "Let devotion be your direction.",
           content: (
             <>
               <p className="mt-4 italic">
-                "I honor the turning of the season. I release what is heavy, and
-                I commit to building what is true."
+                "I am safe to soften. I am strong enough to build. I begin this
+                year with love, clarity, and steady grace."
               </p>
               <p className="mt-4">
-                Speak this affirmation daily, especially as you set New Moon
-                intentions and step into Capricorn&apos;s steady, life-shaping
-                energy.
+                Speak this affirmation daily, especially around the Cancer Full
+                Moon, to weave emotional warmth into your Capricorn intentions.
               </p>
             </>
           ),
         },
         {
           title: "🔮 A Final Whisper",
-          yin: "Let the Solstice quiet reveal your wisdom.",
-          yang: "Let your devotion shape the year ahead.",
+          yin: "Let your heart tell the truth.",
+          yang: "Let your life become the proof of your intentions.",
           content: (
             <>
               <p className="mt-4 italic">
-                "This week, I cross the threshold — renewed in spirit, steady in
-                action, and devoted to what I am becoming."
+                "This week, I choose what nurtures me — and I commit to what I
+                am here to build."
               </p>
               <p className="mt-4">
-                The New Moon invites vision, Mars in Capricorn invites mastery,
-                and the Solstice invites maturity. You don&apos;t need to rush.
-                You only need to keep returning — to your breath, your truth,
-                and the small daily actions that build a life you can trust.
+                Capricorn season asks for integrity. The Cancer Full Moon asks
+                for care. Together, they offer a beautiful beginning: a year
+                shaped by steady action and softened by a heart that knows what
+                truly matters.
               </p>
             </>
           ),
