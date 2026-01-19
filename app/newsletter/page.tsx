@@ -24,7 +24,7 @@ export default function NewsletterPage() {
         </h1>
 
         <h2 className="text-2xl font-serif text-gray-800 mb-1">
-          January 12 – January 18, 2026
+          January 19 – January 25, 2026
         </h2>
 
         <p className="italic text-sm text-gray-600 tracking-wide my-6">
@@ -33,8 +33,7 @@ export default function NewsletterPage() {
         </p>
 
         <p className="italic text-lg text-gray-700">
-          Theme:{" "}
-          <b>The Sacred Reset — Capricorn Closure and the New Moon Threshold</b>
+          Theme: <b>From Structure to Vision — The Capricorn–Aquarius Shift</b>
         </p>
       </motion.div>
 
@@ -54,29 +53,25 @@ export default function NewsletterPage() {
       >
         <div className="text-center max-w-3xl mx-auto leading-loose text-[1.05rem] font-serif text-gray-700 tracking-wider">
           <p className="mb-6">
-            This week carries a powerful sense of <b>closure and renewal</b>.
-            The{" "}
-            <b>
-              Sun, Mercury, Venus, and Mars continue their journey through
-              Capricorn
-            </b>
-            , concentrating energy around responsibility, long-term vision, and
-            conscious life design. <b>Mercury remains direct in Capricorn</b>,
-            supporting practical thinking and honest assessment: what systems
-            are working, and what needs refinement?
+            This week marks a meaningful energetic pivot. The{" "}
+            <b>Sun completes its journey through Capricorn</b> and enters{" "}
+            <b>Aquarius on January 20</b>, shifting focus from responsibility
+            and structure toward innovation, authenticity, and future vision. We
+            are still in the early days of the <b>Capricorn New Moon cycle</b>,
+            making this an ideal time to gently grow what you committed to last
+            week — without rushing the process.
             <br />
-            As the week unfolds, we approach a potent reset point — the{" "}
-            <b>New Moon in Capricorn on January 18</b>. This lunation invites
-            intentional beginnings rooted in discipline rather than impulse. On{" "}
-            <b>January 17</b>, <b>Venus enters Aquarius</b>, subtly shifting
-            relationship and value themes toward authenticity, freedom, and
-            future-oriented connections. This is a bridge week: release the
-            weight of old obligations, clarify your commitments, and prepare to
-            seed what you are truly ready to build next.
+            <b>Mercury continues in Capricorn</b> through most of the week,
+            keeping thinking practical and grounded, before{" "}
+            <b>entering Aquarius on January 25</b>, where ideas open up and
+            perspectives widen. <b>Venus travels through Aquarius</b>,
+            encouraging honest, unconventional expressions of love and value.{" "}
+            <b>Mars remains in Capricorn</b>, providing discipline and stamina
+            to support the Aquarian visions beginning to form.
           </p>
           <p>
-            Let this week be deliberate and spacious — a quiet clearing before a
-            grounded, purposeful new beginning.
+            Let this week bridge wisdom and originality — build wisely, then
+            allow yourself to imagine differently.
           </p>
         </div>
       </motion.div>
@@ -85,159 +80,157 @@ export default function NewsletterPage() {
       {[
         {
           title: "🌕 Celestial Flow",
-          yin: "Let completion soften you into readiness.",
-          yang: "Let intention anchor your next beginning.",
+          yin: "Let space and perspective awaken new insight.",
+          yang: "Let disciplined effort support emerging vision.",
           content: (
             <>
               <p className="mt-4">
                 <b>Astrological Highlights:</b>
-                <br />- <b>All week – Sun in Capricorn</b>: focus on structure,
-                accountability, and long-term priorities.
-                <br />- <b>All week – Mercury direct in Capricorn</b>: clear
-                planning, grounded communication, and realistic thinking.
-                <br />- <b>All week – Mars in Capricorn</b>: disciplined drive,
-                patience, and sustained effort.
-                <br />- <b>Jan 17 – Venus enters Aquarius</b>: relationships and
-                values shift toward authenticity, independence, and future
-                vision.
-                <br />- <b>Jan 18 – New Moon in Capricorn</b>: a powerful reset
-                for goals, commitments, and life structures built to last.
+                <br />- <b>Jan 19 – Sun in Capricorn</b>: final refinements,
+                responsibility, and structural clarity.
+                <br />- <b>Jan 20 – Sun enters Aquarius</b>: innovation,
+                individuality, and future-oriented thinking come online.
+                <br />- <b>All week – Mars in Capricorn</b>: sustained effort,
+                patience, and focused ambition.
+                <br />- <b>All week – Venus in Aquarius</b>: authentic
+                connections, freedom in relationships, and values aligned with
+                truth.
+                <br />- <b>Jan 25 – Mercury enters Aquarius</b>: mental
+                breakthroughs, fresh perspectives, and unconventional ideas.
+                <br />- <b>Jan 25/26 – First Quarter Moon in Taurus</b>: steady
+                action and practical follow-through support growth.
               </p>
               <p className="mt-4">
                 <b>Reflections:</b>
                 <br />
-                - What responsibility am I ready to release because it no longer
-                reflects who I am becoming?
+                - Where am I ready to think differently without abandoning what
+                works?
                 <br />
-                - What kind of structure would actually support my freedom?
-                <br />- What does success feel like in my body and daily life —
-                not just on paper?
+                - What responsibility can now feel lighter if I approach it with
+                creativity?
+                <br />- How can stability and innovation coexist in my life?
               </p>
               <p className="mt-4">
                 <b>Rituals:</b>
-                <br />- Early in the week, complete one lingering task you have
-                been avoiding — let closure create space.
-                <br />- On <b>January 17</b>, review your relationships and
-                commitments: where can honesty replace obligation?
-                <br />- On <b>January 18</b>, write 1–3 New Moon intentions that
-                focus on habits, boundaries, or systems you can sustain over
-                time.
+                <br />- On <b>January 20</b>, write down one outdated rule or
+                belief you are ready to question.
+                <br />- Midweek, take one small, disciplined step toward a new
+                idea you have been quietly considering.
+                <br />- On <b>January 25</b>, commit to a tangible action that
+                grounds a fresh vision into reality.
               </p>
             </>
           ),
         },
         {
           title: "💗 Wellness & Vital Flow",
-          yin: "Let steadiness restore your energy.",
-          yang: "Let simple structure support vitality.",
+          yin: "Let nervous-system ease invite creativity.",
+          yang: "Let consistent movement anchor vitality.",
           content: (
             <>
               <p className="mt-4">
-                Capricorn energy continues to favor consistency over intensity.
-                Choose movements that strengthen and stabilize: slow strength
-                training, long walks, Pilates, or grounding yoga focused on the
-                legs and core.
+                As Aquarius energy rises, your system benefits from variety
+                paired with routine. Keep your core practices steady — walks,
+                strength, yoga — but allow small changes that keep you mentally
+                engaged and inspired.
               </p>
               <p className="mt-4">
-                Nourish your body with warming, mineral-rich foods and regular
-                mealtimes. Gentle routines support hormone balance and nervous
-                system regulation as the New Moon approaches.
+                Support circulation and clarity with hydration, magnesium-rich
+                foods, and gentle stretching for calves, ankles, and lower legs.
+                Balance stimulation with grounding nourishment.
               </p>
             </>
           ),
         },
         {
           title: "🌿 Rest & Renewal",
-          yin: "Let rest integrate the lessons of effort.",
-          yang: "Let restoration prepare you for a clean start.",
+          yin: "Let mental spaciousness restore you.",
+          yang: "Let rest sharpen focus and direction.",
           content: (
             <>
               <p className="mt-4">
-                The days before a New Moon are ideal for rest and reflection.
-                Create quieter evenings, reduce stimulation, and allow yourself
-                to slow down without guilt.
+                Aquarius season can bring mental buzz. Create intentional
+                pauses: brief screen breaks, fresh air, or quiet reflection
+                without input. Space allows insight to surface naturally.
               </p>
               <p className="mt-4">
-                Before sleep, ask: &quot;What am I ready to release so I can
-                begin again with clarity?&quot; Trust that rest is part of your
-                productivity cycle, not separate from it.
+                Before sleep, ask: &quot;What idea is asking for patience rather
+                than pressure?&quot; Let rest integrate inspiration into
+                something sustainable.
               </p>
             </>
           ),
         },
         {
           title: "✨ Abundance in Alignment",
-          yin: "Receive clarity about what is sustainable.",
-          yang: "Build wealth through patience and focus.",
+          yin: "Receive innovative solutions with openness.",
+          yang: "Build security through steady execution.",
           content: (
             <>
               <p className="mt-4">
-                The Capricorn New Moon supports long-term abundance strategies.
-                This is a strong week to simplify financial plans, review
-                commitments, and remove energy leaks.
+                Mars in Capricorn continues to favor long-term planning and
+                disciplined work, while Venus and Mercury in Aquarius invite new
+                approaches to value, income, and collaboration. Innovation is
+                most effective when paired with structure.
               </p>
               <p className="mt-4">
-                As Venus prepares to shift signs, reassess what you value most:
-                stability, freedom, or innovation — and how your choices can
-                reflect all three in balance.
+                Experiment thoughtfully: test a new idea on a small scale, keep
+                what works, and release what doesn&apos;t without judgment.
+                Sustainable abundance grows through intelligent adaptation.
               </p>
             </>
           ),
         },
         {
           title: "🧘 Stillness & Power",
-          yin: "Let inner truth guide your reset.",
-          yang: "Let commitment become your quiet strength.",
+          yin: "Let clarity arrive through spacious awareness.",
+          yang: "Let grounded action carry your insight forward.",
           content: (
             <>
               <p className="mt-4">
-                Visualize yourself standing at the base of a mountain at dawn.
-                The path ahead is clear, not rushed. With each breath, feel
-                yourself grounded, capable, and supported by your own
-                consistency.
+                Visualize standing on solid ground beneath a wide open sky. With
+                each inhale, welcome possibility; with each exhale, anchor it
+                into your body. You are supported by both vision and effort.
               </p>
               <p className="mt-4">
-                <b>Affirm:</b> I release what is complete and commit to what is
-                true.
+                <b>Affirm:</b> I allow new ideas to grow on steady ground.
                 <br />
-                <b>Prompt:</b> What structure, habit, or boundary would most
-                support the life I am ready to build now?
+                <b>Prompt:</b> What future-focused idea feels exciting — and
+                what practical step makes it real?
               </p>
             </>
           ),
         },
         {
           title: "🌟 Sacred Affirmation",
-          yin: "Let release create spaciousness.",
-          yang: "Let intention shape the path ahead.",
+          yin: "Let openness expand your inner world.",
+          yang: "Let commitment stabilize your path.",
           content: (
             <>
               <p className="mt-4 italic">
-                "I honor what I have built, I release what no longer fits, and I
-                begin again with clarity and devotion."
+                "I honor what I have built, and I welcome new ways of becoming."
               </p>
               <p className="mt-4">
-                Speak this affirmation during the New Moon to align your inner
-                resolve with grounded, sustainable action.
+                Repeat this affirmation as the Sun moves into Aquarius, allowing
+                innovation to rest on a foundation of wisdom.
               </p>
             </>
           ),
         },
         {
           title: "🔮 A Final Whisper",
-          yin: "Let endings be gentle.",
-          yang: "Let beginnings be intentional.",
+          yin: "Let curiosity guide you gently forward.",
+          yang: "Let consistency turn vision into form.",
           content: (
             <>
               <p className="mt-4 italic">
-                "This week, I clear the ground — and I choose what I am ready to
-                grow."
+                "This week, I trust both my structure and my originality."
               </p>
               <p className="mt-4">
-                The Capricorn New Moon does not ask for perfection — it asks for
-                honesty and commitment. Release what is heavy, keep what is
-                essential, and step forward with patience and trust in your
-                ability to build a life that truly supports you.
+                You are not asked to abandon what you&apos;ve built — only to
+                allow it to evolve. Let the week be a conversation between the
+                future you can imagine and the steady actions that make it
+                possible.
               </p>
             </>
           ),
