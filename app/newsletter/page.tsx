@@ -24,7 +24,7 @@ export default function NewsletterPage() {
         </h1>
 
         <h2 className="text-2xl font-serif text-gray-800 mb-1">
-          January 19 – January 25, 2026
+          January 26 – February 1, 2026
         </h2>
 
         <p className="italic text-sm text-gray-600 tracking-wide my-6">
@@ -33,7 +33,8 @@ export default function NewsletterPage() {
         </p>
 
         <p className="italic text-lg text-gray-700">
-          Theme: <b>From Structure to Vision — The Capricorn–Aquarius Shift</b>
+          Theme:{" "}
+          <b>The Electric Awakening — Neptune in Aries and the Leo Full Moon</b>
         </p>
       </motion.div>
 
@@ -53,25 +54,30 @@ export default function NewsletterPage() {
       >
         <div className="text-center max-w-3xl mx-auto leading-loose text-[1.05rem] font-serif text-gray-700 tracking-wider">
           <p className="mb-6">
-            This week marks a meaningful energetic pivot. The{" "}
-            <b>Sun completes its journey through Capricorn</b> and enters{" "}
-            <b>Aquarius on January 20</b>, shifting focus from responsibility
-            and structure toward innovation, authenticity, and future vision. We
-            are still in the early days of the <b>Capricorn New Moon cycle</b>,
-            making this an ideal time to gently grow what you committed to last
-            week — without rushing the process.
+            This week is charged with momentum and meaning. On <b>January 26</b>
+            , <b>Neptune enters Aries</b>, beginning a long collective shift
+            from dreamy dissolution toward courageous spiritual initiation — the
+            call to live our ideals, not just imagine them. The air is
+            unmistakably Aquarian: the <b>Sun</b>, <b>Mercury</b>, <b>Venus</b>,
+            and <b>Mars</b> all travel through <b>Aquarius</b>, amplifying
+            future vision, truth-telling, liberation, and the desire to align
+            with what is real.
             <br />
-            <b>Mercury continues in Capricorn</b> through most of the week,
-            keeping thinking practical and grounded, before{" "}
-            <b>entering Aquarius on January 25</b>, where ideas open up and
-            perspectives widen. <b>Venus travels through Aquarius</b>,
-            encouraging honest, unconventional expressions of love and value.{" "}
-            <b>Mars remains in Capricorn</b>, providing discipline and stamina
-            to support the Aquarian visions beginning to form.
+            On <b>January 27</b>, <b>Mars conjunct Pluto in Aquarius</b> ignites
+            intensity and transformation — a threshold moment for power, agency,
+            and bold action. On <b>January 29</b>,{" "}
+            <b>Mercury conjunct Venus in Aquarius</b> sweetens communication and
+            supports honest, heart-led conversations. The week builds toward a
+            radiant climax: the <b>Full Moon in Leo on February 1</b>,
+            illuminating creativity, confidence, and the courage to be seen.
+            <br />
+            Let this week remind you: your future is not only something you plan
+            — it is something you embody, moment by moment, with brave love and
+            clear intention.
           </p>
           <p>
-            Let this week bridge wisdom and originality — build wisely, then
-            allow yourself to imagine differently.
+            Let this week awaken your vision, refine your voice, and ignite the
+            courage to shine without shrinking.
           </p>
         </div>
       </motion.div>
@@ -80,157 +86,165 @@ export default function NewsletterPage() {
       {[
         {
           title: "🌕 Celestial Flow",
-          yin: "Let space and perspective awaken new insight.",
-          yang: "Let disciplined effort support emerging vision.",
+          yin: "Let your intuition become brave and embodied.",
+          yang: "Let bold truth guide purposeful change.",
           content: (
             <>
               <p className="mt-4">
                 <b>Astrological Highlights:</b>
-                <br />- <b>Jan 19 – Sun in Capricorn</b>: final refinements,
-                responsibility, and structural clarity.
-                <br />- <b>Jan 20 – Sun enters Aquarius</b>: innovation,
-                individuality, and future-oriented thinking come online.
-                <br />- <b>All week – Mars in Capricorn</b>: sustained effort,
-                patience, and focused ambition.
-                <br />- <b>All week – Venus in Aquarius</b>: authentic
-                connections, freedom in relationships, and values aligned with
-                truth.
-                <br />- <b>Jan 25 – Mercury enters Aquarius</b>: mental
-                breakthroughs, fresh perspectives, and unconventional ideas.
-                <br />- <b>Jan 25/26 – First Quarter Moon in Taurus</b>: steady
-                action and practical follow-through support growth.
+                <br />- <b>Jan 26 – Neptune enters Aries</b>: a new era of
+                spiritual initiation, courageous ideals, and awakening purpose.
+                <br />- <b>Jan 26 – First Quarter Moon in Taurus</b>: grounded
+                effort and steady choices strengthen what you are building.
+                <br />- <b>Jan 27 – Mars conjunct Pluto in Aquarius</b>: intense
+                transformation, power reclamation, and fearless forward motion.
+                <br />- <b>Jan 29 – Mercury conjunct Venus in Aquarius</b>:
+                heart-led conversations, elegant honesty, and social harmony.
+                <br />- <b>Feb 1 – Full Moon in Leo</b>: creative confidence,
+                visibility, celebration, and the courage to be fully expressed.
               </p>
               <p className="mt-4">
                 <b>Reflections:</b>
                 <br />
-                - Where am I ready to think differently without abandoning what
-                works?
+                - Where am I being asked to live my truth more boldly?
                 <br />
-                - What responsibility can now feel lighter if I approach it with
-                creativity?
-                <br />- How can stability and innovation coexist in my life?
+                - What power dynamic is ready to transform — within me or around
+                me?
+                <br />- What part of me is ready to be seen, honored, and
+                celebrated?
               </p>
               <p className="mt-4">
                 <b>Rituals:</b>
-                <br />- On <b>January 20</b>, write down one outdated rule or
-                belief you are ready to question.
-                <br />- Midweek, take one small, disciplined step toward a new
-                idea you have been quietly considering.
-                <br />- On <b>January 25</b>, commit to a tangible action that
-                grounds a fresh vision into reality.
+                <br />- On <b>January 26</b>, write one spiritual ideal you are
+                ready to embody through action, not just intention.
+                <br />- On <b>January 27</b>, move your body with purpose (a
+                strong walk, a powerful flow, a release shake) to transmute
+                intensity into clarity.
+                <br />- On <b>February 1</b>, light a candle and speak aloud one
+                promise to yourself: a creative vow, a leadership vow, or a vow
+                to take up space with love.
               </p>
             </>
           ),
         },
         {
           title: "💗 Wellness & Vital Flow",
-          yin: "Let nervous-system ease invite creativity.",
-          yang: "Let consistent movement anchor vitality.",
+          yin: "Let your nervous system feel safe in expansion.",
+          yang: "Let movement clear intensity into vitality.",
           content: (
             <>
               <p className="mt-4">
-                As Aquarius energy rises, your system benefits from variety
-                paired with routine. Keep your core practices steady — walks,
-                strength, yoga — but allow small changes that keep you mentally
-                engaged and inspired.
+                Aquarius energy can amplify mental electricity, while the Mars–
+                Pluto conjunction can intensify emotions and adrenaline. Choose
+                grounding, body-based practices: brisk walking, strength work,
+                leg-focused yoga, or dancing to discharge stress and restore
+                flow.
               </p>
               <p className="mt-4">
-                Support circulation and clarity with hydration, magnesium-rich
-                foods, and gentle stretching for calves, ankles, and lower legs.
-                Balance stimulation with grounding nourishment.
+                Support your system with hydration, mineral-rich foods, and
+                steady meals. Magnesium, warm soups, and nourishing proteins can
+                help stabilize the body while your mind stretches into new
+                horizons.
               </p>
             </>
           ),
         },
         {
           title: "🌿 Rest & Renewal",
-          yin: "Let mental spaciousness restore you.",
-          yang: "Let rest sharpen focus and direction.",
+          yin: "Let stillness soften your inner intensity.",
+          yang: "Let deep rest restore your creative fire.",
           content: (
             <>
               <p className="mt-4">
-                Aquarius season can bring mental buzz. Create intentional
-                pauses: brief screen breaks, fresh air, or quiet reflection
-                without input. Space allows insight to surface naturally.
+                This is a week to protect your energetic boundaries. Limit
+                overstimulation, especially around <b>January 27</b>, and create
+                quiet rituals: warm baths, yin yoga, gentle breathwork, or
+                candlelit evenings without screens.
               </p>
               <p className="mt-4">
-                Before sleep, ask: &quot;What idea is asking for patience rather
-                than pressure?&quot; Let rest integrate inspiration into
-                something sustainable.
+                Before sleep, ask: &quot;What would it feel like to be fully
+                safe in my own power?&quot; Let your dreams reveal the next
+                emotional truth you are ready to hold.
               </p>
             </>
           ),
         },
         {
           title: "✨ Abundance in Alignment",
-          yin: "Receive innovative solutions with openness.",
-          yang: "Build security through steady execution.",
+          yin: "Receive new possibilities without forcing outcomes.",
+          yang: "Take brave action where your future is calling.",
           content: (
             <>
               <p className="mt-4">
-                Mars in Capricorn continues to favor long-term planning and
-                disciplined work, while Venus and Mercury in Aquarius invite new
-                approaches to value, income, and collaboration. Innovation is
-                most effective when paired with structure.
+                With so much Aquarius emphasis, abundance arrives through ideas,
+                networks, and innovative pivots. Neptune in Aries adds a deeper
+                layer: your prosperity is connected to your courage to follow a
+                soul-led path — even if it looks unconventional.
               </p>
               <p className="mt-4">
-                Experiment thoughtfully: test a new idea on a small scale, keep
-                what works, and release what doesn&apos;t without judgment.
-                Sustainable abundance grows through intelligent adaptation.
+                Use the <b>First Quarter Moon</b> to take one practical step,
+                then let the <b>Leo Full Moon</b> help you own your brilliance:
+                share your work, speak your truth, make the pitch, publish the
+                post, or show up as the person you are becoming.
               </p>
             </>
           ),
         },
         {
           title: "🧘 Stillness & Power",
-          yin: "Let clarity arrive through spacious awareness.",
-          yang: "Let grounded action carry your insight forward.",
+          yin: "Let your inner fire become sacred and calm.",
+          yang: "Let your voice become clear and courageous.",
           content: (
             <>
               <p className="mt-4">
-                Visualize standing on solid ground beneath a wide open sky. With
-                each inhale, welcome possibility; with each exhale, anchor it
-                into your body. You are supported by both vision and effort.
+                Visualize a golden sun in your heart and a cool, clear sky in
+                your mind. With each inhale, feel courage rise; with each
+                exhale, feel peace steady you. You are both the spark and the
+                sanctuary.
               </p>
               <p className="mt-4">
-                <b>Affirm:</b> I allow new ideas to grow on steady ground.
+                <b>Affirm:</b> I am safe to be powerful, and I use my power with
+                love.
                 <br />
-                <b>Prompt:</b> What future-focused idea feels exciting — and
-                what practical step makes it real?
+                <b>Prompt:</b> What would I create, say, or claim if I stopped
+                shrinking to stay comfortable?
               </p>
             </>
           ),
         },
         {
           title: "🌟 Sacred Affirmation",
-          yin: "Let openness expand your inner world.",
-          yang: "Let commitment stabilize your path.",
+          yin: "Let your spirit lead with brave tenderness.",
+          yang: "Let your actions match your highest truth.",
           content: (
             <>
               <p className="mt-4 italic">
-                "I honor what I have built, and I welcome new ways of becoming."
+                "I choose courageous truth, loving power, and radiant
+                self-expression."
               </p>
               <p className="mt-4">
-                Repeat this affirmation as the Sun moves into Aquarius, allowing
-                innovation to rest on a foundation of wisdom.
+                Speak this affirmation daily, and especially under the Leo Full
+                Moon, to embody confidence without hardness and visibility
+                without fear.
               </p>
             </>
           ),
         },
         {
           title: "🔮 A Final Whisper",
-          yin: "Let curiosity guide you gently forward.",
-          yang: "Let consistency turn vision into form.",
+          yin: "Let your future be born from faith.",
+          yang: "Let your light become undeniable.",
           content: (
             <>
               <p className="mt-4 italic">
-                "This week, I trust both my structure and my originality."
+                "This week, I rise — brave, clear, and unafraid to shine."
               </p>
               <p className="mt-4">
-                You are not asked to abandon what you&apos;ve built — only to
-                allow it to evolve. Let the week be a conversation between the
-                future you can imagine and the steady actions that make it
-                possible.
+                Neptune in Aries asks for spiritual courage. Mars conjunct Pluto
+                asks for honest power. And the Leo Full Moon asks for radiant
+                self-expression. Let this be your invitation: release the old
+                self that needed permission, and step forward as the one who
+                simply chooses.
               </p>
             </>
           ),
@@ -272,7 +286,7 @@ export default function NewsletterPage() {
             </p>
             {section.content}
           </motion.section>
-        )
+        ),
       )}
 
       {/* Floating Yin–Yang Symbol */}
