@@ -24,7 +24,7 @@ export default function NewsletterPage() {
         </h1>
 
         <h2 className="text-2xl font-serif text-gray-800 mb-1">
-          January 26 – February 1, 2026
+          February 2 – February 8, 2026
         </h2>
 
         <p className="italic text-sm text-gray-600 tracking-wide my-6">
@@ -34,7 +34,10 @@ export default function NewsletterPage() {
 
         <p className="italic text-lg text-gray-700">
           Theme:{" "}
-          <b>The Electric Awakening — Neptune in Aries and the Leo Full Moon</b>
+          <b>
+            Intuitive Insight & Brave Innovation — From Leo Lunar Illumination
+            to Mercury’s Pisces Shift
+          </b>
         </p>
       </motion.div>
 
@@ -54,30 +57,25 @@ export default function NewsletterPage() {
       >
         <div className="text-center max-w-3xl mx-auto leading-loose text-[1.05rem] font-serif text-gray-700 tracking-wider">
           <p className="mb-6">
-            This week is charged with momentum and meaning. On <b>January 26</b>
-            , <b>Neptune enters Aries</b>, beginning a long collective shift
-            from dreamy dissolution toward courageous spiritual initiation — the
-            call to live our ideals, not just imagine them. The air is
-            unmistakably Aquarian: the <b>Sun</b>, <b>Mercury</b>, <b>Venus</b>,
-            and <b>Mars</b> all travel through <b>Aquarius</b>, amplifying
-            future vision, truth-telling, liberation, and the desire to align
-            with what is real.
+            This week opens under the final glow of the **Leo Full Moon** — a
+            spotlight on confidence, creative authenticity, and emotional
+            illumination that still lingers in the first days of February. 🌕
+            Soon after, **Uranus stations direct in Taurus** on <b>Feb 3</b>,
+            stabilizing surprising shifts and helping innovations take root in
+            practical reality. Midweek, we encounter dynamic sparks: **Mercury
+            squares Uranus** on <b>Feb 5</b>, shaking up old mental patterns
+            with sudden insights. On <b>Feb 6</b>, **Mercury enters Pisces**,
+            softening logic into intuition and inviting dreamy, poetic thinking.
+            The week finishes with **Venus square Uranus** on <b>Feb 8</b>,
+            encouraging liberated expressions of love, beauty, and values.
             <br />
-            On <b>January 27</b>, <b>Mars conjunct Pluto in Aquarius</b> ignites
-            intensity and transformation — a threshold moment for power, agency,
-            and bold action. On <b>January 29</b>,{" "}
-            <b>Mercury conjunct Venus in Aquarius</b> sweetens communication and
-            supports honest, heart-led conversations. The week builds toward a
-            radiant climax: the <b>Full Moon in Leo on February 1</b>,
-            illuminating creativity, confidence, and the courage to be seen.
-            <br />
-            Let this week remind you: your future is not only something you plan
-            — it is something you embody, moment by moment, with brave love and
-            clear intention.
+            This is a week to balance the fire of creative clarity with the
+            receptive flow of imagination — to think with your heart and act
+            with vision.
           </p>
           <p>
-            Let this week awaken your vision, refine your voice, and ignite the
-            courage to shine without shrinking.
+            Let this week remind you: clarity can come from stillness, and
+            inspiration can come from surprise.
           </p>
         </div>
       </motion.div>
@@ -86,165 +84,153 @@ export default function NewsletterPage() {
       {[
         {
           title: "🌕 Celestial Flow",
-          yin: "Let your intuition become brave and embodied.",
-          yang: "Let bold truth guide purposeful change.",
+          yin: "Let the Full Moon illuminate your inner fire and heartfelt truth.",
+          yang: "Let fresh innovation spark intentional action.",
           content: (
             <>
               <p className="mt-4">
                 <b>Astrological Highlights:</b>
-                <br />- <b>Jan 26 – Neptune enters Aries</b>: a new era of
-                spiritual initiation, courageous ideals, and awakening purpose.
-                <br />- <b>Jan 26 – First Quarter Moon in Taurus</b>: grounded
-                effort and steady choices strengthen what you are building.
-                <br />- <b>Jan 27 – Mars conjunct Pluto in Aquarius</b>: intense
-                transformation, power reclamation, and fearless forward motion.
-                <br />- <b>Jan 29 – Mercury conjunct Venus in Aquarius</b>:
-                heart-led conversations, elegant honesty, and social harmony.
-                <br />- <b>Feb 1 – Full Moon in Leo</b>: creative confidence,
-                visibility, celebration, and the courage to be fully expressed.
+                <br />- <b>Feb 2 – Leo Full Moon carried forward</b>:
+                confidence, creativity, recognition, and emotional illumination.
+                <br />- <b>Feb 3 – Uranus stations direct in Taurus</b>:
+                stabilizes unexpected shifts and supports grounded innovation.
+                <br />- <b>Feb 5 – Mercury square Uranus</b>: sudden insights,
+                bold ideas, and mental recalibration.
+                <br />- <b>Feb 6 – Mercury enters Pisces</b>: intuitive, dreamy,
+                holistic thinking rises.
+                <br />- <b>Feb 8 – Venus square Uranus</b>: liberated love,
+                spontaneous connection, and creative surprises.
               </p>
               <p className="mt-4">
                 <b>Reflections:</b>
                 <br />
-                - Where am I being asked to live my truth more boldly?
+                - What truth did the Full Moon reveal that still feels alive?
                 <br />
-                - What power dynamic is ready to transform — within me or around
-                me?
-                <br />- What part of me is ready to be seen, honored, and
-                celebrated?
+                - Where in your life is surprise asking you to stretch — without
+                losing your center?
+                <br />- How can imagination and structure collaborate this week?
               </p>
               <p className="mt-4">
                 <b>Rituals:</b>
-                <br />- On <b>January 26</b>, write one spiritual ideal you are
-                ready to embody through action, not just intention.
-                <br />- On <b>January 27</b>, move your body with purpose (a
-                strong walk, a powerful flow, a release shake) to transmute
-                intensity into clarity.
-                <br />- On <b>February 1</b>, light a candle and speak aloud one
-                promise to yourself: a creative vow, a leadership vow, or a vow
-                to take up space with love.
+                <br />- On <b>Feb 3</b>, journal one surprise you want to make
+                steady — a creative habit, a relationship rhythm, or a new
+                intention.
+                <br />- On <b>Feb 5</b>, do a creative free-write: let ideas
+                flow uncensored for 10–15 minutes.
+                <br />- On <b>Feb 6</b>, take a slow, meditative walk and notice
+                what your intuition wants to tell you.
               </p>
             </>
           ),
         },
         {
           title: "💗 Wellness & Vital Flow",
-          yin: "Let your nervous system feel safe in expansion.",
-          yang: "Let movement clear intensity into vitality.",
+          yin: "Let the nervous system soften into receptive awareness.",
+          yang: "Let consistent movement anchor your vitality.",
           content: (
             <>
               <p className="mt-4">
-                Aquarius energy can amplify mental electricity, while the Mars–
-                Pluto conjunction can intensify emotions and adrenaline. Choose
-                grounding, body-based practices: brisk walking, strength work,
-                leg-focused yoga, or dancing to discharge stress and restore
-                flow.
+                Pisces and Aquarius influences ask for nourishment that balances
+                energy and calm. Move gently: long walks, restorative yoga,
+                breathwork, or dance that releases tension.
               </p>
               <p className="mt-4">
-                Support your system with hydration, mineral-rich foods, and
-                steady meals. Magnesium, warm soups, and nourishing proteins can
-                help stabilize the body while your mind stretches into new
-                horizons.
+                Support your system with cooling herbs, hydration, and
+                nutrient-rich meals. A short evening ritual — tea, warmth, dim
+                lights — can support restful integration of the day’s intensity.
               </p>
             </>
           ),
         },
         {
           title: "🌿 Rest & Renewal",
-          yin: "Let stillness soften your inner intensity.",
-          yang: "Let deep rest restore your creative fire.",
+          yin: "Let stillness become your sanctuary.",
+          yang: "Let deep rest deepen your insight.",
           content: (
             <>
               <p className="mt-4">
-                This is a week to protect your energetic boundaries. Limit
-                overstimulation, especially around <b>January 27</b>, and create
-                quiet rituals: warm baths, yin yoga, gentle breathwork, or
-                candlelit evenings without screens.
+                With Mercury in Pisces, rest isn’t “checking out” — it’s tuning
+                in to subtle wisdom. Prioritize sleep routines and calm rituals
+                before bed. This opens space for imagination to become intuitive
+                clarity.
               </p>
               <p className="mt-4">
-                Before sleep, ask: &quot;What would it feel like to be fully
-                safe in my own power?&quot; Let your dreams reveal the next
-                emotional truth you are ready to hold.
+                Before sleep, ask: &quot;What did my heart want to tell me
+                today?&quot; Let the answer float up without judgment or force.
               </p>
             </>
           ),
         },
         {
           title: "✨ Abundance in Alignment",
-          yin: "Receive new possibilities without forcing outcomes.",
-          yang: "Take brave action where your future is calling.",
+          yin: "Receive what opens your heart and expands your vision.",
+          yang: "Build what feels soulful and practical.",
           content: (
             <>
               <p className="mt-4">
-                With so much Aquarius emphasis, abundance arrives through ideas,
-                networks, and innovative pivots. Neptune in Aries adds a deeper
-                layer: your prosperity is connected to your courage to follow a
-                soul-led path — even if it looks unconventional.
+                Venus square Uranus invites adaptive approaches to
+                relationships, creativity, and value. New opportunities can
+                arrive from unexpected sources — be willing to listen before
+                choosing.
               </p>
               <p className="mt-4">
-                Use the <b>First Quarter Moon</b> to take one practical step,
-                then let the <b>Leo Full Moon</b> help you own your brilliance:
-                share your work, speak your truth, make the pitch, publish the
-                post, or show up as the person you are becoming.
+                Mercury in Pisces helps you see the “soft edges” of abundance:
+                community, intuition, imagination, and empathy. Let these become
+                part of your wealth-building practice.
               </p>
             </>
           ),
         },
         {
           title: "🧘 Stillness & Power",
-          yin: "Let your inner fire become sacred and calm.",
-          yang: "Let your voice become clear and courageous.",
+          yin: "Let inner curiosity expand your awareness.",
+          yang: "Let deliberate action anchor your inspiration.",
           content: (
             <>
               <p className="mt-4">
-                Visualize a golden sun in your heart and a cool, clear sky in
-                your mind. With each inhale, feel courage rise; with each
-                exhale, feel peace steady you. You are both the spark and the
-                sanctuary.
+                Visualize yourself with one foot rooted deep like an oak and one
+                foot reaching out like a stream of light. You are both stable
+                and connected — grounded, yet open.
               </p>
               <p className="mt-4">
-                <b>Affirm:</b> I am safe to be powerful, and I use my power with
-                love.
+                <b>Affirm:</b> I open my heart to insight and act with clear
+                intention.
                 <br />
-                <b>Prompt:</b> What would I create, say, or claim if I stopped
-                shrinking to stay comfortable?
+                <b>Prompt:</b> What wisdom wants to be lived, not just known?
               </p>
             </>
           ),
         },
         {
           title: "🌟 Sacred Affirmation",
-          yin: "Let your spirit lead with brave tenderness.",
-          yang: "Let your actions match your highest truth.",
+          yin: "Let imagination guide your spirit.",
+          yang: "Let intention shape your day.",
           content: (
             <>
               <p className="mt-4 italic">
-                "I choose courageous truth, loving power, and radiant
-                self-expression."
+                "I balance revelation with presence, imagination with grounded
+                intention."
               </p>
               <p className="mt-4">
-                Speak this affirmation daily, and especially under the Leo Full
-                Moon, to embody confidence without hardness and visibility
-                without fear.
+                Speak this affirmation daily, especially in the moments when
+                insight and action overlap.
               </p>
             </>
           ),
         },
         {
           title: "🔮 A Final Whisper",
-          yin: "Let your future be born from faith.",
-          yang: "Let your light become undeniable.",
+          yin: "Let your inner insight calm your heart.",
+          yang: "Let your creative bravery become your practice.",
           content: (
             <>
               <p className="mt-4 italic">
-                "This week, I rise — brave, clear, and unafraid to shine."
+                "This week, I remain open — to surprise, to intuition, to
+                unexpected beauty."
               </p>
               <p className="mt-4">
-                Neptune in Aries asks for spiritual courage. Mars conjunct Pluto
-                asks for honest power. And the Leo Full Moon asks for radiant
-                self-expression. Let this be your invitation: release the old
-                self that needed permission, and step forward as the one who
-                simply chooses.
+                As Mercury moves into Pisces and dynamic aspects activate the
+                sky, you are invited to balance wonder with grounded choice.
               </p>
             </>
           ),
