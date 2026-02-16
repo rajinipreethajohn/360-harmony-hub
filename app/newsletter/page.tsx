@@ -24,7 +24,7 @@ export default function NewsletterPage() {
         </h1>
 
         <h2 className="text-2xl font-serif text-gray-800 mb-1">
-          February 9 – February 15, 2026
+          February 16 – February 22, 2026
         </h2>
 
         <p className="italic text-sm text-gray-600 tracking-wide my-6">
@@ -35,8 +35,8 @@ export default function NewsletterPage() {
         <p className="italic text-lg text-gray-700">
           Theme:{" "}
           <b>
-            Soft Power and Sacred Courage — Pisces Love, Aquarian Vision, and
-            Saturn&apos;s New Chapter
+            Vision Into Surrender — Aquarius Seeds and Pisces Season&apos;s
+            Sacred Flow
           </b>
         </p>
       </motion.div>
@@ -57,27 +57,24 @@ export default function NewsletterPage() {
       >
         <div className="text-center max-w-3xl mx-auto leading-loose text-[1.05rem] font-serif text-gray-700 tracking-wider">
           <p className="mb-6">
-            This week blends bright Aquarian vision with the tender, intuitive
-            waters of Pisces. The <b>Sun remains in Aquarius</b>, keeping your
-            perspective future-facing, while{" "}
-            <b>Mercury and Venus move through Pisces</b>, softening the mind and
-            opening the heart. Communication becomes more intuitive, emotional
-            truth feels louder than logic, and love asks for compassion over
-            control.
+            This week begins with bright, future-minded Aquarian energy and
+            gently transitions into the mystic waters of Pisces season. On{" "}
+            <b>February 17</b>, the <b>New Moon in Aquarius</b> invites bold
+            intentions around innovation, freedom, and authentic self-expression.
+            Then, on <b>February 18</b>, the <b>Sun enters Pisces</b>, shifting
+            the collective tone from mental clarity to emotional depth and
+            spiritual surrender.
             <br />
-            On <b>February 9</b>, the <b>Third Quarter Moon</b> invites release,
-            reflection, and honest editing: what no longer fits the life you are
-            building? Then, on <b>February 13</b>, <b>Saturn enters Aries</b>,
-            beginning a powerful new era of disciplined courage. This is the
-            call to mature your independence, strengthen your inner backbone,
-            and commit to the brave life you keep sensing is possible.
+            <b>Mercury and Venus in Pisces</b> continue to soften communication
+            and relationships, encouraging compassion, creativity, and intuitive
+            decision-making. Meanwhile, <b>Saturn in Aries</b> asks you to bring
+            discipline to your independence and courage to your commitments.
             <br />
-            Let this week be a sacred combination: softness that heals, and
-            courage that leads.
+            Let this week be a bridge: plant visionary seeds, then water them
+            with trust.
           </p>
           <p>
-            Let this week help you listen deeply, release gently, and step
-            forward with steady, soul-led strength.
+            Let your mind imagine freely, and let your heart guide what grows.
           </p>
         </div>
       </motion.div>
@@ -86,156 +83,147 @@ export default function NewsletterPage() {
       {[
         {
           title: "🌕 Celestial Flow",
-          yin: "Let compassion guide your choices and soothe your heart.",
-          yang: "Let courage become disciplined and intentional.",
+          yin: "Let intuition soften your path forward.",
+          yang: "Let clarity shape your new beginnings.",
           content: (
             <>
               <p className="mt-4">
                 <b>Astrological Highlights:</b>
-                <br />- <b>All week – Sun in Aquarius</b>: innovation,
-                community, future vision, and truth-telling.
-                <br />- <b>All week – Mercury in Pisces</b>: intuitive thinking,
-                poetic communication, and emotional intelligence.
-                <br />- <b>All week – Venus in Pisces</b>: soulful love,
-                creativity, forgiveness, and softened relationship dynamics.
-                <br />- <b>Feb 9 – Third Quarter Moon</b>: release, simplify,
-                and clear energy before new beginnings.
-                <br />- <b>Feb 13 – Saturn enters Aries</b>: a new chapter of
-                responsibility, courage, and mature self-leadership.
+                <br />- <b>Feb 17 – New Moon in Aquarius</b>: fresh ideas,
+                visionary intentions, and courageous authenticity.
+                <br />- <b>Feb 18 – Sun enters Pisces</b>: compassion,
+                imagination, and emotional awareness deepen.
+                <br />- <b>All week – Mercury in Pisces</b>: intuitive
+                conversations, poetic thought, and heart-led insight.
+                <br />- <b>All week – Venus in Pisces</b>: soulful connection,
+                creativity, and gentle healing in relationships.
+                <br />- <b>All week – Saturn in Aries</b>: disciplined courage
+                and responsible independence.
               </p>
               <p className="mt-4">
                 <b>Reflections:</b>
                 <br />
-                - What is ready to be released so my heart can breathe again?
+                - What new vision am I ready to commit to?
                 <br />
-                - Where do I need softer boundaries — and where do I need
-                stronger ones?
-                <br />- What brave commitment am I finally ready to honor?
+                - Where does surrender feel wiser than force?
+                <br />- How can I balance imagination with responsibility?
               </p>
               <p className="mt-4">
                 <b>Rituals:</b>
-                <br />- On <b>February 9</b>, write down three things you are
-                complete with — habits, stories, obligations, or emotional
-                patterns — and gently choose release.
-                <br />- Midweek, practice one act of devotion to your intuition:
-                a quiet walk, a long bath, a prayer, or a creative flow session.
-                <br />- On <b>February 13</b>, set one bold boundary or goal and
-                name the small daily discipline that will support it.
+                <br />- On <b>February 17</b>, write three intentions that feel
+                innovative and authentic — not what is expected, but what feels
+                true.
+                <br />- On <b>February 18</b>, create space for stillness:
+                meditate, journal, or spend time near water.
+                <br />- Throughout the week, take one courageous action that
+                aligns with your long-term vision.
               </p>
             </>
           ),
         },
         {
           title: "💗 Wellness & Vital Flow",
-          yin: "Let gentleness restore your inner waters.",
-          yang: "Let consistent movement strengthen your courage.",
+          yin: "Let rest replenish your emotional waters.",
+          yang: "Let steady routines anchor your dreams.",
           content: (
             <>
               <p className="mt-4">
-                Pisces season energy in the mind and heart benefits from
-                nervous-system care. Choose soothing movement: restorative yoga,
-                swimming, long walks, or slow stretching that feels like
-                self-kindness.
+                Pisces season benefits from gentle care. Prioritize hydration,
+                restorative movement, stretching, and mindful breathing.
+                Protect your energy from overstimulation.
               </p>
               <p className="mt-4">
-                Support your body with hydration, mineral-rich foods, warming
-                soups, and steady mealtimes. Saturn&apos;s shift favors simple,
-                repeatable routines that build strength over time.
+                Saturn&apos;s presence in Aries reminds you that wellness also
+                requires consistency. Choose one small habit and honor it daily.
               </p>
             </>
           ),
         },
         {
           title: "🌿 Rest & Renewal",
-          yin: "Let stillness heal what words cannot.",
-          yang: "Let rest prepare you for brave action.",
+          yin: "Let dreams speak without interruption.",
+          yang: "Let clarity rise from stillness.",
           content: (
             <>
               <p className="mt-4">
-                With Mercury and Venus in Pisces, sleep and dream-life may feel
-                more vivid. Create a gentle evening ritual: dim lights, less
-                screen time, soft music, or breathwork that calms the heart.
+                Sleep may feel vivid and symbolic as Pisces season begins.
+                Keep a notebook nearby and record impressions upon waking.
               </p>
               <p className="mt-4">
-                Before sleep, ask: &quot;What am I learning about love, and what
-                am I learning about courage?&quot; Then let the answers arrive
-                in their own time.
+                Create an evening wind-down ritual: dim lighting, calming tea,
+                and gentle breathwork to quiet the nervous system.
               </p>
             </>
           ),
         },
         {
           title: "✨ Abundance in Alignment",
-          yin: "Receive opportunities that feel like peace.",
-          yang: "Build stability through brave consistency.",
+          yin: "Receive inspiration without pressure.",
+          yang: "Build your vision step by step.",
           content: (
             <>
               <p className="mt-4">
-                Venus in Pisces invites abundance through connection, artistry,
-                compassion, and meaning. Let your wealth include the invisible:
-                support, inspiration, emotional safety, and spiritual
-                nourishment.
+                The Aquarius New Moon invites innovative financial and career
+                ideas. Think differently about opportunity and collaboration.
               </p>
               <p className="mt-4">
-                Saturn entering Aries reminds you that prosperity also requires
-                personal leadership. Choose one clear goal, one steady action,
-                and one boundary that protects your energy.
+                As Pisces season unfolds, trust intuitive nudges — but let
+                Saturn&apos;s steady influence help you act with maturity and
+                follow-through.
               </p>
             </>
           ),
         },
         {
           title: "🧘 Stillness & Power",
-          yin: "Let tenderness become your strength.",
-          yang: "Let discipline become your freedom.",
+          yin: "Let softness become your wisdom.",
+          yang: "Let courage become your structure.",
           content: (
             <>
               <p className="mt-4">
-                Visualize a lantern in your chest: warm, steady, and protected.
-                With each inhale, the light grows. With each exhale, it spreads
-                into your life. You do not need to force power — you simply
-                embody it.
+                Visualize standing at the edge of the sea: the horizon wide,
+                infinite possibility before you. With each inhale, feel
+                expansion. With each exhale, feel grounding.
               </p>
               <p className="mt-4">
-                <b>Affirm:</b> I lead my life with courage and compassion.
+                <b>Affirm:</b> I trust my vision, and I honor my timing.
                 <br />
-                <b>Prompt:</b> What daily practice would change my life if I
-                honored it for the next 30 days?
+                <b>Prompt:</b> What new beginning feels both exciting and
+                aligned with my deeper values?
               </p>
             </>
           ),
         },
         {
           title: "🌟 Sacred Affirmation",
-          yin: "Let love soften the edges of fear.",
-          yang: "Let courage steady your path.",
+          yin: "Let surrender soften your edges.",
+          yang: "Let intention guide your steps.",
           content: (
             <>
               <p className="mt-4 italic">
-                "I am gentle with my heart, and I am brave with my life."
+                "I plant bold visions and trust divine timing to unfold them."
               </p>
               <p className="mt-4">
-                Speak this affirmation when you feel overwhelmed: it will return
-                you to softness without losing strength.
+                Speak this affirmation when you feel uncertain. It bridges faith
+                and action.
               </p>
             </>
           ),
         },
         {
           title: "🔮 A Final Whisper",
-          yin: "Let release be tender and complete.",
-          yang: "Let the next step be bold and true.",
+          yin: "Let your heart guide what your mind begins.",
+          yang: "Let commitment strengthen your dreams.",
           content: (
             <>
               <p className="mt-4 italic">
-                "This week, I release what is finished, and I choose the brave
-                life I am ready to live."
+                "This week, I dare to envision boldly and surrender gracefully."
               </p>
               <p className="mt-4">
-                Aquarius shows you the future. Pisces reminds you to feel your
-                way there. And Saturn&apos;s entrance into Aries asks you to
-                commit — not perfectly, but faithfully. Let love guide your
-                choices, and let courage keep you moving.
+                The Aquarius New Moon plants seeds of originality. Pisces season
+                waters them with compassion. And Saturn in Aries asks you to
+                tend them faithfully. Let imagination lead — and let discipline
+                protect what grows.
               </p>
             </>
           ),
@@ -277,7 +265,7 @@ export default function NewsletterPage() {
             </p>
             {section.content}
           </motion.section>
-        ),
+        )
       )}
 
       {/* Floating Yin–Yang Symbol */}
