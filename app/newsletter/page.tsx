@@ -24,7 +24,7 @@ export default function NewsletterPage() {
         </h1>
 
         <h2 className="text-2xl font-serif text-gray-800 mb-1">
-          February 16 – February 22, 2026
+          February 23 – March 01, 2026
         </h2>
 
         <p className="italic text-sm text-gray-600 tracking-wide my-6">
@@ -35,8 +35,8 @@ export default function NewsletterPage() {
         <p className="italic text-lg text-gray-700">
           Theme:{" "}
           <b>
-            Vision Into Surrender — Aquarius Seeds and Pisces Season&apos;s
-            Sacred Flow
+            Sacred Imagination and Steady Action — Pisces Flow Meets Gemini
+            Momentum
           </b>
         </p>
       </motion.div>
@@ -57,24 +57,23 @@ export default function NewsletterPage() {
       >
         <div className="text-center max-w-3xl mx-auto leading-loose text-[1.05rem] font-serif text-gray-700 tracking-wider">
           <p className="mb-6">
-            This week begins with bright, future-minded Aquarian energy and
-            gently transitions into the mystic waters of Pisces season. On{" "}
-            <b>February 17</b>, the <b>New Moon in Aquarius</b> invites bold
-            intentions around innovation, freedom, and authentic self-expression.
-            Then, on <b>February 18</b>, the <b>Sun enters Pisces</b>, shifting
-            the collective tone from mental clarity to emotional depth and
-            spiritual surrender.
+            Pisces season deepens this week, inviting compassion, intuition, and
+            creative surrender. With the <b>Sun, Mercury, and Venus in Pisces</b>,
+            the collective tone softens — encouraging emotional honesty,
+            imagination, and soulful connection.
             <br />
-            <b>Mercury and Venus in Pisces</b> continue to soften communication
-            and relationships, encouraging compassion, creativity, and intuitive
-            decision-making. Meanwhile, <b>Saturn in Aries</b> asks you to bring
-            discipline to your independence and courage to your commitments.
+            On <b>February 25</b>, the <b>First Quarter Moon in Gemini</b>
+            creates forward motion. This lunar phase asks you to take action on
+            ideas seeded during the recent New Moon. Gemini energy brings
+            curiosity, communication, and movement — reminding you that insight
+            must eventually be expressed.
             <br />
-            Let this week be a bridge: plant visionary seeds, then water them
-            with trust.
+            Meanwhile, <b>Saturn in Aries</b> continues to support disciplined
+            courage. The message is clear: dream deeply, but act steadily.
           </p>
           <p>
-            Let your mind imagine freely, and let your heart guide what grows.
+            Let intuition inspire you, and let thoughtful action move you
+            forward.
           </p>
         </div>
       </motion.div>
@@ -83,147 +82,146 @@ export default function NewsletterPage() {
       {[
         {
           title: "🌕 Celestial Flow",
-          yin: "Let intuition soften your path forward.",
-          yang: "Let clarity shape your new beginnings.",
+          yin: "Let imagination open your inner world.",
+          yang: "Let focused communication move your vision ahead.",
           content: (
             <>
               <p className="mt-4">
                 <b>Astrological Highlights:</b>
-                <br />- <b>Feb 17 – New Moon in Aquarius</b>: fresh ideas,
-                visionary intentions, and courageous authenticity.
-                <br />- <b>Feb 18 – Sun enters Pisces</b>: compassion,
-                imagination, and emotional awareness deepen.
-                <br />- <b>All week – Mercury in Pisces</b>: intuitive
-                conversations, poetic thought, and heart-led insight.
-                <br />- <b>All week – Venus in Pisces</b>: soulful connection,
-                creativity, and gentle healing in relationships.
-                <br />- <b>All week – Saturn in Aries</b>: disciplined courage
-                and responsible independence.
+                <br />- <b>All week – Sun in Pisces</b>: compassion,
+                spirituality, creativity, and emotional awareness.
+                <br />- <b>All week – Mercury in Pisces</b>: intuitive thought,
+                inspired speech, and poetic insight.
+                <br />- <b>All week – Venus in Pisces</b>: soulful love,
+                empathy, artistic inspiration, and gentle connection.
+                <br />- <b>Feb 25 – First Quarter Moon in Gemini</b>: action,
+                decisions, conversations, and mental clarity.
+                <br />- <b>All week – Saturn in Aries</b>: courageous
+                responsibility and disciplined self-leadership.
               </p>
               <p className="mt-4">
                 <b>Reflections:</b>
                 <br />
-                - What new vision am I ready to commit to?
+                - Where is my intuition guiding me toward expression?
                 <br />
-                - Where does surrender feel wiser than force?
-                <br />- How can I balance imagination with responsibility?
+                - What conversation needs clarity and courage?
+                <br />- How can I balance dreaming with decisive movement?
               </p>
               <p className="mt-4">
                 <b>Rituals:</b>
-                <br />- On <b>February 17</b>, write three intentions that feel
-                innovative and authentic — not what is expected, but what feels
-                true.
-                <br />- On <b>February 18</b>, create space for stillness:
-                meditate, journal, or spend time near water.
-                <br />- Throughout the week, take one courageous action that
-                aligns with your long-term vision.
+                <br />- On <b>February 25</b>, take one small but visible step
+                toward a goal you&apos;ve been imagining.
+                <br />- Write or speak your ideas aloud — Gemini energy favors
+                dialogue and articulation.
+                <br />- Throughout the week, practice quiet reflection before
+                making important decisions.
               </p>
             </>
           ),
         },
         {
           title: "💗 Wellness & Vital Flow",
-          yin: "Let rest replenish your emotional waters.",
-          yang: "Let steady routines anchor your dreams.",
+          yin: "Let rest nourish your emotional body.",
+          yang: "Let light movement energize your spirit.",
           content: (
             <>
               <p className="mt-4">
-                Pisces season benefits from gentle care. Prioritize hydration,
-                restorative movement, stretching, and mindful breathing.
-                Protect your energy from overstimulation.
+                Pisces energy can feel absorbing. Protect your emotional
+                boundaries and prioritize hydration, gentle stretching, and
+                slow, mindful exercise.
               </p>
               <p className="mt-4">
-                Saturn&apos;s presence in Aries reminds you that wellness also
-                requires consistency. Choose one small habit and honor it daily.
+                Gemini&apos;s influence midweek benefits from fresh air and
+                mental stimulation — reading, journaling, or engaging
+                conversation.
               </p>
             </>
           ),
         },
         {
           title: "🌿 Rest & Renewal",
-          yin: "Let dreams speak without interruption.",
-          yang: "Let clarity rise from stillness.",
+          yin: "Let silence restore your clarity.",
+          yang: "Let insight translate into thoughtful words.",
           content: (
             <>
               <p className="mt-4">
-                Sleep may feel vivid and symbolic as Pisces season begins.
-                Keep a notebook nearby and record impressions upon waking.
+                This is a week to honor both solitude and conversation. Make
+                space for daydreaming, music, or creative expression.
               </p>
               <p className="mt-4">
-                Create an evening wind-down ritual: dim lighting, calming tea,
-                and gentle breathwork to quiet the nervous system.
+                Notice how your dreams and subtle feelings guide practical
+                decisions.
               </p>
             </>
           ),
         },
         {
           title: "✨ Abundance in Alignment",
-          yin: "Receive inspiration without pressure.",
-          yang: "Build your vision step by step.",
+          yin: "Receive inspiration without forcing outcomes.",
+          yang: "Act on ideas with steady commitment.",
           content: (
             <>
               <p className="mt-4">
-                The Aquarius New Moon invites innovative financial and career
-                ideas. Think differently about opportunity and collaboration.
+                Pisces invites abundance through compassion, artistry, and
+                spiritual alignment. Trust intuitive nudges around creative or
+                collaborative opportunities.
               </p>
               <p className="mt-4">
-                As Pisces season unfolds, trust intuitive nudges — but let
-                Saturn&apos;s steady influence help you act with maturity and
-                follow-through.
+                Saturn in Aries reminds you to structure your ambition. Make
+                plans that are bold but realistic.
               </p>
             </>
           ),
         },
         {
           title: "🧘 Stillness & Power",
-          yin: "Let softness become your wisdom.",
-          yang: "Let courage become your structure.",
+          yin: "Let softness become your guidance.",
+          yang: "Let clarity become your momentum.",
           content: (
             <>
               <p className="mt-4">
-                Visualize standing at the edge of the sea: the horizon wide,
-                infinite possibility before you. With each inhale, feel
-                expansion. With each exhale, feel grounding.
+                Visualize waves meeting the shore — constant, rhythmic, steady.
+                Your inner world and outer actions can flow in harmony.
               </p>
               <p className="mt-4">
-                <b>Affirm:</b> I trust my vision, and I honor my timing.
+                <b>Affirm:</b> I move forward with intuitive clarity and steady
+                courage.
                 <br />
-                <b>Prompt:</b> What new beginning feels both exciting and
-                aligned with my deeper values?
+                <b>Prompt:</b> What inspired idea am I ready to bring into
+                motion?
               </p>
             </>
           ),
         },
         {
           title: "🌟 Sacred Affirmation",
-          yin: "Let surrender soften your edges.",
-          yang: "Let intention guide your steps.",
+          yin: "Let inspiration flow freely.",
+          yang: "Let action follow with intention.",
           content: (
             <>
               <p className="mt-4 italic">
-                "I plant bold visions and trust divine timing to unfold them."
+                "I trust my inner guidance, and I act with clarity."
               </p>
               <p className="mt-4">
-                Speak this affirmation when you feel uncertain. It bridges faith
-                and action.
+                Repeat this affirmation when doubt arises — it bridges feeling
+                and focus.
               </p>
             </>
           ),
         },
         {
           title: "🔮 A Final Whisper",
-          yin: "Let your heart guide what your mind begins.",
-          yang: "Let commitment strengthen your dreams.",
+          yin: "Let dreams soften your edges.",
+          yang: "Let courage sharpen your direction.",
           content: (
             <>
               <p className="mt-4 italic">
-                "This week, I dare to envision boldly and surrender gracefully."
+                "This week, I speak my vision and move with steady grace."
               </p>
               <p className="mt-4">
-                The Aquarius New Moon plants seeds of originality. Pisces season
-                waters them with compassion. And Saturn in Aries asks you to
-                tend them faithfully. Let imagination lead — and let discipline
-                protect what grows.
+                Pisces opens the heart. Gemini stirs the mind. Saturn steadies
+                the will. Let your imagination breathe — and let your actions
+                follow with intention.
               </p>
             </>
           ),
