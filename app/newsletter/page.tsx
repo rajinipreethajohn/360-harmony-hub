@@ -24,7 +24,7 @@ export default function NewsletterPage() {
         </h1>
 
         <h2 className="text-2xl font-serif text-gray-800 mb-1">
-          February 9 – February 15, 2026
+          March 02 – March 08, 2026
         </h2>
 
         <p className="italic text-sm text-gray-600 tracking-wide my-6">
@@ -35,8 +35,8 @@ export default function NewsletterPage() {
         <p className="italic text-lg text-gray-700">
           Theme:{" "}
           <b>
-            Soft Power and Sacred Courage — Pisces Love, Aquarian Vision, and
-            Saturn&apos;s New Chapter
+            Eclipse Clarity and Soulful Momentum — Pisces Depth, Virgo Truth,
+            and Brave New Desire
           </b>
         </p>
       </motion.div>
@@ -57,27 +57,28 @@ export default function NewsletterPage() {
       >
         <div className="text-center max-w-3xl mx-auto leading-loose text-[1.05rem] font-serif text-gray-700 tracking-wider">
           <p className="mb-6">
-            This week blends bright Aquarian vision with the tender, intuitive
-            waters of Pisces. The <b>Sun remains in Aquarius</b>, keeping your
-            perspective future-facing, while{" "}
-            <b>Mercury and Venus move through Pisces</b>, softening the mind and
-            opening the heart. Communication becomes more intuitive, emotional
-            truth feels louder than logic, and love asks for compassion over
-            control.
+            This week is a threshold — deeply Pisces, sharply clarifying, and
+            emotionally catalytic. The <b>Sun remains in Pisces</b>, drawing you
+            inward toward intuition, compassion, and spiritual truth. But this
+            is not a soft week only: on <b>March 3</b>, a{" "}
+            <b>Full Moon Lunar Eclipse in Virgo</b> illuminates what is working
+            and what is not. Virgo asks for honesty, refinement, and grounded
+            care — not perfection, but clarity.
             <br />
-            On <b>February 9</b>, the <b>Third Quarter Moon</b> invites release,
-            reflection, and honest editing: what no longer fits the life you are
-            building? Then, on <b>February 13</b>, <b>Saturn enters Aries</b>,
-            beginning a powerful new era of disciplined courage. This is the
-            call to mature your independence, strengthen your inner backbone,
-            and commit to the brave life you keep sensing is possible.
+            On <b>March 2</b>, <b>Mars enters Pisces</b>, shifting motivation
+            from force to feeling. Action becomes more intuitive, devotional,
+            and heart-led. Meanwhile,{" "}
+            <b>Mercury remains retrograde in Pisces</b>, making this a week for
+            revisiting conversations, re-reading your own emotions, and allowing
+            truth to surface in waves rather than in straight lines.
             <br />
-            Let this week be a sacred combination: softness that heals, and
-            courage that leads.
+            Then on <b>March 6</b>, <b>Venus enters Aries</b>, bringing a fresh
+            spark to love, desire, money, and confidence. The message is clear:
+            release what is misaligned, refine what matters, and choose brave,
+            clean desire moving forward.
           </p>
           <p>
-            Let this week help you listen deeply, release gently, and step
-            forward with steady, soul-led strength.
+            Let this week cleanse your inner world and reawaken your courage.
           </p>
         </div>
       </motion.div>
@@ -86,156 +87,156 @@ export default function NewsletterPage() {
       {[
         {
           title: "🌕 Celestial Flow",
-          yin: "Let compassion guide your choices and soothe your heart.",
-          yang: "Let courage become disciplined and intentional.",
+          yin: "Let the eclipse reveal what your soul already knows.",
+          yang: "Let clean desire guide brave, simple action.",
           content: (
             <>
               <p className="mt-4">
                 <b>Astrological Highlights:</b>
-                <br />- <b>All week – Sun in Aquarius</b>: innovation,
-                community, future vision, and truth-telling.
-                <br />- <b>All week – Mercury in Pisces</b>: intuitive thinking,
-                poetic communication, and emotional intelligence.
-                <br />- <b>All week – Venus in Pisces</b>: soulful love,
-                creativity, forgiveness, and softened relationship dynamics.
-                <br />- <b>Feb 9 – Third Quarter Moon</b>: release, simplify,
-                and clear energy before new beginnings.
-                <br />- <b>Feb 13 – Saturn enters Aries</b>: a new chapter of
-                responsibility, courage, and mature self-leadership.
+                <br />- <b>All week – Sun in Pisces</b>: intuition, compassion,
+                spiritual sensitivity, and emotional depth.
+                <br />- <b>All week – Mercury retrograde in Pisces</b>: review,
+                reflection, and returning to unfinished emotional truth.
+                <br />- <b>Mar 2 – Mars enters Pisces</b>: heart-led action,
+                devotion, and gentle motivation over force.
+                <br />- <b>Mar 3 – Full Moon Lunar Eclipse in Virgo</b>:
+                clarity, endings, purification, and grounded course correction.
+                <br />- <b>Mar 6 – Venus enters Aries</b>: bold love, fresh
+                confidence, and courageous choices in relationships and value.
+                <br />- <b>All week – Saturn in Aries</b>: disciplined courage,
+                mature self-leadership, and strong inner backbone.
               </p>
               <p className="mt-4">
                 <b>Reflections:</b>
                 <br />
-                - What is ready to be released so my heart can breathe again?
+                - What is the eclipse making impossible to ignore?
                 <br />
-                - Where do I need softer boundaries — and where do I need
-                stronger ones?
-                <br />- What brave commitment am I finally ready to honor?
+                - Where do I need refinement instead of self-criticism?
+                <br />- What brave desire is ready to be honored without guilt?
               </p>
               <p className="mt-4">
                 <b>Rituals:</b>
-                <br />- On <b>February 9</b>, write down three things you are
-                complete with — habits, stories, obligations, or emotional
-                patterns — and gently choose release.
-                <br />- Midweek, practice one act of devotion to your intuition:
-                a quiet walk, a long bath, a prayer, or a creative flow session.
-                <br />- On <b>February 13</b>, set one bold boundary or goal and
-                name the small daily discipline that will support it.
+                <br />- On <b>March 3</b>, declutter one small area (desk, bag,
+                inbox, pantry) as a symbolic cleansing of energy.
+                <br />- All week, return to one conversation, one project, or
+                one feeling you&apos;ve been avoiding — with compassion, not
+                pressure.
+                <br />- On <b>March 6</b>, choose one bold action that says:
+                &quot;I value myself.&quot; Keep it simple and real.
               </p>
             </>
           ),
         },
         {
           title: "💗 Wellness & Vital Flow",
-          yin: "Let gentleness restore your inner waters.",
-          yang: "Let consistent movement strengthen your courage.",
+          yin: "Let gentle care soothe your nervous system.",
+          yang: "Let clean routines support your energy.",
           content: (
             <>
               <p className="mt-4">
-                Pisces season energy in the mind and heart benefits from
-                nervous-system care. Choose soothing movement: restorative yoga,
-                swimming, long walks, or slow stretching that feels like
-                self-kindness.
+                Eclipse weeks can feel emotionally intense. Support your system
+                with hydration, minerals, warm meals, and slower pacing. Allow
+                your body to process feelings without rushing to fix them.
               </p>
               <p className="mt-4">
-                Support your body with hydration, mineral-rich foods, warming
-                soups, and steady mealtimes. Saturn&apos;s shift favors simple,
-                repeatable routines that build strength over time.
+                Virgo eclipse energy loves practical wellness: tidy sleep
+                routines, simple movement, and nourishment that feels clean and
+                supportive. Let small habits be your anchor.
               </p>
             </>
           ),
         },
         {
           title: "🌿 Rest & Renewal",
-          yin: "Let stillness heal what words cannot.",
-          yang: "Let rest prepare you for brave action.",
+          yin: "Let rest become a sacred reset.",
+          yang: "Let stillness reveal the next right step.",
           content: (
             <>
               <p className="mt-4">
-                With Mercury and Venus in Pisces, sleep and dream-life may feel
-                more vivid. Create a gentle evening ritual: dim lights, less
-                screen time, soft music, or breathwork that calms the heart.
+                Mercury retrograde in Pisces asks for deep listening. Give
+                yourself more silence than usual: fewer inputs, less scrolling,
+                more space for intuition to speak.
               </p>
               <p className="mt-4">
-                Before sleep, ask: &quot;What am I learning about love, and what
-                am I learning about courage?&quot; Then let the answers arrive
-                in their own time.
+                Before sleep, ask: &quot;What is my life asking me to
+                simplify?&quot; Let the answer arrive slowly through dreams,
+                sensations, and quiet clarity.
               </p>
             </>
           ),
         },
         {
           title: "✨ Abundance in Alignment",
-          yin: "Receive opportunities that feel like peace.",
-          yang: "Build stability through brave consistency.",
+          yin: "Receive clarity about what truly matters.",
+          yang: "Act boldly where value is unmistakable.",
           content: (
             <>
               <p className="mt-4">
-                Venus in Pisces invites abundance through connection, artistry,
-                compassion, and meaning. Let your wealth include the invisible:
-                support, inspiration, emotional safety, and spiritual
-                nourishment.
+                Virgo eclipse energy highlights systems: money habits, work
+                rhythms, and the practical structures that either support or
+                drain you. Notice what needs adjustment rather than overhaul.
               </p>
               <p className="mt-4">
-                Saturn entering Aries reminds you that prosperity also requires
-                personal leadership. Choose one clear goal, one steady action,
-                and one boundary that protects your energy.
+                With Venus entering Aries, abundance also responds to
+                self-belief. Make one confident decision this week that protects
+                your time, your worth, or your energy.
               </p>
             </>
           ),
         },
         {
           title: "🧘 Stillness & Power",
-          yin: "Let tenderness become your strength.",
-          yang: "Let discipline become your freedom.",
+          yin: "Let your heart soften into truth.",
+          yang: "Let courage rise from calm clarity.",
           content: (
             <>
               <p className="mt-4">
-                Visualize a lantern in your chest: warm, steady, and protected.
-                With each inhale, the light grows. With each exhale, it spreads
-                into your life. You do not need to force power — you simply
-                embody it.
+                Visualize a bowl of clear water. With each inhale, the water
+                becomes still. With each exhale, anything cloudy settles to the
+                bottom. You do not force clarity — you allow it.
               </p>
               <p className="mt-4">
-                <b>Affirm:</b> I lead my life with courage and compassion.
+                <b>Affirm:</b> I welcome truth, and I choose what supports my
+                peace.
                 <br />
-                <b>Prompt:</b> What daily practice would change my life if I
-                honored it for the next 30 days?
+                <b>Prompt:</b> What is one simple refinement that would make my
+                life feel lighter this week?
               </p>
             </>
           ),
         },
         {
           title: "🌟 Sacred Affirmation",
-          yin: "Let love soften the edges of fear.",
-          yang: "Let courage steady your path.",
+          yin: "Let truth be gentle and freeing.",
+          yang: "Let desire be brave and clean.",
           content: (
             <>
               <p className="mt-4 italic">
-                "I am gentle with my heart, and I am brave with my life."
+                "I release what drains me, refine what matters, and choose
+                myself with courage."
               </p>
               <p className="mt-4">
-                Speak this affirmation when you feel overwhelmed: it will return
-                you to softness without losing strength.
+                Repeat this affirmation when emotions rise. It brings you back
+                to grounded truth and simple strength.
               </p>
             </>
           ),
         },
         {
           title: "🔮 A Final Whisper",
-          yin: "Let release be tender and complete.",
-          yang: "Let the next step be bold and true.",
+          yin: "Let the eclipse cleanse your inner world.",
+          yang: "Let love and courage move you forward.",
           content: (
             <>
               <p className="mt-4 italic">
-                "This week, I release what is finished, and I choose the brave
-                life I am ready to live."
+                "This week, I let truth purify me, and I move forward with brave
+                softness."
               </p>
               <p className="mt-4">
-                Aquarius shows you the future. Pisces reminds you to feel your
-                way there. And Saturn&apos;s entrance into Aries asks you to
-                commit — not perfectly, but faithfully. Let love guide your
-                choices, and let courage keep you moving.
+                Pisces reminds you to feel. Virgo demands you see clearly. Mars
+                in Pisces asks for heart-led action, and Venus in Aries reminds
+                you that desire is sacred. Release what is heavy. Choose what is
+                true. Begin again — simply, bravely, beautifully.
               </p>
             </>
           ),
