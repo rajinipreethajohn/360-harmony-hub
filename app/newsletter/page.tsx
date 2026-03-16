@@ -24,7 +24,7 @@ export default function NewsletterPage() {
         </h1>
 
         <h2 className="text-2xl font-serif text-gray-800 mb-1">
-          March 09 – March 15, 2026
+          March 16 – March 22, 2026
         </h2>
 
         <p className="italic text-sm text-gray-600 tracking-wide my-6">
@@ -35,8 +35,8 @@ export default function NewsletterPage() {
         <p className="italic text-lg text-gray-700">
           Theme:{" "}
           <b>
-            Quiet Knowing and Brave Alignment — Pisces Devotion, Jupiter&apos;s
-            Forward Turn, and Clearer Inner Direction
+            Sacred Reset and Fiery Renewal — Pisces Closure, Aries Rising, and
+            the Courage to Begin Again
           </b>
         </p>
       </motion.div>
@@ -57,28 +57,27 @@ export default function NewsletterPage() {
       >
         <div className="text-center max-w-3xl mx-auto leading-loose text-[1.05rem] font-serif text-gray-700 tracking-wider">
           <p className="mb-6">
-            This week carries a quieter kind of power. The{" "}
-            <b>Sun remains in Pisces</b>, and both <b>Mercury retrograde</b> and{" "}
-            <b>Mars in Pisces</b> ask you to listen beneath the noise: beneath
-            urgency, beneath overthinking, beneath old emotional habits. This is
-            a week for moving in alignment rather than in force.
+            This week is a portal between endings and beginnings. The first half
+            is deeply Piscean: intuitive, emotional, reflective, and inward.
+            Then everything changes. On <b>March 18</b>, the{" "}
+            <b>New Moon in Pisces</b> offers a soulful reset — a moment to plant
+            intentions around healing, trust, creativity, and spiritual
+            alignment. Soon after, on <b>March 20</b>, two major shifts arrive
+            together: <b>Mercury stations direct in Pisces</b>, helping clarity
+            slowly return, and the <b>Sun enters Aries</b>, marking the equinox
+            and the astrological new year.
             <br />
-            On <b>March 11</b>, <b>Jupiter stations direct in Cancer</b>,
-            restoring flow in the emotional, familial, and inner-foundation
-            areas of life. The same day, the <b>Last Quarter Moon</b> invites a
-            thoughtful release: what is no longer worth carrying forward? Then,
-            on <b>March 13</b>, <b>Mars conjoins the North Node in Pisces</b>,
-            amplifying the feeling that a soul-led path is opening — quietly,
-            but unmistakably.
+            <b>Venus in Aries</b> continues to embolden the heart, while{" "}
+            <b>Mars in Pisces</b> asks you to act from intuition rather than
+            pressure. <b>Saturn in Aries</b> remains a steady call toward mature
+            courage and self-leadership.
             <br />
-            By <b>March 15</b>, <b>Mercury conjoins Mars in Pisces</b>, bringing
-            sharp feeling, honest words, and the potential for emotional truth
-            to rise quickly. Speak gently, move intentionally, and trust what
-            feels clear in your body.
+            Let this week be both a blessing and a beginning: release the fog,
+            trust the seed, and welcome the fire.
           </p>
           <p>
-            Let this week help you release what is heavy and move toward what is
-            quietly calling you.
+            Let your soul soften where it must, and let your spirit rise where
+            it is ready.
           </p>
         </div>
       </motion.div>
@@ -87,161 +86,165 @@ export default function NewsletterPage() {
       {[
         {
           title: "🌕 Celestial Flow",
-          yin: "Let stillness reveal the truth beneath emotion.",
-          yang: "Let inner clarity guide the next brave move.",
+          yin: "Let the New Moon renew your inner faith.",
+          yang: "Let Aries season awaken your forward fire.",
           content: (
             <>
               <p className="mt-4">
                 <b>Astrological Highlights:</b>
-                <br />- <b>All week – Sun in Pisces</b>: intuition, empathy,
-                spiritual depth, and emotional sensitivity.
-                <br />- <b>All week – Mercury retrograde in Pisces</b>: review,
-                reflection, unfinished feelings, and inward listening.
-                <br />- <b>All week – Venus in Aries</b>: bold self-worth,
-                direct desire, and fresh confidence in love and value.
-                <br />- <b>All week – Mars in Pisces</b>: heart-led action,
-                subtle courage, and movement guided by feeling.
-                <br />- <b>Mar 11 – Jupiter stations direct in Cancer</b>:
-                emotional growth, restored faith, and renewed support around
-                home and belonging.
-                <br />- <b>Mar 11 – Last Quarter Moon</b>: release, edit, and
-                course-correct with honesty.
-                <br />- <b>Mar 13 – Mars conjunct North Node in Pisces</b>:
-                destiny-tinted action, intuitive courage, and soulful momentum.
-                <br />- <b>Mar 15 – Mercury conjunct Mars in Pisces</b>: charged
-                conversations, fast insight, and words that carry emotional
-                heat.
+                <br />- <b>All week – Sun in Pisces until Mar 20, then Aries</b>
+                : spiritual closure gives way to courage, renewal, and direct
+                action.
+                <br />-{" "}
+                <b>
+                  All week – Mercury retrograde in Pisces until Mar 20, then
+                  direct
+                </b>
+                : reflection and reorientation begin to shift toward clearer
+                movement.
+                <br />- <b>All week – Venus in Aries</b>: bold love, fresh
+                confidence, and self-honoring desire.
+                <br />- <b>All week – Mars in Pisces</b>: intuitive action,
+                subtle motivation, and devotional movement.
+                <br />- <b>Mar 18 – New Moon in Pisces</b>: a fresh beginning
+                rooted in healing, compassion, imagination, and trust.
+                <br />- <b>Mar 20 – Mercury stations direct in Pisces</b>:
+                mental fog begins to lift, and inner clarity starts returning.
+                <br />- <b>Mar 20 – Sun enters Aries</b>: the equinox, the
+                astrological new year, and a bold energetic reset.
+                <br />- <b>All week – Saturn in Aries</b>: disciplined courage,
+                self-responsibility, and brave structure.
               </p>
               <p className="mt-4">
                 <b>Reflections:</b>
                 <br />
-                - What feels quietly undeniable now?
+                - What am I ready to leave behind with love?
                 <br />
-                - What am I being guided to release before the next beginning?
-                <br />- Where can I trust intuition without abandoning
-                discernment?
+                - What new beginning feels spiritually true and energetically
+                alive?
+                <br />- Where is life asking me to trust myself more directly?
               </p>
               <p className="mt-4">
                 <b>Rituals:</b>
-                <br />- On <b>March 11</b>, journal what feels lighter, clearer,
-                or newly hopeful as Jupiter turns direct.
-                <br />- Use the <b>Last Quarter Moon</b> to release one task,
-                expectation, or emotional loop that no longer supports you.
-                <br />- On <b>March 15</b>, pause before sending important
-                messages. Let honesty stay compassionate.
+                <br />- On <b>March 18</b>, write 3 intentions for the Pisces
+                New Moon: one for healing, one for faith, one for creativity.
+                <br />- On <b>March 20</b>, greet the equinox with a simple act
+                of renewal: light a candle, open a window, or step into the sun
+                and speak one clear intention aloud.
+                <br />- Toward the weekend, choose one Aries-style action:
+                something clean, bold, and aligned with who you are becoming.
               </p>
             </>
           ),
         },
         {
           title: "💗 Wellness & Vital Flow",
-          yin: "Let gentle care restore your inner waters.",
-          yang: "Let consistent action support emotional strength.",
+          yin: "Let gentleness restore what has been tired.",
+          yang: "Let fresh energy move through your body cleanly.",
           content: (
             <>
               <p className="mt-4">
-                Pisces energy can feel permeable, so your body may need more
-                grounding than usual. Prioritize hydration, warm meals,
-                magnesium-rich foods, slower mornings, and movement that calms
-                rather than agitates.
+                Early in the week, your system may still need softness:
+                hydration, extra sleep, warm foods, quiet mornings, and slower
+                pacing. Pisces energy asks you to replenish before you push.
               </p>
               <p className="mt-4">
-                Jupiter turning direct can feel like a subtle emotional exhale.
-                Support that shift with routines that feel safe and repeatable:
-                walks, stretching, breathwork, and simple nourishment.
+                As Aries season begins, energy may rise naturally. Meet it with
+                clean movement: walking, light strength work, stretching, or
+                anything that helps you feel alive without overwhelming your
+                nervous system.
               </p>
             </>
           ),
         },
         {
           title: "🌿 Rest & Renewal",
-          yin: "Let silence become medicine.",
-          yang: "Let rest sharpen your discernment.",
+          yin: "Let rest close the old cycle with grace.",
+          yang: "Let stillness prepare your next beginning.",
           content: (
             <>
               <p className="mt-4">
-                This is a strong week for quiet restoration. With Mercury
-                retrograde and Mars in Pisces, your system may pick up more than
-                usual. Protect your peace from excess input.
+                The days leading up to the New Moon are ideal for quiet release.
+                Make space for silence, music, journaling, or simply doing less.
               </p>
               <p className="mt-4">
-                Before sleep, ask: &quot;What truth is emerging when I stop
-                forcing answers?&quot; Let your dreams and body sensations speak
-                in their own language.
+                Before sleep, ask: &quot;What am I ready to stop carrying into
+                the next season of my life?&quot; Let the answer come softly.
               </p>
             </>
           ),
         },
         {
           title: "✨ Abundance in Alignment",
-          yin: "Receive support that feels nourishing and real.",
-          yang: "Act on what aligns, not on what merely pressures.",
+          yin: "Receive what feels spiritually nourishing.",
+          yang: "Act on what feels clear and self-respecting.",
           content: (
             <>
               <p className="mt-4">
-                Jupiter direct brings movement to what may have felt delayed,
-                especially around emotional security, home, belonging, and inner
-                trust. Notice where life starts breathing again.
+                The Pisces New Moon is fertile for intuitive ideas around work,
+                money, and purpose — but not all ideas need immediate action.
+                Let them breathe first.
               </p>
               <p className="mt-4">
-                Venus in Aries reminds you that self-worth shapes abundance.
-                Make one decision this week that reflects your standards, not
-                your fear.
+                Once Mercury turns direct and the Sun enters Aries, choose one
+                straightforward step. Abundance responds well this week to
+                clarity, self-trust, and clean decisions.
               </p>
             </>
           ),
         },
         {
           title: "🧘 Stillness & Power",
-          yin: "Let softness become your compass.",
-          yang: "Let brave clarity move through you cleanly.",
+          yin: "Let surrender make you wiser.",
+          yang: "Let courage make you simpler.",
           content: (
             <>
               <p className="mt-4">
-                Visualize standing at the shoreline just before sunrise. The
-                tide moves in and out without strain. Your truth can do the
-                same. It can arrive gently and still be powerful.
+                Visualize a candle being lit at dawn. First there is silence,
+                then a spark, then steady flame. That is your rhythm this week:
+                stillness, ignition, movement.
               </p>
               <p className="mt-4">
-                <b>Affirm:</b> I trust what is quietly becoming clear.
+                <b>Affirm:</b> I release with trust, and I begin with courage.
                 <br />
-                <b>Prompt:</b> What would change if I let alignment matter more
-                than urgency this week?
+                <b>Prompt:</b> What am I ready to begin now that feels both
+                brave and true?
               </p>
             </>
           ),
         },
         {
           title: "🌟 Sacred Affirmation",
-          yin: "Let trust soften your resistance.",
-          yang: "Let courage follow what feels true.",
+          yin: "Let trust soften the unknown.",
+          yang: "Let renewal strengthen your path.",
           content: (
             <>
               <p className="mt-4 italic">
-                "I release what is no longer mine to carry, and I move with
-                quiet courage toward what is meant for me."
+                "I welcome a new beginning with an open heart, a clear spirit,
+                and courageous trust."
               </p>
               <p className="mt-4">
-                Repeat this affirmation when you feel pulled between emotion and
-                clarity. It returns you to trust.
+                Repeat this affirmation as the week shifts from Pisces to Aries.
+                It helps bridge softness and strength.
               </p>
             </>
           ),
         },
         {
           title: "🔮 A Final Whisper",
-          yin: "Let the heart speak in subtler ways.",
-          yang: "Let your next step come from clean inner knowing.",
+          yin: "Let the old cycle end with tenderness.",
+          yang: "Let the new cycle begin with fire.",
           content: (
             <>
               <p className="mt-4 italic">
-                "This week, I listen more deeply, release more gently, and trust
-                what is quietly guiding me forward."
+                "This week, I release what is complete, and I step into what is
+                ready to live through me."
               </p>
               <p className="mt-4">
-                Pisces asks for surrender, but not passivity. Jupiter direct
-                restores faith. Mars and Mercury remind you that words and
-                choices carry energy. Let this week be softer — and truer.
+                Pisces blesses the ending. Aries blesses the beginning. Mercury
+                reminds you that clarity returns in its own time. Let this week
+                be sacred not because it is perfect, but because it is honest,
+                alive, and full of new possibility.
               </p>
             </>
           ),
