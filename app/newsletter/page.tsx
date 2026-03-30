@@ -24,7 +24,7 @@ export default function NewsletterPage() {
         </h1>
 
         <h2 className="text-2xl font-serif text-gray-800 mb-1">
-          March 16 – March 22, 2026
+          March 30 – April 05, 2026
         </h2>
 
         <p className="italic text-sm text-gray-600 tracking-wide my-6">
@@ -35,8 +35,8 @@ export default function NewsletterPage() {
         <p className="italic text-lg text-gray-700">
           Theme:{" "}
           <b>
-            Sacred Reset and Fiery Renewal — Pisces Closure, Aries Rising, and
-            the Courage to Begin Again
+            Rooted Desire and Sacred Momentum — Aries Fire, Taurus Grace, and
+            the Courage to Stabilize
           </b>
         </p>
       </motion.div>
@@ -57,27 +57,29 @@ export default function NewsletterPage() {
       >
         <div className="text-center max-w-3xl mx-auto leading-loose text-[1.05rem] font-serif text-gray-700 tracking-wider">
           <p className="mb-6">
-            This week is a portal between endings and beginnings. The first half
-            is deeply Piscean: intuitive, emotional, reflective, and inward.
-            Then everything changes. On <b>March 18</b>, the{" "}
-            <b>New Moon in Pisces</b> offers a soulful reset — a moment to plant
-            intentions around healing, trust, creativity, and spiritual
-            alignment. Soon after, on <b>March 20</b>, two major shifts arrive
-            together: <b>Mercury stations direct in Pisces</b>, helping clarity
-            slowly return, and the <b>Sun enters Aries</b>, marking the equinox
-            and the astrological new year.
+            This week carries a strong blend of <b>Aries fire</b> and emerging{" "}
+            <b>Taurus steadiness</b>. The <b>Sun remains in Aries</b>, keeping
+            life direct, initiating, and courage-centered, while{" "}
+            <b>Mercury stays in Pisces</b>, reminding you that not all clarity
+            arrives through logic alone. Intuition still matters. Timing still
+            matters. Softness still matters.
             <br />
-            <b>Venus in Aries</b> continues to embolden the heart, while{" "}
-            <b>Mars in Pisces</b> asks you to act from intuition rather than
-            pressure. <b>Saturn in Aries</b> remains a steady call toward mature
-            courage and self-leadership.
+            On <b>March 30</b>, <b>Venus enters Taurus</b>, shifting the heart
+            toward grounded love, embodied pleasure, self-worth, beauty, and
+            stability. What felt impulsive begins to seek roots. What felt
+            exciting now asks: can this last, can this nourish, can this become
+            real?
             <br />
-            Let this week be both a blessing and a beginning: release the fog,
-            trust the seed, and welcome the fire.
+            The week builds toward a revealing emotional crest with the{" "}
+            <b>Full Moon in Libra on April 1</b>, illuminating relationship
+            dynamics, reciprocity, harmony, and the balance between self and
+            other. This is a beautiful week to notice what feels aligned, what
+            feels sustainable, and where your life is asking for both courage
+            and grace.
           </p>
           <p>
-            Let your soul soften where it must, and let your spirit rise where
-            it is ready.
+            Let this week teach you that bold beginnings become sacred when they
+            are rooted in what truly nourishes you.
           </p>
         </div>
       </motion.div>
@@ -86,165 +88,159 @@ export default function NewsletterPage() {
       {[
         {
           title: "🌕 Celestial Flow",
-          yin: "Let the New Moon renew your inner faith.",
-          yang: "Let Aries season awaken your forward fire.",
+          yin: "Let beauty and balance reveal what is truly worth keeping.",
+          yang: "Let courage root itself in what feels real and lasting.",
           content: (
             <>
               <p className="mt-4">
                 <b>Astrological Highlights:</b>
-                <br />- <b>All week – Sun in Pisces until Mar 20, then Aries</b>
-                : spiritual closure gives way to courage, renewal, and direct
-                action.
-                <br />-{" "}
-                <b>
-                  All week – Mercury retrograde in Pisces until Mar 20, then
-                  direct
-                </b>
-                : reflection and reorientation begin to shift toward clearer
-                movement.
-                <br />- <b>All week – Venus in Aries</b>: bold love, fresh
-                confidence, and self-honoring desire.
-                <br />- <b>All week – Mars in Pisces</b>: intuitive action,
-                subtle motivation, and devotional movement.
-                <br />- <b>Mar 18 – New Moon in Pisces</b>: a fresh beginning
-                rooted in healing, compassion, imagination, and trust.
-                <br />- <b>Mar 20 – Mercury stations direct in Pisces</b>:
-                mental fog begins to lift, and inner clarity starts returning.
-                <br />- <b>Mar 20 – Sun enters Aries</b>: the equinox, the
-                astrological new year, and a bold energetic reset.
-                <br />- <b>All week – Saturn in Aries</b>: disciplined courage,
-                self-responsibility, and brave structure.
+                <br />- <b>All week – Sun in Aries</b>: courage, initiative,
+                self-leadership, and forward momentum.
+                <br />- <b>All week – Mercury in Pisces</b>: intuitive insight,
+                emotional intelligence, and reflective thought.
+                <br />- <b>Mar 30 – Venus enters Taurus</b>: grounded love,
+                sensuality, steadiness, beauty, and self-worth deepen.
+                <br />- <b>Apr 1 – Full Moon in Libra</b>: relationship clarity,
+                emotional illumination, balance, and honest reflection on
+                partnership dynamics.
+                <br />- <b>All week – Mars in Pisces</b>: heart-led action,
+                spiritual motivation, and softer movement.
+                <br />- <b>All week – Saturn in Aries</b>: brave maturity,
+                committed self-leadership, and strong inner structure.
               </p>
               <p className="mt-4">
                 <b>Reflections:</b>
                 <br />
-                - What am I ready to leave behind with love?
+                - What feels both beautiful and sustainable now?
                 <br />
-                - What new beginning feels spiritually true and energetically
-                alive?
-                <br />- Where is life asking me to trust myself more directly?
+                - Where am I being asked to create greater balance in giving and
+                receiving?
+                <br />- What desire is becoming more rooted, clear, and real?
               </p>
               <p className="mt-4">
                 <b>Rituals:</b>
-                <br />- On <b>March 18</b>, write 3 intentions for the Pisces
-                New Moon: one for healing, one for faith, one for creativity.
-                <br />- On <b>March 20</b>, greet the equinox with a simple act
-                of renewal: light a candle, open a window, or step into the sun
-                and speak one clear intention aloud.
-                <br />- Toward the weekend, choose one Aries-style action:
-                something clean, bold, and aligned with who you are becoming.
+                <br />- On <b>March 30</b>, create one small Venus-in-Taurus
+                pleasure ritual: fresh flowers, beautiful food, a slow walk, or
+                a nourishing self-care moment.
+                <br />- On <b>April 1</b>, journal honestly about one important
+                relationship: what feels balanced, and what wants adjustment?
+                <br />- Throughout the week, choose one action that honors both
+                your self-worth and your peace.
               </p>
             </>
           ),
         },
         {
           title: "💗 Wellness & Vital Flow",
-          yin: "Let gentleness restore what has been tired.",
-          yang: "Let fresh energy move through your body cleanly.",
+          yin: "Let your body receive steadiness and care.",
+          yang: "Let your energy move in ways that feel clean and grounding.",
           content: (
             <>
               <p className="mt-4">
-                Early in the week, your system may still need softness:
-                hydration, extra sleep, warm foods, quiet mornings, and slower
-                pacing. Pisces energy asks you to replenish before you push.
+                Venus in Taurus reminds you that wellness is not just about
+                discipline — it is also about nourishment, pleasure, and feeling
+                safe in your body. Slow down enough to notice what truly
+                supports you.
               </p>
               <p className="mt-4">
-                As Aries season begins, energy may rise naturally. Meet it with
-                clean movement: walking, light strength work, stretching, or
-                anything that helps you feel alive without overwhelming your
-                nervous system.
+                Choose movement that grounds rather than depletes: walking,
+                stretching, mindful strength work, or yoga that helps you feel
+                rooted and present.
               </p>
             </>
           ),
         },
         {
           title: "🌿 Rest & Renewal",
-          yin: "Let rest close the old cycle with grace.",
-          yang: "Let stillness prepare your next beginning.",
+          yin: "Let stillness restore your inner harmony.",
+          yang: "Let rest refine your direction and relationships.",
           content: (
             <>
               <p className="mt-4">
-                The days leading up to the New Moon are ideal for quiet release.
-                Make space for silence, music, journaling, or simply doing less.
+                The Libra Full Moon may highlight emotional imbalances or
+                tensions that need gentleness, not force. Rest becomes a form of
+                recalibration this week.
               </p>
               <p className="mt-4">
-                Before sleep, ask: &quot;What am I ready to stop carrying into
-                the next season of my life?&quot; Let the answer come softly.
+                Before sleep, ask: &quot;What would balance feel like in my
+                body, my heart, and my closest relationships?&quot; Let the
+                answer arrive without rushing.
               </p>
             </>
           ),
         },
         {
           title: "✨ Abundance in Alignment",
-          yin: "Receive what feels spiritually nourishing.",
-          yang: "Act on what feels clear and self-respecting.",
+          yin: "Receive what feels nourishing, beautiful, and true.",
+          yang: "Act on what creates stability and long-term value.",
           content: (
             <>
               <p className="mt-4">
-                The Pisces New Moon is fertile for intuitive ideas around work,
-                money, and purpose — but not all ideas need immediate action.
-                Let them breathe first.
+                Venus in Taurus favors abundance that is tangible, steady, and
+                rooted in self-respect. Notice where you are building from real
+                value rather than from urgency or comparison.
               </p>
               <p className="mt-4">
-                Once Mercury turns direct and the Sun enters Aries, choose one
-                straightforward step. Abundance responds well this week to
-                clarity, self-trust, and clean decisions.
+                The Libra Full Moon can also reveal where your energy has been
+                overextended. Make one practical adjustment this week that
+                protects your peace and supports your long-term growth.
               </p>
             </>
           ),
         },
         {
           title: "🧘 Stillness & Power",
-          yin: "Let surrender make you wiser.",
-          yang: "Let courage make you simpler.",
+          yin: "Let grace soften what force cannot fix.",
+          yang: "Let clean courage anchor your next choice.",
           content: (
             <>
               <p className="mt-4">
-                Visualize a candle being lit at dawn. First there is silence,
-                then a spark, then steady flame. That is your rhythm this week:
-                stillness, ignition, movement.
+                Visualize yourself standing in a beautiful open field with roots
+                beneath your feet and sunlight warming your chest. You do not
+                have to choose between strength and softness. You can be both
+                grounded and brave.
               </p>
               <p className="mt-4">
-                <b>Affirm:</b> I release with trust, and I begin with courage.
+                <b>Affirm:</b> I choose what is balanced, beautiful, and true.
                 <br />
-                <b>Prompt:</b> What am I ready to begin now that feels both
-                brave and true?
+                <b>Prompt:</b> What would it look like to honor both my desires
+                and my peace this week?
               </p>
             </>
           ),
         },
         {
           title: "🌟 Sacred Affirmation",
-          yin: "Let trust soften the unknown.",
-          yang: "Let renewal strengthen your path.",
+          yin: "Let beauty and balance soften your path.",
+          yang: "Let self-worth shape your next step.",
           content: (
             <>
               <p className="mt-4 italic">
-                "I welcome a new beginning with an open heart, a clear spirit,
-                and courageous trust."
+                "I root my life in what nourishes me, and I move forward with
+                grace, courage, and self-respect."
               </p>
               <p className="mt-4">
-                Repeat this affirmation as the week shifts from Pisces to Aries.
-                It helps bridge softness and strength.
+                Repeat this affirmation when the week feels emotionally full. It
+                will return you to steadiness and truth.
               </p>
             </>
           ),
         },
         {
           title: "🔮 A Final Whisper",
-          yin: "Let the old cycle end with tenderness.",
-          yang: "Let the new cycle begin with fire.",
+          yin: "Let harmony become your medicine.",
+          yang: "Let courage become your structure.",
           content: (
             <>
               <p className="mt-4 italic">
-                "This week, I release what is complete, and I step into what is
-                ready to live through me."
+                "This week, I choose what feels balanced, rooted, and deeply
+                alive."
               </p>
               <p className="mt-4">
-                Pisces blesses the ending. Aries blesses the beginning. Mercury
-                reminds you that clarity returns in its own time. Let this week
-                be sacred not because it is perfect, but because it is honest,
-                alive, and full of new possibility.
+                Aries asks you to begin. Taurus asks you to ground. Libra asks
+                you to balance. Let this week be a quiet masterpiece of
+                self-respect: honest in love, rooted in value, and brave enough
+                to choose what lasts.
               </p>
             </>
           ),
