@@ -24,7 +24,7 @@ export default function NewsletterPage() {
         </h1>
 
         <h2 className="text-2xl font-serif text-gray-800 mb-1">
-          March 30 – April 05, 2026
+          April 06 – April 12, 2026
         </h2>
 
         <p className="italic text-sm text-gray-600 tracking-wide my-6">
@@ -35,8 +35,8 @@ export default function NewsletterPage() {
         <p className="italic text-lg text-gray-700">
           Theme:{" "}
           <b>
-            Rooted Desire and Sacred Momentum — Aries Fire, Taurus Grace, and
-            the Courage to Stabilize
+            Grounded Expansion and Honest Momentum — Aries Fire, Taurus Values,
+            and the Power of Steady Growth
           </b>
         </p>
       </motion.div>
@@ -57,30 +57,24 @@ export default function NewsletterPage() {
       >
         <div className="text-center max-w-3xl mx-auto leading-loose text-[1.05rem] font-serif text-gray-700 tracking-wider">
           <p className="mb-6">
-            This week carries a strong blend of <b>Aries fire</b> and emerging{" "}
-            <b>Taurus steadiness</b>. The <b>Sun remains in Aries</b>, keeping
-            life direct, initiating, and courage-centered, while{" "}
-            <b>Mercury stays in Pisces</b>, reminding you that not all clarity
-            arrives through logic alone. Intuition still matters. Timing still
-            matters. Softness still matters.
+            This week continues to build on the <b>Aries season momentum</b>,
+            encouraging forward movement, courage, and clean decision-making.
+            The <b>Sun in Aries</b> keeps energy direct and action-oriented,
+            while <b>Mercury now moving direct in Pisces</b> helps intuition
+            slowly translate into clearer thought and communication.
             <br />
-            On <b>March 30</b>, <b>Venus enters Taurus</b>, shifting the heart
-            toward grounded love, embodied pleasure, self-worth, beauty, and
-            stability. What felt impulsive begins to seek roots. What felt
-            exciting now asks: can this last, can this nourish, can this become
-            real?
+            <b>Venus in Taurus</b> deepens the theme of stability, reminding you
+            to root your desires in what truly nourishes and lasts. At the same
+            time, <b>Mars in Pisces</b> continues to guide action through
+            feeling, compassion, and inner alignment rather than force.
             <br />
-            The week builds toward a revealing emotional crest with the{" "}
-            <b>Full Moon in Libra on April 1</b>, illuminating relationship
-            dynamics, reciprocity, harmony, and the balance between self and
-            other. This is a beautiful week to notice what feels aligned, what
-            feels sustainable, and where your life is asking for both courage
-            and grace.
+            On <b>April 9</b>, the <b>Last Quarter Moon in Capricorn</b> invites
+            a grounded release: letting go of structures, habits, or
+            expectations that no longer support your long-term vision. This is a
+            week to refine, simplify, and move forward with both courage and
+            integrity.
           </p>
-          <p>
-            Let this week teach you that bold beginnings become sacred when they
-            are rooted in what truly nourishes you.
-          </p>
+          <p>Let your actions be bold, but let your foundations be steady.</p>
         </div>
       </motion.div>
 
@@ -88,159 +82,155 @@ export default function NewsletterPage() {
       {[
         {
           title: "🌕 Celestial Flow",
-          yin: "Let beauty and balance reveal what is truly worth keeping.",
-          yang: "Let courage root itself in what feels real and lasting.",
+          yin: "Let stability guide your emotional clarity.",
+          yang: "Let disciplined action shape your forward path.",
           content: (
             <>
               <p className="mt-4">
                 <b>Astrological Highlights:</b>
                 <br />- <b>All week – Sun in Aries</b>: courage, initiative,
-                self-leadership, and forward momentum.
-                <br />- <b>All week – Mercury in Pisces</b>: intuitive insight,
-                emotional intelligence, and reflective thought.
-                <br />- <b>Mar 30 – Venus enters Taurus</b>: grounded love,
-                sensuality, steadiness, beauty, and self-worth deepen.
-                <br />- <b>Apr 1 – Full Moon in Libra</b>: relationship clarity,
-                emotional illumination, balance, and honest reflection on
-                partnership dynamics.
-                <br />- <b>All week – Mars in Pisces</b>: heart-led action,
-                spiritual motivation, and softer movement.
-                <br />- <b>All week – Saturn in Aries</b>: brave maturity,
-                committed self-leadership, and strong inner structure.
+                leadership, and forward motion.
+                <br />- <b>All week – Mercury direct in Pisces</b>: intuitive
+                clarity returning, softer communication, and emotional insight.
+                <br />- <b>All week – Venus in Taurus</b>: grounded love,
+                self-worth, beauty, and steady values.
+                <br />- <b>All week – Mars in Pisces</b>: intuitive action,
+                gentle persistence, and heart-led movement.
+                <br />- <b>Apr 9 – Last Quarter Moon in Capricorn</b>: release,
+                restructuring, and practical course correction.
+                <br />- <b>All week – Saturn in Aries</b>: disciplined courage,
+                responsibility, and building with intention.
               </p>
               <p className="mt-4">
                 <b>Reflections:</b>
                 <br />
-                - What feels both beautiful and sustainable now?
+                - What structures in my life feel aligned, and what feels heavy
+                or outdated?
                 <br />
-                - Where am I being asked to create greater balance in giving and
-                receiving?
-                <br />- What desire is becoming more rooted, clear, and real?
+                - Where can I bring more integrity into my actions?
+                <br />- What am I building that I truly want to sustain?
               </p>
               <p className="mt-4">
                 <b>Rituals:</b>
-                <br />- On <b>March 30</b>, create one small Venus-in-Taurus
-                pleasure ritual: fresh flowers, beautiful food, a slow walk, or
-                a nourishing self-care moment.
-                <br />- On <b>April 1</b>, journal honestly about one important
-                relationship: what feels balanced, and what wants adjustment?
-                <br />- Throughout the week, choose one action that honors both
-                your self-worth and your peace.
+                <br />- On <b>April 9</b>, write down one habit or expectation
+                you are ready to release, and one structure you are ready to
+                strengthen.
+                <br />- Choose one grounded action this week that supports your
+                long-term vision.
+                <br />- Spend time in nature or in a calm space to reconnect
+                with what feels stable and true.
               </p>
             </>
           ),
         },
         {
           title: "💗 Wellness & Vital Flow",
-          yin: "Let your body receive steadiness and care.",
-          yang: "Let your energy move in ways that feel clean and grounding.",
+          yin: "Let your body feel supported and steady.",
+          yang: "Let movement be intentional and sustainable.",
           content: (
             <>
               <p className="mt-4">
-                Venus in Taurus reminds you that wellness is not just about
-                discipline — it is also about nourishment, pleasure, and feeling
-                safe in your body. Slow down enough to notice what truly
-                supports you.
+                This week favors consistency over intensity. Support your body
+                with nourishing meals, hydration, and routines that feel
+                repeatable and grounding.
               </p>
               <p className="mt-4">
-                Choose movement that grounds rather than depletes: walking,
-                stretching, mindful strength work, or yoga that helps you feel
-                rooted and present.
+                Choose movement that builds strength without strain: walking,
+                strength training, yoga, or any form of exercise that feels both
+                energizing and stabilizing.
               </p>
             </>
           ),
         },
         {
           title: "🌿 Rest & Renewal",
-          yin: "Let stillness restore your inner harmony.",
-          yang: "Let rest refine your direction and relationships.",
+          yin: "Let rest soften the edges of effort.",
+          yang: "Let stillness sharpen your long-term vision.",
           content: (
             <>
               <p className="mt-4">
-                The Libra Full Moon may highlight emotional imbalances or
-                tensions that need gentleness, not force. Rest becomes a form of
-                recalibration this week.
+                The Last Quarter Moon invites you to pause and reflect before
+                pushing ahead. Rest is not a delay — it is part of alignment.
               </p>
               <p className="mt-4">
-                Before sleep, ask: &quot;What would balance feel like in my
-                body, my heart, and my closest relationships?&quot; Let the
-                answer arrive without rushing.
+                Before sleep, ask: &quot;What am I ready to release so I can
+                move forward more cleanly?&quot; Let the answer guide your next
+                steps.
               </p>
             </>
           ),
         },
         {
           title: "✨ Abundance in Alignment",
-          yin: "Receive what feels nourishing, beautiful, and true.",
-          yang: "Act on what creates stability and long-term value.",
+          yin: "Receive what is steady and nourishing.",
+          yang: "Act on what builds long-term value.",
           content: (
             <>
               <p className="mt-4">
-                Venus in Taurus favors abundance that is tangible, steady, and
-                rooted in self-respect. Notice where you are building from real
-                value rather than from urgency or comparison.
+                Venus in Taurus supports abundance that is rooted in
+                consistency, self-worth, and real value. Focus on what feels
+                sustainable rather than what feels urgent.
               </p>
               <p className="mt-4">
-                The Libra Full Moon can also reveal where your energy has been
-                overextended. Make one practical adjustment this week that
-                protects your peace and supports your long-term growth.
+                The Capricorn Moon energy encourages practical adjustments.
+                Small, intentional changes now can create strong foundations for
+                future growth.
               </p>
             </>
           ),
         },
         {
           title: "🧘 Stillness & Power",
-          yin: "Let grace soften what force cannot fix.",
-          yang: "Let clean courage anchor your next choice.",
+          yin: "Let patience deepen your strength.",
+          yang: "Let steady action carry your momentum.",
           content: (
             <>
               <p className="mt-4">
-                Visualize yourself standing in a beautiful open field with roots
-                beneath your feet and sunlight warming your chest. You do not
-                have to choose between strength and softness. You can be both
-                grounded and brave.
+                Visualize yourself building something stone by stone. Each step
+                is intentional, each choice grounded. You are not rushing — you
+                are creating something that will last.
               </p>
               <p className="mt-4">
-                <b>Affirm:</b> I choose what is balanced, beautiful, and true.
+                <b>Affirm:</b> I move forward with clarity, strength, and
+                integrity.
                 <br />
-                <b>Prompt:</b> What would it look like to honor both my desires
-                and my peace this week?
+                <b>Prompt:</b> What can I do this week that my future self will
+                thank me for?
               </p>
             </>
           ),
         },
         {
           title: "🌟 Sacred Affirmation",
-          yin: "Let beauty and balance soften your path.",
-          yang: "Let self-worth shape your next step.",
+          yin: "Let steadiness calm your mind.",
+          yang: "Let intention guide your actions.",
           content: (
             <>
               <p className="mt-4 italic">
-                "I root my life in what nourishes me, and I move forward with
-                grace, courage, and self-respect."
+                "I build my life with patience, purpose, and grounded
+                confidence."
               </p>
               <p className="mt-4">
-                Repeat this affirmation when the week feels emotionally full. It
-                will return you to steadiness and truth.
+                Repeat this affirmation when you feel pulled between rushing and
+                trusting the process.
               </p>
             </>
           ),
         },
         {
           title: "🔮 A Final Whisper",
-          yin: "Let harmony become your medicine.",
-          yang: "Let courage become your structure.",
+          yin: "Let calmness become your anchor.",
+          yang: "Let courage become your direction.",
           content: (
             <>
               <p className="mt-4 italic">
-                "This week, I choose what feels balanced, rooted, and deeply
-                alive."
+                "This week, I release what no longer supports me and step
+                forward with grounded strength."
               </p>
               <p className="mt-4">
-                Aries asks you to begin. Taurus asks you to ground. Libra asks
-                you to balance. Let this week be a quiet masterpiece of
-                self-respect: honest in love, rooted in value, and brave enough
-                to choose what lasts.
+                Aries fuels your courage. Taurus anchors your values. Capricorn
+                refines your path. Let this week be one of quiet strength —
+                steady, intentional, and aligned with what truly matters.
               </p>
             </>
           ),
