@@ -24,7 +24,7 @@ export default function NewsletterPage() {
         </h1>
 
         <h2 className="text-2xl font-serif text-gray-800 mb-1">
-          April 13 – April 19, 2026
+          April 20 – April 26, 2026
         </h2>
 
         <p className="italic text-sm text-gray-600 tracking-wide my-6">
@@ -35,8 +35,8 @@ export default function NewsletterPage() {
         <p className="italic text-lg text-gray-700">
           Theme:{" "}
           <b>
-            Sacred Stability and Fresh Fire — Taurus Season Rising, Rooted Love,
-            and the Courage to Begin Again
+            Sacred Grounding and Bright Visibility — Taurus Season, Rooted
+            Worth, and the Courage to Be Seen
           </b>
         </p>
       </motion.div>
@@ -57,25 +57,24 @@ export default function NewsletterPage() {
       >
         <div className="text-center max-w-3xl mx-auto leading-loose text-[1.05rem] font-serif text-gray-700 tracking-wider">
           <p className="mb-6">
-            This week bridges bold momentum with grounded embodiment. The{" "}
-            <b>Sun finishes its final days in Aries</b>, encouraging courage,
-            action, and self-trust, before entering <b>Taurus on April 19</b>,
-            where the collective energy slows, stabilizes, and seeks what is
-            lasting and real.
+            This week settles more deeply into the rich and steady rhythm of{" "}
+            <b>Taurus season</b>. The <b>Sun in Taurus</b> invites patience,
+            embodiment, simplicity, and devotion to what truly matters. Life may
+            ask you to slow down — not to delay you, but to help you build
+            wisely.
             <br />
-            <b>Venus remains in Taurus</b>, deepening themes of self-worth,
-            beauty, sensuality, and steady love. What nourishes you becomes more
-            obvious now. What drains you becomes harder to ignore.
+            <b>Venus remains in Taurus</b>, amplifying themes of self-worth,
+            beauty, loyalty, sensuality, and receiving what is aligned with your
+            values. <b>Mercury in Aries</b> keeps communication honest and bold,
+            while <b>Mars in Aries</b> supports initiative, courage, and visible
+            momentum.
             <br />
-            On <b>April 16</b>, the <b>New Moon in Aries</b> opens a fresh cycle
-            of confidence, independence, and courageous beginnings. This is a
-            powerful week to plant a seed that reflects who you are now — not
-            who you used to be. Let action be brave, but let your roots grow
-            deep.
+            On <b>April 23</b>, the <b>First Quarter Moon in Leo</b> energizes
+            creativity, confidence, and heart-led action. This week asks you to
+            root yourself in what is real while allowing yourself to shine more
+            fully. Build steadily, but do not hide your light.
           </p>
-          <p>
-            Begin boldly, but build slowly. What lasts is worth the patience.
-          </p>
+          <p>Let what you value become visible through the way you live.</p>
         </div>
       </motion.div>
 
@@ -83,150 +82,148 @@ export default function NewsletterPage() {
       {[
         {
           title: "🌕 Celestial Flow",
-          yin: "Let grounded love hold your new beginning.",
-          yang: "Let courage move you into your next chapter.",
+          yin: "Let self-worth ground your choices.",
+          yang: "Let courage bring your gifts into the light.",
           content: (
             <>
               <p className="mt-4">
                 <b>Astrological Highlights:</b>
-                <br />- <b>Apr 13–18 – Sun in Aries</b>: initiative, confidence,
-                leadership, and brave momentum.
-                <br />- <b>Apr 19 – Sun enters Taurus</b>: stability,
-                embodiment, patience, and value-centered living.
-                <br />- <b>All week – Venus in Taurus</b>: self-worth, grounded
-                love, beauty, sensuality, and steady connection.
-                <br />- <b>All week – Mercury in Pisces</b>: intuitive thought,
-                emotional intelligence, and softer communication.
-                <br />- <b>All week – Mars in Pisces</b>: heart-led action,
-                subtle persistence, and soul-guided movement.
-                <br />- <b>Apr 16 – New Moon in Aries</b>: courageous new
-                beginnings, identity renewal, and bold intentions.
+                <br />- <b>All week – Sun in Taurus</b>: stability, embodiment,
+                patience, pleasure, and value-centered growth.
+                <br />- <b>All week – Venus in Taurus</b>: grounded love,
+                beauty, loyalty, abundance, and self-respect.
+                <br />- <b>All week – Mercury in Aries</b>: direct speech, bold
+                decisions, and clear mental momentum.
+                <br />- <b>All week – Mars in Aries</b>: courage, action,
+                leadership, and energetic forward movement.
+                <br />- <b>Apr 23 – First Quarter Moon in Leo</b>: confidence,
+                creativity, visibility, and heart-led progress.
                 <br />- <b>All week – Saturn in Aries</b>: disciplined courage,
-                mature self-leadership, and building through action.
+                self-leadership, and responsible action.
               </p>
               <p className="mt-4">
                 <b>Reflections:</b>
                 <br />
-                - What am I ready to begin with full honesty and courage?
+                - What feels truly valuable and worth my devotion now?
                 <br />
-                - What kind of life feels sustainable, nourishing, and true?
-                <br />- Where do I need both boldness and patience right now?
+                - Where am I ready to be seen more fully?
+                <br />- What can I build patiently while acting courageously?
               </p>
               <p className="mt-4">
                 <b>Rituals:</b>
-                <br />- On <b>April 16</b>, write three intentions that reflect
-                the version of you that is emerging now.
-                <br />- Start one small brave action this week that your future
-                self will thank you for.
-                <br />- On <b>April 19</b>, ground your energy through nature,
-                beautiful food, touch, or time in stillness.
+                <br />- Create one Taurus ritual this week: beautiful meals,
+                fresh flowers, music, touch, or time in nature.
+                <br />- On <b>April 23</b>, take one visible action that honors
+                your talents or leadership.
+                <br />- Choose one commitment this week that reflects your real
+                priorities rather than old habits.
               </p>
             </>
           ),
         },
         {
           title: "💗 Wellness & Vital Flow",
-          yin: "Let nourishment become your medicine.",
-          yang: "Let movement support your confidence.",
+          yin: "Let nourishment calm your nervous system.",
+          yang: "Let movement energize your confidence.",
           content: (
             <>
               <p className="mt-4">
-                Aries energy benefits from movement, circulation, and healthy
-                challenge. Taurus energy benefits from nourishment, routine, and
-                consistency. Blend both this week.
+                Taurus season supports healing through rhythm and consistency.
+                Prioritize sleep, hydration, grounding foods, and routines that
+                help your body feel safe and strong.
               </p>
               <p className="mt-4">
-                Choose workouts that energize without depleting, meals that feel
-                satisfying and supportive, and rhythms that calm your nervous
-                system while keeping momentum alive.
+                Mars in Aries benefits from active outlets: brisk walks,
+                strength work, dance, yoga, or anything that channels fire into
+                vitality rather than restlessness.
               </p>
             </>
           ),
         },
         {
           title: "🌿 Rest & Renewal",
-          yin: "Let stillness root your next chapter.",
-          yang: "Let rest sharpen your courage.",
+          yin: "Let stillness reconnect you to your body.",
+          yang: "Let rest strengthen your next move.",
           content: (
             <>
               <p className="mt-4">
-                A New Moon week asks for inner space as much as outer action.
-                Protect your energy from noise, urgency, and comparison.
+                Slow moments are sacred this week. Taurus reminds you that peace
+                is productive when it restores your inner resources.
               </p>
               <p className="mt-4">
-                Before sleep, ask: &quot;What wants to begin through me now, and
-                what needs gentler timing?&quot;
+                Before sleep, ask: &quot;What already feels abundant in my life,
+                and how can I honor it more deeply?&quot;
               </p>
             </>
           ),
         },
         {
           title: "✨ Abundance in Alignment",
-          yin: "Receive what feels nourishing and real.",
-          yang: "Take action where growth wants momentum.",
+          yin: "Receive what matches your worth.",
+          yang: "Take action where visibility creates growth.",
           content: (
             <>
               <p className="mt-4">
-                Venus in Taurus supports abundance through value, consistency,
-                beauty, trust, and tangible results. Focus on what can grow
-                steadily rather than instantly.
+                Venus in Taurus favors abundance through quality, consistency,
+                craftsmanship, beauty, trust, and long-term value.
               </p>
               <p className="mt-4">
-                The Aries New Moon supports entrepreneurial courage and fresh
-                initiatives. Start simply. Momentum builds through repetition.
+                The Leo Quarter Moon supports being seen. Promote your work,
+                share your ideas, speak up, or let others witness the value you
+                carry.
               </p>
             </>
           ),
         },
         {
           title: "🧘 Stillness & Power",
-          yin: "Let softness anchor your worth.",
-          yang: "Let courage carry your vision forward.",
+          yin: "Let calmness become your magnetism.",
+          yang: "Let courage become your momentum.",
           content: (
             <>
               <p className="mt-4">
-                Visualize planting a seed in rich soil. Above ground, life is
-                beginning. Below ground, roots are forming. Both are sacred.
+                Visualize roots growing beneath your feet while sunlight warms
+                your face. You are steady below and radiant above. Both are
+                true.
               </p>
               <p className="mt-4">
-                <b>Affirm:</b> I begin bravely, and I build wisely.
+                <b>Affirm:</b> I honor my worth, and I let myself be seen.
                 <br />
-                <b>Prompt:</b> What new beginning deserves my steady devotion?
+                <b>Prompt:</b> Where would life expand if I stopped hiding my
+                gifts?
               </p>
             </>
           ),
         },
         {
           title: "🌟 Sacred Affirmation",
-          yin: "Let worthiness soften your fears.",
-          yang: "Let action strengthen your trust.",
+          yin: "Let worthiness soften self-doubt.",
+          yang: "Let boldness shape your future.",
           content: (
             <>
               <p className="mt-4 italic">
-                "I honor what I desire, and I build it with courage, patience,
-                and love."
+                "I root myself in value, and I rise with confidence."
               </p>
               <p className="mt-4">
-                Repeat this affirmation whenever doubt appears. Let it bring you
-                back to your center.
+                Repeat this affirmation whenever hesitation appears. Let it
+                return you to grounded strength.
               </p>
             </>
           ),
         },
         {
           title: "🔮 A Final Whisper",
-          yin: "Let roots grow beneath what is blooming.",
-          yang: "Let courage meet consistency.",
+          yin: "Let your roots deepen.",
+          yang: "Let your light reach farther.",
           content: (
             <>
               <p className="mt-4 italic">
-                "This week, I begin again with bravery, and I grow with grace."
+                "This week, I choose what is real, and I allow myself to shine."
               </p>
               <p className="mt-4">
-                Aries reminds you to trust yourself enough to start. Taurus
-                reminds you to love yourself enough to sustain it. Let this week
-                become a turning point — not because it was dramatic, but
-                because it was true.
+                Taurus teaches you to treasure what lasts. Leo reminds you to be
+                seen. Aries gives you the courage to act. Let this week become a
+                sacred blend of steadiness, confidence, and embodied joy.
               </p>
             </>
           ),
