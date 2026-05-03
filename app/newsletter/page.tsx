@@ -99,9 +99,9 @@ export default function NewsletterPage() {
                 May 6 – Mercury enters Taurus: grounded thought, practical communication, and steady focus.
                 <br />- <b>All week – Mars in Aries</b>: courage, initiative,
                 action, and forward momentum.
-                <br />- <b>May 9 – Last Quarter Moon in Aquarius: release, perspective shifts, emotional detachment, and forward-thinking clarity.
+                <br />- <b>May 9 – Last Quarter Moon in Aquarius</b>: release, perspective shifts, emotional detachment, and forward-thinking clarity.
                 <br />- <b>All week – Saturn in Aries</b>: disciplined courage
-                and responsible self-leadership.
+                and responsible self leadership.
               </p>
               <p className="mt-4">
                 <b>Reflections:</b>
