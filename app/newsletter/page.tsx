@@ -95,7 +95,7 @@ export default function NewsletterPage() {
                 nourishment, patience, embodiment, and value-driven living.
                 <br />- <b>All week – Venus in Gemini</b>: curiosity,
                 communication, flexibility, and social connection.
-                <br />- <b>Early week – Mercury in Aries: direct thinking, bold communication, and quick decisions.
+                <br />- <b>Early week – Mercury in Aries</b>: direct thinking, bold communication, and quick decisions.
                 May 6 – Mercury enters Taurus: grounded thought, practical communication, and steady focus.
                 <br />- <b>All week – Mars in Aries</b>: courage, initiative,
                 action, and forward momentum.
