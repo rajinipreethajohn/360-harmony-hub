@@ -24,7 +24,7 @@ export default function NewsletterPage() {
         </h1>
 
         <h2 className="text-2xl font-serif text-gray-800 mb-1">
-          May 04 – May 10, 2026
+          May 11 – May 17, 2026
         </h2>
 
         <p className="italic text-sm text-gray-600 tracking-wide my-6">
@@ -35,8 +35,8 @@ export default function NewsletterPage() {
         <p className="italic text-lg text-gray-700">
           Theme:{" "}
           <b>
-            Steady Growth and Heart-Led Expression — Taurus Stability, Leo
-            Courage, and Grounded Momentum
+            Deep Release and Sacred Rebuilding — Scorpio Illumination, Taurus
+            Stability, and the Courage to Begin Again
           </b>
         </p>
       </motion.div>
@@ -57,26 +57,28 @@ export default function NewsletterPage() {
       >
         <div className="text-center max-w-3xl mx-auto leading-loose text-[1.05rem] font-serif text-gray-700 tracking-wider">
           <p className="mb-6">
-            This week continues the grounded rhythm of <b>Taurus season</b>,
-            inviting patience, embodiment, and steady growth. The <b>Sun in
-            Taurus</b> keeps the focus on what is real, sustainable, and deeply
-            nourishing. You are being asked to build something that lasts — not
-            something that simply looks good for a moment.
+            This week carries transformative energy beneath a calm Taurus
+            surface. The <b>Sun remains in Taurus</b>, encouraging steadiness,
+            embodiment, and grounded growth, while emotional undercurrents
+            deepen through a powerful <b>Full Moon in Scorpio on May 12</b>.
+            Scorpio energy reveals what has been hidden — emotionally,
+            relationally, financially, and spiritually — inviting release,
+            honesty, and renewal.
             <br />
-            <b>Venus in Gemini</b> brings lightness into connection,
-            communication, and creativity, reminding you that curiosity and
-            openness can coexist with stability. Meanwhile, <b>Mercury in
-            Taurus</b> supports practical thinking, grounded decisions, and
-            clear, steady communication.
+            <b>Mercury in Taurus</b> supports slower, more intentional thinking
+            and communication. This is not a week for rushed decisions; it is a
+            week for listening carefully to what feels truly sustainable.
+            Meanwhile, <b>Venus remains in Gemini</b>, bringing movement through
+            conversations, curiosity, learning, and meaningful exchanges.
             <br />
-            On <b>May 9</b>, the <b>Last Quarter Moon in Aquarius</b> invites release
-            around ego, pride, and old expressions of identity. This is a moment
-            to refine how you show up — not by shrinking, but by aligning more
-            honestly with your heart.
+            On <b>May 16</b>, <b>Ceres enters Aries</b>, reigniting themes of
+            self-nourishment, independence, and courageous self-care. The
+            message this week is clear: release what drains your spirit, protect
+            what nourishes your future, and rebuild from deeper truth.
           </p>
           <p>
-            Let your growth be steady, your expression be true, and your energy
-            be rooted in what matters most.
+            Let this week help you release with courage and rebuild with
+            intention.
           </p>
         </div>
       </motion.div>
@@ -85,147 +87,155 @@ export default function NewsletterPage() {
       {[
         {
           title: "🌕 Celestial Flow",
-          yin: "Let grounded truth guide your choices.",
-          yang: "Let authentic expression refine your path.",
+          yin: "Let emotional truth guide your release.",
+          yang: "Let grounded courage shape your next chapter.",
           content: (
             <>
               <p className="mt-4">
                 <b>Astrological Highlights:</b>
-                <br />- <b>All week – Sun in Taurus</b>: stability,
-                nourishment, patience, embodiment, and value-driven living.
+                <br />- <b>All week – Sun in Taurus</b>: stability, embodiment,
+                nourishment, patience, and grounded values.
+                <br />- <b>All week – Mercury in Taurus</b>: thoughtful
+                communication, practical decisions, and slow clarity.
                 <br />- <b>All week – Venus in Gemini</b>: curiosity,
-                communication, flexibility, and social connection.
-                <br />- <b>Early week – Mercury in Aries</b>: direct thinking, bold communication, and quick decisions.
-                May 6 – Mercury enters Taurus: grounded thought, practical communication, and steady focus.
-                <br />- <b>All week – Mars in Aries</b>: courage, initiative,
+                connection, flexibility, and meaningful conversations.
+                <br />- <b>All week – Mars in Aries</b>: initiative, confidence,
                 action, and forward momentum.
-                <br />- <b>May 9 – Last Quarter Moon in Aquarius</b>: release, perspective shifts, emotional detachment, and forward-thinking clarity.
-                <br />- <b>All week – Saturn in Aries</b>: disciplined courage
-                and responsible self leadership.
+                <br />- <b>May 12 – Full Moon in Scorpio</b>: emotional release,
+                transformation, truth, endings, and renewal.
+                <br />- <b>May 16 – Ceres enters Aries</b>: independent
+                self-care, personal courage, and reclaiming emotional autonomy.
+                <br />- <b>All week – Saturn in Aries</b>: disciplined
+                leadership and mature self-responsibility.
               </p>
               <p className="mt-4">
                 <b>Reflections:</b>
                 <br />
-                - What am I building that truly matters long-term?
+                - What truth am I finally ready to face honestly?
                 <br />
-                - Where does my expression feel misaligned or forced?
-                <br />- What can I release to show up more authentically?
+                - What emotional pattern or attachment is ready to be released?
+                <br />- What kind of future feels genuinely nourishing to build?
               </p>
               <p className="mt-4">
                 <b>Rituals:</b>
-                <br />- Midweek, release one behavior or expectation that no
-                longer reflects who you are becoming.
-                <br />- On <b>May 7</b>, reflect on how you present yourself and
-                gently refine it toward truth.
-                <br />- Choose one grounded action that supports your future
-                self and repeat it daily.
+                <br />- On <b>May 12</b>, write down one fear, resentment, or
+                emotional burden you are ready to release.
+                <br />- Clean or organize one physical space as a symbolic act
+                of energetic renewal.
+                <br />- Throughout the week, choose one grounded action daily
+                that supports long-term peace rather than temporary comfort.
               </p>
             </>
           ),
         },
         {
           title: "💗 Wellness & Vital Flow",
-          yin: "Let steady rhythms calm your system.",
-          yang: "Let movement strengthen your vitality.",
+          yin: "Let gentleness restore emotional balance.",
+          yang: "Let movement strengthen resilience.",
           content: (
             <>
               <p className="mt-4">
-                Taurus energy supports healing through consistency: nourishing
-                meals, hydration, sunlight, rest, and routines that feel safe
-                and stabilizing.
+                Scorpio Full Moon energy can intensify emotions and
+                nervous-system sensitivity. Support yourself with hydration,
+                grounding meals, slower pacing, and practices that calm
+                emotional overwhelm.
               </p>
               <p className="mt-4">
-                Mars in Aries benefits from active outlets. Move your body in
-                ways that build strength and release tension — walking, yoga,
-                strength work, or playful movement.
+                Taurus season reminds you that healing often happens through
+                consistency: rest, nourishment, movement, sunlight, and
+                supportive routines.
               </p>
             </>
           ),
         },
         {
           title: "🌿 Rest & Renewal",
-          yin: "Let stillness reconnect you to your truth.",
-          yang: "Let rest sharpen your clarity.",
+          yin: "Let silence reveal what needs healing.",
+          yang: "Let rest restore inner clarity.",
           content: (
             <>
               <p className="mt-4">
-                This is a week to simplify. Reduce noise, distractions, and
-                unnecessary commitments so you can hear yourself more clearly.
+                This week favors emotional decluttering. Reduce unnecessary
+                noise, overcommitment, and emotional labor where possible.
               </p>
               <p className="mt-4">
-                Before sleep, ask: &quot;What version of me feels most honest and
-                at peace?&quot;
+                Before sleep, ask: &quot;What am I holding onto that no longer
+                supports who I am becoming?&quot;
               </p>
             </>
           ),
         },
         {
           title: "✨ Abundance in Alignment",
-          yin: "Receive what reflects your true value.",
-          yang: "Act where consistency builds growth.",
+          yin: "Receive what aligns with your deeper values.",
+          yang: "Build steadily from emotional truth.",
           content: (
             <>
               <p className="mt-4">
-                Taurus energy supports slow, reliable abundance. Focus on
-                quality, consistency, and trust rather than quick wins.
+                Taurus energy supports stable, long-term abundance rather than
+                impulsive gains. Focus on sustainability, quality, and emotional
+                alignment in finances and work.
               </p>
               <p className="mt-4">
-                Venus in Gemini may bring opportunities through conversations,
-                networking, and sharing ideas. Stay open, but grounded in your
-                worth.
+                The Scorpio Full Moon may reveal hidden financial or emotional
+                dynamics. Pay attention to what feels draining versus genuinely
+                supportive.
               </p>
             </>
           ),
         },
         {
           title: "🧘 Stillness & Power",
-          yin: "Let calmness become your anchor.",
-          yang: "Let authenticity become your strength.",
+          yin: "Let emotional honesty soften your resistance.",
+          yang: "Let courage rebuild your foundations.",
           content: (
             <>
               <p className="mt-4">
-                Visualize standing rooted like a tree, while sunlight warms your
-                face. You are steady, yet alive and expressive.
+                Visualize standing in a quiet forest after rain. The air is
+                clean, the ground is steady, and everything unnecessary has been
+                washed away.
               </p>
               <p className="mt-4">
-                <b>Affirm:</b> I move steadily, and I express myself honestly.
+                <b>Affirm:</b> I release what no longer serves me and rebuild
+                from truth.
                 <br />
-                <b>Prompt:</b> What would change if I allowed myself to be fully
-                authentic this week?
+                <b>Prompt:</b> What would become possible if I trusted myself
+                enough to let go completely?
               </p>
             </>
           ),
         },
         {
           title: "🌟 Sacred Affirmation",
-          yin: "Let truth soften resistance.",
-          yang: "Let courage refine your direction.",
+          yin: "Let release create space for peace.",
+          yang: "Let truth strengthen your direction.",
           content: (
             <>
               <p className="mt-4 italic">
-                "I honor my truth, and I build my life with steady courage."
+                "I trust the endings that create space for deeper alignment."
               </p>
               <p className="mt-4">
-                Repeat this when you feel pulled between comfort and growth.
+                Repeat this affirmation when emotions feel heavy or uncertain.
               </p>
             </>
           ),
         },
         {
           title: "🔮 A Final Whisper",
-          yin: "Let your roots deepen in truth.",
-          yang: "Let your expression rise with clarity.",
+          yin: "Let transformation happen gently.",
+          yang: "Let courage carry you forward.",
           content: (
             <>
               <p className="mt-4 italic">
-                "This week, I release what is not true and stand firmly in who I
-                am becoming."
+                "This week, I release what weighs on my spirit and rebuild my
+                life from grounded truth."
               </p>
               <p className="mt-4">
-                Taurus grounds you. Leo refines your expression. Aries fuels your
-                courage. Let this week become a quiet turning point — where you
-                choose authenticity over performance, and steadiness over
-                urgency.
+                Taurus teaches stability. Scorpio teaches transformation.
+                Together, they remind you that true growth is both rooted and
+                brave. Let this week help you clear emotional weight, honor your
+                deeper values, and move toward what genuinely nourishes your
+                life.
               </p>
             </>
           ),
@@ -267,7 +277,7 @@ export default function NewsletterPage() {
             </p>
             {section.content}
           </motion.section>
-        )
+        ),
       )}
 
       {/* Floating Yin–Yang Symbol */}
