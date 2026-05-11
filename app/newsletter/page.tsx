@@ -35,8 +35,8 @@ export default function NewsletterPage() {
         <p className="italic text-lg text-gray-700">
           Theme:{" "}
           <b>
-            Deep Release and Sacred Rebuilding — Scorpio Illumination, Taurus
-            Stability, and the Courage to Begin Again
+            Soft Release and Sacred Rebuilding — Taurus Stability, Waning Moon
+            Integration, and the Courage to Begin Again
           </b>
         </p>
       </motion.div>
@@ -57,24 +57,12 @@ export default function NewsletterPage() {
       >
         <div className="text-center max-w-3xl mx-auto leading-loose text-[1.05rem] font-serif text-gray-700 tracking-wider">
           <p className="mb-6">
-            This week carries transformative energy beneath a calm Taurus
-            surface. The <b>Sun remains in Taurus</b>, encouraging steadiness,
-            embodiment, and grounded growth, while emotional undercurrents
-            deepen through a powerful <b>Full Moon in Scorpio on May 12</b>.
-            Scorpio energy reveals what has been hidden — emotionally,
-            relationally, financially, and spiritually — inviting release,
-            honesty, and renewal.
-            <br />
-            <b>Mercury in Taurus</b> supports slower, more intentional thinking
-            and communication. This is not a week for rushed decisions; it is a
-            week for listening carefully to what feels truly sustainable.
-            Meanwhile, <b>Venus remains in Gemini</b>, bringing movement through
-            conversations, curiosity, learning, and meaningful exchanges.
-            <br />
-            On <b>May 16</b>, <b>Ceres enters Aries</b>, reigniting themes of
-            self-nourishment, independence, and courageous self-care. The
-            message this week is clear: release what drains your spirit, protect
-            what nourishes your future, and rebuild from deeper truth.
+            This week carries a quieter kind of transformation beneath a calm
+            Taurus surface. The <b>Sun remains in Taurus</b>, encouraging
+            steadiness, embodiment, and grounded growth, while the{" "}
+            <b>waning Moon</b> invites integration after recent emotional
+            intensity. Rather than forcing clarity, this week asks you to slow
+            down, listen inward, and let what has surfaced settle into wisdom.
           </p>
           <p>
             Let this week help you release with courage and rebuild with
@@ -101,8 +89,9 @@ export default function NewsletterPage() {
                 connection, flexibility, and meaningful conversations.
                 <br />- <b>All week – Mars in Aries</b>: initiative, confidence,
                 action, and forward momentum.
-                <br />- <b>May 12 – Full Moon in Scorpio</b>: emotional release,
-                transformation, truth, endings, and renewal.
+                <br />- <b>Early week – Waning Pisces Moon</b>: emotional
+                processing, intuition, integration, release, and quiet
+                introspection.
                 <br />- <b>May 16 – Ceres enters Aries</b>: independent
                 self-care, personal courage, and reclaiming emotional autonomy.
                 <br />- <b>All week – Saturn in Aries</b>: disciplined
@@ -135,10 +124,10 @@ export default function NewsletterPage() {
           content: (
             <>
               <p className="mt-4">
-                Scorpio Full Moon energy can intensify emotions and
-                nervous-system sensitivity. Support yourself with hydration,
-                grounding meals, slower pacing, and practices that calm
-                emotional overwhelm.
+                As the Moon wanes through sensitive Pisces energy, emotions may
+                feel softer, deeper, and more reflective. Prioritize hydration,
+                grounding meals, gentle movement, and moments of stillness that
+                help your nervous system exhale.
               </p>
               <p className="mt-4">
                 Taurus season reminds you that healing often happens through
@@ -177,9 +166,9 @@ export default function NewsletterPage() {
                 alignment in finances and work.
               </p>
               <p className="mt-4">
-                The Scorpio Full Moon may reveal hidden financial or emotional
-                dynamics. Pay attention to what feels draining versus genuinely
-                supportive.
+                The waning Moon invites review and integration around financial
+                or emotional dynamics. Pay attention to what feels draining
+                versus genuinely supportive.
               </p>
             </>
           ),
@@ -231,11 +220,11 @@ export default function NewsletterPage() {
                 life from grounded truth."
               </p>
               <p className="mt-4">
-                Taurus teaches stability. Scorpio teaches transformation.
+                Taurus teaches stability. The waning Moon teaches integration.
                 Together, they remind you that true growth is both rooted and
-                brave. Let this week help you clear emotional weight, honor your
-                deeper values, and move toward what genuinely nourishes your
-                life.
+                reflective. Let this week help you clear emotional weight, honor
+                your deeper values, and move toward what genuinely nourishes
+                your life.
               </p>
             </>
           ),
