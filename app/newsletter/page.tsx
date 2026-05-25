@@ -4,6 +4,7 @@ import { motion } from "framer-motion";
 
 export default function NewsletterPage() {
   const isPrinting = useIsPrinting();
+
   const fadeIn = {
     hidden: { opacity: 0, y: 20 },
     visible: { opacity: 1, y: 0 },
@@ -24,7 +25,7 @@ export default function NewsletterPage() {
         </h1>
 
         <h2 className="text-2xl font-serif text-gray-800 mb-1">
-          May 18 – May 24, 2026
+          May 25 – May 31, 2026
         </h2>
 
         <p className="italic text-sm text-gray-600 tracking-wide my-6">
@@ -35,8 +36,8 @@ export default function NewsletterPage() {
         <p className="italic text-lg text-gray-700">
           Theme:{" "}
           <b>
-            Sacred Renewal and Courageous Momentum — Gemini Season Awakening,
-            Taurus Grounding, and Heart-Led Expansion
+            Sacred Expansion and Emotional Illumination — Gemini Curiosity,
+            Sagittarius Truth, and Courageous Inner Growth
           </b>
         </p>
       </motion.div>
@@ -56,26 +57,31 @@ export default function NewsletterPage() {
         className="text-lg leading-relaxed space-y-4"
       >
         <div className="text-center max-w-3xl mx-auto leading-loose text-[1.05rem] font-serif text-gray-700 tracking-wider">
-          <p className="mt-4">
-            <b>Astrological Highlights:</b>
-            <br />- <b>Until May 20 – Sun in Taurus</b>: grounding, stability,
-            embodiment, nourishment, and sustainable growth.
-            <br />- <b>May 20 – Sun enters Gemini</b>: curiosity, communication,
-            movement, fresh perspective, and mental expansion.
-            <br />- <b>Early week – Mercury in Taurus</b>: thoughtful
-            communication, practical planning, and grounded clarity.
-            <br />- <b>All week – Venus in Gemini</b>: connection, creativity,
-            social energy, learning, and meaningful exchanges.
-            <br />- <b>All week – Mars in Aries</b>: initiative, confidence,
-            motivation, and forward momentum.
-            <br />- <b>May 23 – First Quarter Moon</b>: refinement, productive
-            action, organization, and forward movement.
-            <br />- <b>All week – Saturn in Aries</b>: disciplined leadership,
-            self-responsibility, and courageous long-term growth.
+          <p className="mb-6">
+            This week carries expansive, truth-seeking energy as{" "}
+            <b>Gemini season</b> awakens movement, curiosity, communication, and
+            fresh mental clarity. The <b>Sun in Gemini</b> invites exploration —
+            emotionally, intellectually, and spiritually — encouraging you to
+            remain open to new ideas, perspectives, and possibilities.
+            <br />
+            <b>Mercury continues its journey through Gemini</b>, amplifying
+            conversations, learning, creativity, writing, networking, and mental
+            stimulation. Thoughts move quickly now, making this a powerful week
+            for brainstorming, connecting, teaching, sharing, and discovering
+            new inspiration.
+            <br />
+            Meanwhile, <b>Venus in Cancer</b> softens the emotional landscape,
+            encouraging deeper emotional bonding, nurturing connections, and
+            heartfelt conversations. Then, on <b>May 31</b>, the{" "}
+            <b>Full Moon in Sagittarius</b> illuminates themes of truth,
+            freedom, expansion, and spiritual growth. This Full Moon asks you to
+            release limiting beliefs and reconnect with a larger vision for your
+            life.
           </p>
+
           <p>
-            Let this week help you move forward with curiosity, clarity, and
-            grounded courage.
+            Let this week help you expand your mind, trust your truth, and move
+            toward what feels deeply alive.
           </p>
         </div>
       </motion.div>
@@ -84,47 +90,46 @@ export default function NewsletterPage() {
       {[
         {
           title: "🌕 Celestial Flow",
-          yin: "Let grounded clarity support inspired movement.",
-          yang: "Let courageous curiosity guide your next chapter.",
+          yin: "Let openness soften old limitations.",
+          yang: "Let courageous truth guide your expansion.",
           content: (
             <>
               <p className="mt-4">
                 <b>Astrological Highlights:</b>
-                <br />- <b>Until May 20 – Sun in Taurus</b>: grounding,
-                stability, embodiment, nourishment, and sustainable growth.
-                <br />- <b>May 21 – Sun enters Gemini</b>: curiosity,
-                communication, mental stimulation, movement, and fresh
-                perspective.
-                <br />- <b>All week – Mercury in Taurus</b>: thoughtful
-                communication, steady planning, and practical clarity.
-                <br />- <b>All week – Venus in Gemini</b>: connection,
-                creativity, social energy, learning, and meaningful exchanges.
-                <br />- <b>All week – Mars in Aries</b>: initiative, confidence,
-                motivation, and forward momentum.
-                <br />- <b>May 22 – First Quarter Moon in Virgo</b>: refinement,
-                organization, practical action, and productive momentum.
-                <br />- <b>All week – Saturn in Aries</b>: disciplined
-                leadership, self-responsibility, and courageous long-term
-                growth.
+                <br />- <b>All week – Sun in Gemini</b>: curiosity,
+                communication, adaptability, learning, and fresh perspective.
+                <br />- <b>Since May 17 – Mercury in Gemini</b>: quick thinking,
+                conversation, creativity, networking, writing, and mental
+                clarity.
+                <br />- <b>All week – Venus in Cancer</b>: emotional warmth,
+                nurturing connections, intuitive relating, and soulful bonding.
+                <br />- <b>Mars in mid‑to‑late Aries (until May 18)</b>:
+                confidence, momentum, courage, initiative, and decisive action.
+                <br />- <b>May 31 – Full Moon in Sagittarius</b>: truth,
+                emotional illumination, freedom, spiritual expansion, and
+                releasing limiting beliefs.
+                <br />- <b>From May 24 – Saturn in Aries</b>: disciplined
+                courage, self-leadership, and long-term growth through
+                responsibility.
               </p>
 
               <p className="mt-4">
                 <b>Reflections:</b>
                 <br />
-                - What new direction feels mentally and emotionally alive?
+                - What truth feels impossible to ignore now?
                 <br />
-                - Where do I need better structure to support future growth?
-                <br />- How can I stay grounded while embracing change?
+                - What belief or fear is limiting my expansion?
+                <br />- What new direction feels exciting, aligned, and freeing?
               </p>
 
               <p className="mt-4">
                 <b>Rituals:</b>
-                <br />- On <b>May 21</b>, write down three new ideas, dreams, or
-                directions you feel curious about exploring.
-                <br />- On <b>May 22</b>, organize one area of your life that
-                feels mentally cluttered or unfinished.
-                <br />- Throughout the week, balance movement with grounding:
-                learn something new while staying connected to daily routines.
+                <br />- Midweek, begin a new journal, idea list, or creative
+                writing practice.
+                <br />- On <b>May 31</b>, release one belief, habit, or fear
+                that keeps you emotionally small.
+                <br />- Throughout the week, stay curious: read, explore, learn,
+                ask questions, and allow new perspectives to expand your world.
               </p>
             </>
           ),
@@ -132,21 +137,21 @@ export default function NewsletterPage() {
 
         {
           title: "💗 Wellness & Vital Flow",
-          yin: "Let grounding calm an active mind.",
-          yang: "Let movement energize your spirit.",
+          yin: "Let spaciousness calm your nervous system.",
+          yang: "Let movement energize your body and spirit.",
           content: (
             <>
               <p className="mt-4">
-                Gemini season can increase mental stimulation and nervous-system
-                activity, so balance busy thoughts with grounding practices:
-                hydration, nourishing meals, mindful movement, breathwork, and
-                quality sleep.
+                Gemini energy can increase mental activity, overstimulation, and
+                scattered focus. Support your nervous system through hydration,
+                grounding meals, movement, breathwork, and moments of quiet away
+                from screens and constant input.
               </p>
 
               <p className="mt-4">
-                Taurus energy still supports healing through consistency. Let
-                simple daily rituals — sunlight, stretching, walking, music, and
-                rest — regulate your emotional and physical energy.
+                Venus in Cancer reminds you that emotional wellness also grows
+                through comfort, safety, nourishment, and meaningful connection.
+                Let softness become part of your healing.
               </p>
             </>
           ),
@@ -154,19 +159,19 @@ export default function NewsletterPage() {
 
         {
           title: "🌿 Rest & Renewal",
-          yin: "Let stillness reconnect you to yourself.",
-          yang: "Let rest restore mental clarity.",
+          yin: "Let silence reconnect you to inner wisdom.",
+          yang: "Let rest sharpen your clarity and direction.",
           content: (
             <>
               <p className="mt-4">
-                This week asks you to balance stillness with movement. Allow
-                yourself space to think, reflect, and mentally reset before
-                rushing into new commitments.
+                This week invites both exploration and integration. Balance
+                external stimulation with stillness so your inner voice does not
+                get drowned out by constant motion.
               </p>
 
               <p className="mt-4">
-                Before sleep, ask: &quot;What new possibility wants my attention
-                now?&quot;
+                Before sleep, ask: &quot;What truth wants to guide my next
+                chapter?&quot;
               </p>
             </>
           ),
@@ -174,19 +179,20 @@ export default function NewsletterPage() {
 
         {
           title: "✨ Abundance in Alignment",
-          yin: "Receive opportunities that align with your values.",
-          yang: "Build steadily while staying open to change.",
+          yin: "Receive opportunities that expand your world.",
+          yang: "Act boldly where growth feels aligned.",
           content: (
             <>
               <p className="mt-4">
-                Taurus season reminds you that abundance grows steadily through
-                consistency, patience, and emotional alignment.
+                Gemini season supports abundance through communication,
+                collaboration, networking, teaching, writing, marketing,
+                learning, and exchanging ideas.
               </p>
 
               <p className="mt-4">
-                Gemini season may bring new opportunities through communication,
-                collaboration, networking, writing, teaching, or learning. Stay
-                curious, but stay grounded in your deeper values.
+                The Sagittarius Full Moon reminds you that abundance also grows
+                through belief. Notice where your mindset is expanding — and
+                where fear still asks you to play small.
               </p>
             </>
           ),
@@ -194,22 +200,21 @@ export default function NewsletterPage() {
 
         {
           title: "🧘 Stillness & Power",
-          yin: "Let openness expand your perspective.",
-          yang: "Let grounded courage support your growth.",
+          yin: "Let openness expand your perspective gently.",
+          yang: "Let truth move you forward with courage.",
           content: (
             <>
               <p className="mt-4">
-                Visualize yourself standing beneath an open sky with strong
-                roots beneath your feet. Your mind remains open and curious,
-                while your foundation stays calm and steady.
+                Visualize standing beneath a vast open sky. The horizon
+                stretches endlessly before you. Your mind opens, your breath
+                deepens, and your path becomes clearer with every step forward.
               </p>
 
               <p className="mt-4">
-                <b>Affirm:</b> I welcome new possibilities while remaining
-                grounded in my truth.
+                <b>Affirm:</b> I trust the truth that expands my life.
                 <br />
-                <b>Prompt:</b> What fresh direction feels exciting, aligned, and
-                sustainable?
+                <b>Prompt:</b> What would become possible if I fully believed in
+                my own growth?
               </p>
             </>
           ),
@@ -217,18 +222,18 @@ export default function NewsletterPage() {
 
         {
           title: "🌟 Sacred Affirmation",
-          yin: "Let trust soften uncertainty.",
-          yang: "Let curiosity guide your momentum.",
+          yin: "Let trust soften fear.",
+          yang: "Let truth guide your expansion.",
           content: (
             <>
               <p className="mt-4 italic">
-                "I move forward with grounded curiosity and trust the growth
-                unfolding within me."
+                "I release limiting beliefs and welcome the expansion meant for
+                me."
               </p>
 
               <p className="mt-4">
-                Repeat this affirmation when life feels fast-moving or mentally
-                overwhelming.
+                Repeat this affirmation whenever self-doubt or uncertainty
+                appears.
               </p>
             </>
           ),
@@ -236,20 +241,21 @@ export default function NewsletterPage() {
 
         {
           title: "🔮 A Final Whisper",
-          yin: "Let openness expand your world gently.",
-          yang: "Let grounded action move you forward.",
+          yin: "Let curiosity awaken your spirit gently.",
+          yang: "Let courage carry you toward a larger life.",
           content: (
             <>
               <p className="mt-4 italic">
-                "This week, I stay rooted in what matters while allowing new
-                energy to guide me forward."
+                "This week, I open my heart, expand my mind, and trust the truth
+                guiding me forward."
               </p>
 
               <p className="mt-4">
-                Taurus reminds you to stay grounded. Gemini reminds you to stay
-                open. Together, they create growth that is both stable and
-                alive. Let this week help you welcome new possibilities without
-                losing connection to yourself.
+                Gemini reminds you to stay curious. Sagittarius reminds you to
+                seek deeper meaning. Together, they create movement that expands
+                both mind and soul. Let this week help you release old limits,
+                reconnect with possibility, and move toward a future that feels
+                honest, alive, and expansive.
               </p>
             </>
           ),
