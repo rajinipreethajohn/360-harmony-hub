@@ -25,7 +25,7 @@ export default function NewsletterPage() {
         </h1>
 
         <h2 className="text-2xl font-serif text-gray-800 mb-1">
-          May 25 – May 31, 2026
+          June 01 – June 07, 2026
         </h2>
 
         <p className="italic text-sm text-gray-600 tracking-wide my-6">
@@ -36,8 +36,8 @@ export default function NewsletterPage() {
         <p className="italic text-lg text-gray-700">
           Theme:{" "}
           <b>
-            Sacred Expansion and Emotional Illumination — Gemini Curiosity,
-            Sagittarius Truth, and Courageous Inner Growth
+            Emotional Clarity and Grounded Integration — Gemini Insight, Cancer
+            Feeling, and Taurus Steadiness
           </b>
         </p>
       </motion.div>
@@ -58,30 +58,27 @@ export default function NewsletterPage() {
       >
         <div className="text-center max-w-3xl mx-auto leading-loose text-[1.05rem] font-serif text-gray-700 tracking-wider">
           <p className="mb-6">
-            This week carries expansive, truth-seeking energy as{" "}
-            <b>Gemini season</b> awakens movement, curiosity, communication, and
-            fresh mental clarity. The <b>Sun in Gemini</b> invites exploration —
-            emotionally, intellectually, and spiritually — encouraging you to
-            remain open to new ideas, perspectives, and possibilities.
+            This week begins in the afterglow of the Sagittarius Full Moon,
+            inviting integration, reflection, and emotional processing. The{" "}
+            <b>Sun remains in Gemini</b>, keeping the mind curious, expressive,
+            and open to fresh perspectives, while <b>Mercury enters Cancer on
+            June 1</b>, shifting communication from quick analysis into deeper
+            emotional intelligence.
             <br />
-            <b>Mercury continues its journey through Gemini</b>, amplifying
-            conversations, learning, creativity, writing, networking, and mental
-            stimulation. Thoughts move quickly now, making this a powerful week
-            for brainstorming, connecting, teaching, sharing, and discovering
-            new inspiration.
+            <b>Venus in Cancer</b> continues to soften love, creativity, and
+            connection, encouraging tenderness, care, and emotional safety.
+            Meanwhile, <b>Mars in Taurus</b> grounds action into patience,
+            persistence, and embodied follow-through.
             <br />
-            Meanwhile, <b>Venus in Cancer</b> softens the emotional landscape,
-            encouraging deeper emotional bonding, nurturing connections, and
-            heartfelt conversations. Then, on <b>May 31</b>, the{" "}
-            <b>Full Moon in Sagittarius</b> illuminates themes of truth,
-            freedom, expansion, and spiritual growth. This Full Moon asks you to
-            release limiting beliefs and reconnect with a larger vision for your
-            life.
+            With the <b>waning gibbous Moon</b> moving through the week, this is
+            not a time to rush. It is a time to absorb what has been revealed,
+            process what feels true, and return to steady choices that nourish
+            both heart and body.
           </p>
 
           <p>
-            Let this week help you expand your mind, trust your truth, and move
-            toward what feels deeply alive.
+            Let this week help you think clearly, feel honestly, and move
+            forward with grounded care.
           </p>
         </div>
       </motion.div>
@@ -90,46 +87,45 @@ export default function NewsletterPage() {
       {[
         {
           title: "🌕 Celestial Flow",
-          yin: "Let openness soften old limitations.",
-          yang: "Let courageous truth guide your expansion.",
+          yin: "Let emotional wisdom soften your thoughts.",
+          yang: "Let grounded action support what feels true.",
           content: (
             <>
               <p className="mt-4">
                 <b>Astrological Highlights:</b>
                 <br />- <b>All week – Sun in Gemini</b>: curiosity,
                 communication, adaptability, learning, and fresh perspective.
-                <br />- <b>Since May 17 – Mercury in Gemini</b>: quick thinking,
-                conversation, creativity, networking, writing, and mental
-                clarity.
-                <br />- <b>All week – Venus in Cancer</b>: emotional warmth,
-                nurturing connections, intuitive relating, and soulful bonding.
-                <br />- <b>Mars in mid‑to‑late Aries (until May 18)</b>:
-                confidence, momentum, courage, initiative, and decisive action.
-                <br />- <b>May 31 – Full Moon in Sagittarius</b>: truth,
-                emotional illumination, freedom, spiritual expansion, and
-                releasing limiting beliefs.
-                <br />- <b>From May 24 – Saturn in Aries</b>: disciplined
-                courage, self-leadership, and long-term growth through
-                responsibility.
+                <br />- <b>Jun 1 – Mercury enters Cancer</b>: emotional
+                intelligence, intuitive communication, memory, and heartfelt
+                conversations.
+                <br />- <b>All week – Venus in Cancer</b>: tenderness,
+                nurturing connection, emotional warmth, and soulful bonding.
+                <br />- <b>All week – Mars in Taurus</b>: patience, persistence,
+                embodied action, and steady progress.
+                <br />- <b>All week – Waning Gibbous Moon</b>: integration,
+                reflection, emotional processing, and post-Full Moon clarity.
+                <br />- <b>All week – Saturn in Aries</b>: disciplined courage,
+                self-leadership, and responsible growth.
               </p>
 
               <p className="mt-4">
                 <b>Reflections:</b>
                 <br />
-                - What truth feels impossible to ignore now?
+                - What emotional truth is asking to be honored now?
                 <br />
-                - What belief or fear is limiting my expansion?
-                <br />- What new direction feels exciting, aligned, and freeing?
+                - Where do I need softer communication and stronger grounding?
+                <br />- What recent insight am I ready to integrate into daily
+                life?
               </p>
 
               <p className="mt-4">
                 <b>Rituals:</b>
-                <br />- Midweek, begin a new journal, idea list, or creative
-                writing practice.
-                <br />- On <b>May 31</b>, release one belief, habit, or fear
-                that keeps you emotionally small.
-                <br />- Throughout the week, stay curious: read, explore, learn,
-                ask questions, and allow new perspectives to expand your world.
+                <br />- On <b>June 1</b>, write a heartfelt message, journal
+                entry, or private reflection about what you truly feel.
+                <br />- Midweek, choose one steady action that supports emotional
+                safety and long-term peace.
+                <br />- Throughout the week, slow down before responding. Let
+                your words come from both clarity and care.
               </p>
             </>
           ),
@@ -137,21 +133,21 @@ export default function NewsletterPage() {
 
         {
           title: "💗 Wellness & Vital Flow",
-          yin: "Let spaciousness calm your nervous system.",
-          yang: "Let movement energize your body and spirit.",
+          yin: "Let tenderness calm your nervous system.",
+          yang: "Let steady movement strengthen your body.",
           content: (
             <>
               <p className="mt-4">
-                Gemini energy can increase mental activity, overstimulation, and
-                scattered focus. Support your nervous system through hydration,
-                grounding meals, movement, breathwork, and moments of quiet away
-                from screens and constant input.
+                Cancer and Taurus energy both remind you that the body needs
+                safety before it can thrive. Prioritize hydration, nourishing
+                meals, rest, touch, and rhythms that help you feel emotionally
+                held.
               </p>
 
               <p className="mt-4">
-                Venus in Cancer reminds you that emotional wellness also grows
-                through comfort, safety, nourishment, and meaningful connection.
-                Let softness become part of your healing.
+                Mars in Taurus favors steady, sustainable movement: walking,
+                strength work, yoga, mobility, gardening, or anything that helps
+                your body feel rooted and capable.
               </p>
             </>
           ),
@@ -159,19 +155,18 @@ export default function NewsletterPage() {
 
         {
           title: "🌿 Rest & Renewal",
-          yin: "Let silence reconnect you to inner wisdom.",
-          yang: "Let rest sharpen your clarity and direction.",
+          yin: "Let quiet reflection restore your inner waters.",
+          yang: "Let rest prepare your next grounded step.",
           content: (
             <>
               <p className="mt-4">
-                This week invites both exploration and integration. Balance
-                external stimulation with stillness so your inner voice does not
-                get drowned out by constant motion.
+                This week is ideal for emotional integration after the Full Moon.
+                Give yourself space to process before making major decisions.
               </p>
 
               <p className="mt-4">
-                Before sleep, ask: &quot;What truth wants to guide my next
-                chapter?&quot;
+                Before sleep, ask: &quot;What feeling needs my compassion before
+                it can become wisdom?&quot;
               </p>
             </>
           ),
@@ -179,20 +174,20 @@ export default function NewsletterPage() {
 
         {
           title: "✨ Abundance in Alignment",
-          yin: "Receive opportunities that expand your world.",
-          yang: "Act boldly where growth feels aligned.",
+          yin: "Receive support that feels emotionally safe.",
+          yang: "Build patiently from practical truth.",
           content: (
             <>
               <p className="mt-4">
-                Gemini season supports abundance through communication,
-                collaboration, networking, teaching, writing, marketing,
-                learning, and exchanging ideas.
+                Gemini season supports ideas, communication, writing, marketing,
+                learning, and networking. Mercury in Cancer adds emotional
+                intelligence to your voice and choices.
               </p>
 
               <p className="mt-4">
-                The Sagittarius Full Moon reminds you that abundance also grows
-                through belief. Notice where your mindset is expanding — and
-                where fear still asks you to play small.
+                Mars in Taurus reminds you that abundance grows through steady
+                follow-through. Choose one practical step and repeat it with
+                devotion.
               </p>
             </>
           ),
@@ -200,21 +195,21 @@ export default function NewsletterPage() {
 
         {
           title: "🧘 Stillness & Power",
-          yin: "Let openness expand your perspective gently.",
-          yang: "Let truth move you forward with courage.",
+          yin: "Let feeling become guidance.",
+          yang: "Let patience become power.",
           content: (
             <>
               <p className="mt-4">
-                Visualize standing beneath a vast open sky. The horizon
-                stretches endlessly before you. Your mind opens, your breath
-                deepens, and your path becomes clearer with every step forward.
+                Visualize a calm lake under morning light. Your thoughts ripple
+                across the surface, but beneath them is quiet depth. Let your
+                breath return you to that deeper knowing.
               </p>
 
               <p className="mt-4">
-                <b>Affirm:</b> I trust the truth that expands my life.
+                <b>Affirm:</b> I listen to my heart and move with steady trust.
                 <br />
-                <b>Prompt:</b> What would become possible if I fully believed in
-                my own growth?
+                <b>Prompt:</b> What would change if I trusted my emotional wisdom
+                as much as my logic?
               </p>
             </>
           ),
@@ -222,18 +217,18 @@ export default function NewsletterPage() {
 
         {
           title: "🌟 Sacred Affirmation",
-          yin: "Let trust soften fear.",
-          yang: "Let truth guide your expansion.",
+          yin: "Let softness become your wisdom.",
+          yang: "Let steadiness shape your path.",
           content: (
             <>
               <p className="mt-4 italic">
-                "I release limiting beliefs and welcome the expansion meant for
-                me."
+                "I honor what I feel, speak with care, and build my life with
+                grounded trust."
               </p>
 
               <p className="mt-4">
-                Repeat this affirmation whenever self-doubt or uncertainty
-                appears.
+                Repeat this affirmation when your mind feels busy or your heart
+                needs reassurance.
               </p>
             </>
           ),
@@ -241,21 +236,19 @@ export default function NewsletterPage() {
 
         {
           title: "🔮 A Final Whisper",
-          yin: "Let curiosity awaken your spirit gently.",
-          yang: "Let courage carry you toward a larger life.",
+          yin: "Let emotion become medicine.",
+          yang: "Let grounded action become devotion.",
           content: (
             <>
               <p className="mt-4 italic">
-                "This week, I open my heart, expand my mind, and trust the truth
-                guiding me forward."
+                "This week, I integrate what I have learned and move forward
+                with patience, care, and truth."
               </p>
 
               <p className="mt-4">
-                Gemini reminds you to stay curious. Sagittarius reminds you to
-                seek deeper meaning. Together, they create movement that expands
-                both mind and soul. Let this week help you release old limits,
-                reconnect with possibility, and move toward a future that feels
-                honest, alive, and expansive.
+                Gemini helps you understand. Cancer helps you feel. Taurus helps
+                you embody. Let this week become a bridge between insight and
+                action — gentle enough to heal, steady enough to last.
               </p>
             </>
           ),
