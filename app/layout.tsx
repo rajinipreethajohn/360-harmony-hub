@@ -5,6 +5,7 @@ import type { Metadata } from "next";
 import Script from "next/script";
 
 export const metadata: Metadata = {
+  metadataBase: new URL("https://360harmonyhub.netlify.app"),
   title: "360 Harmony Hub | A Space Where Science Meets Soul",
   description:
     "Discover balance through The Yin Yang Newsletter — exploring harmony between Yin (Sacred Feminine) and Yang (Sacred Masculine).",
@@ -16,7 +17,7 @@ export const metadata: Metadata = {
     siteName: "360 Harmony Hub",
     images: [
       {
-        url: "https://360harmonyhub.netlify.app/og-image.jpg",
+        url: "https://360harmonyhub.netlify.app/og-image.png",
         width: 1200,
         height: 630,
         alt: "360 Harmony Hub — Balance Between Yin and Yang",
@@ -30,7 +31,7 @@ export const metadata: Metadata = {
     title: "360 Harmony Hub | A Space Where Science Meets Soul",
     description:
       "A mindful digital sanctuary for the modern, spiritually aware human.",
-    images: ["https://360harmonyhub.netlify.app/og-image.jpg"],
+    images: ["https://360harmonyhub.netlify.app/og-image.png"],
     creator: "@360HarmonyHub",
   },
 
