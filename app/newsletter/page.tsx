@@ -27,7 +27,7 @@ export default function NewsletterPage() {
     });
 
     try {
-      const response = await fetch("/__forms.html", {
+      const response = await fetch("/forms.html", {
         method: "POST",
         headers: { "Content-Type": "application/x-www-form-urlencoded" },
         body: encodedFormData.toString(),
@@ -380,7 +380,7 @@ export default function NewsletterPage() {
         <form
           name="harmony-newsletter-subscribe"
           method="POST"
-          action="/__forms.html"
+          action="/forms.html"
           data-netlify="true"
           netlify-honeypot="bot-field"
           onSubmit={handleSubscribe}
