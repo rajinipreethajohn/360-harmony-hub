@@ -98,9 +98,9 @@ export default function NewsletterPage() {
             This week begins in the afterglow of the Sagittarius Full Moon,
             inviting integration, reflection, and emotional processing. The{" "}
             <b>Sun remains in Gemini</b>, keeping the mind curious, expressive,
-            and open to fresh perspectives, while <b>Mercury enters Cancer on
-            June 1</b>, shifting communication from quick analysis into deeper
-            emotional intelligence.
+            and open to fresh perspectives, while{" "}
+            <b>Mercury enters Cancer on June 1</b>, shifting communication from
+            quick analysis into deeper emotional intelligence.
             <br />
             <b>Venus in Cancer</b> continues to soften love, creativity, and
             connection, encouraging tenderness, care, and emotional safety.
@@ -135,8 +135,8 @@ export default function NewsletterPage() {
                 <br />- <b>Jun 1 – Mercury enters Cancer</b>: emotional
                 intelligence, intuitive communication, memory, and heartfelt
                 conversations.
-                <br />- <b>All week – Venus in Cancer</b>: tenderness,
-                nurturing connection, emotional warmth, and soulful bonding.
+                <br />- <b>All week – Venus in Cancer</b>: tenderness, nurturing
+                connection, emotional warmth, and soulful bonding.
                 <br />- <b>All week – Mars in Taurus</b>: patience, persistence,
                 embodied action, and steady progress.
                 <br />- <b>All week – Waning Gibbous Moon</b>: integration,
@@ -159,8 +159,8 @@ export default function NewsletterPage() {
                 <b>Rituals:</b>
                 <br />- On <b>June 1</b>, write a heartfelt message, journal
                 entry, or private reflection about what you truly feel.
-                <br />- Midweek, choose one steady action that supports emotional
-                safety and long-term peace.
+                <br />- Midweek, choose one steady action that supports
+                emotional safety and long-term peace.
                 <br />- Throughout the week, slow down before responding. Let
                 your words come from both clarity and care.
               </p>
@@ -197,8 +197,9 @@ export default function NewsletterPage() {
           content: (
             <>
               <p className="mt-4">
-                This week is ideal for emotional integration after the Full Moon.
-                Give yourself space to process before making major decisions.
+                This week is ideal for emotional integration after the Full
+                Moon. Give yourself space to process before making major
+                decisions.
               </p>
 
               <p className="mt-4">
@@ -245,8 +246,8 @@ export default function NewsletterPage() {
               <p className="mt-4">
                 <b>Affirm:</b> I listen to my heart and move with steady trust.
                 <br />
-                <b>Prompt:</b> What would change if I trusted my emotional wisdom
-                as much as my logic?
+                <b>Prompt:</b> What would change if I trusted my emotional
+                wisdom as much as my logic?
               </p>
             </>
           ),
@@ -259,8 +260,8 @@ export default function NewsletterPage() {
           content: (
             <>
               <p className="mt-4 italic">
-                &quot;I honor what I feel, speak with care, and build my life with
-                grounded trust.&quot;
+                &quot;I honor what I feel, speak with care, and build my life
+                with grounded trust.&quot;
               </p>
 
               <p className="mt-4">
@@ -278,8 +279,8 @@ export default function NewsletterPage() {
           content: (
             <>
               <p className="mt-4 italic">
-                &quot;This week, I integrate what I have learned and move forward
-                with patience, care, and truth.&quot;
+                &quot;This week, I integrate what I have learned and move
+                forward with patience, care, and truth.&quot;
               </p>
 
               <p className="mt-4">
@@ -434,7 +435,7 @@ export default function NewsletterPage() {
             type="submit"
             className="px-5 py-2 bg-[#1c1b2b] text-[#f9f5e6] rounded-lg shadow-md hover:bg-[#cbb89d] hover:text-[#1c1b2b] transition-all duration-300"
           >
-            Subscribe by Email
+            Receive Weekly Newsletter
           </button>
 
           {isSubscribed && (
@@ -444,9 +445,7 @@ export default function NewsletterPage() {
           )}
 
           {subscribeError && (
-            <p className="mt-4 text-sm italic text-red-700">
-              {subscribeError}
-            </p>
+            <p className="mt-4 text-sm italic text-red-700">{subscribeError}</p>
           )}
         </form>
       </div>
