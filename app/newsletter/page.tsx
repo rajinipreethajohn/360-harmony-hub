@@ -20,14 +20,17 @@ export default function NewsletterPage() {
     setSubscribeError("");
 
     const formData = new FormData(event.currentTarget);
+    const encodedFormData = new URLSearchParams();
+
+    formData.forEach((value, key) => {
+      encodedFormData.append(key, value.toString());
+    });
 
     try {
       const response = await fetch("/__forms.html", {
         method: "POST",
         headers: { "Content-Type": "application/x-www-form-urlencoded" },
-        body: new URLSearchParams(
-          formData as unknown as Record<string, string>,
-        ).toString(),
+        body: encodedFormData.toString(),
       });
 
       if (!response.ok) {
@@ -377,6 +380,7 @@ export default function NewsletterPage() {
         <form
           name="harmony-newsletter-subscribe"
           method="POST"
+          action="/__forms.html"
           data-netlify="true"
           netlify-honeypot="bot-field"
           onSubmit={handleSubscribe}
