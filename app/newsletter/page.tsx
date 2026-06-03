@@ -381,8 +381,6 @@ export default function NewsletterPage() {
           name="harmony-newsletter-subscribe"
           method="POST"
           action="/forms.html"
-          data-netlify="true"
-          netlify-honeypot="bot-field"
           onSubmit={handleSubscribe}
           className="max-w-xl mx-auto bg-white/65 backdrop-blur-sm border border-[#e6c79266] rounded-2xl shadow-md p-5 text-center font-serif text-[#1c1b2b]"
         >

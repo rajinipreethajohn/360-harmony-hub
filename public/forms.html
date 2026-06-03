@@ -5,17 +5,11 @@
     <title>Netlify Forms</title>
   </head>
   <body>
-    <form
-      name="harmony-newsletter-subscribe"
-      method="POST"
-      action="/forms.html"
-      netlify
-      data-netlify="true"
-      netlify-honeypot="bot-field"
-      hidden
-    >
+    <form name="harmony-newsletter-subscribe" method="POST" action="/forms.html" data-netlify="true" data-netlify-honeypot="bot-field">
       <input type="hidden" name="form-name" value="harmony-newsletter-subscribe" />
-      <input name="bot-field" type="text" />
+      <p style="display: none;">
+        <label>Do not fill this out if you are human: <input name="bot-field" /></label>
+      </p>
       <input name="name" type="text" />
       <input name="email" type="email" />
     </form>
