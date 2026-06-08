@@ -17,7 +17,7 @@ export const metadata: Metadata = {
     siteName: "360 Harmony Hub",
     images: [
       {
-        url: "https://360harmonyhub.netlify.app/og-image.png",
+        url: "https://360harmonyhub.netlify.app/og-image-whatsapp.jpg",
         width: 1200,
         height: 630,
         alt: "360 Harmony Hub — Balance Between Yin and Yang",
@@ -31,7 +31,7 @@ export const metadata: Metadata = {
     title: "360 Harmony Hub | A Space Where Science Meets Soul",
     description:
       "A mindful digital sanctuary for the modern, spiritually aware human.",
-    images: ["https://360harmonyhub.netlify.app/og-image.png"],
+    images: ["https://360harmonyhub.netlify.app/og-image-whatsapp.jpg"],
     creator: "@360HarmonyHub",
   },
 
