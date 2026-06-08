@@ -1,13 +1,50 @@
 "use client";
 import useIsPrinting from "@/hooks/useIsPrinting";
 import { motion } from "framer-motion";
+import { useState, type FormEvent } from "react";
 
 export default function NewsletterPage() {
   const isPrinting = useIsPrinting();
+  const [subscriberName, setSubscriberName] = useState("");
+  const [subscriberEmail, setSubscriberEmail] = useState("");
+  const [isSubscribed, setIsSubscribed] = useState(false);
+  const [subscribeError, setSubscribeError] = useState("");
 
   const fadeIn = {
     hidden: { opacity: 0, y: 20 },
     visible: { opacity: 1, y: 0 },
+  };
+
+  const handleSubscribe = async (event: FormEvent<HTMLFormElement>) => {
+    event.preventDefault();
+    setSubscribeError("");
+
+    const formData = new FormData(event.currentTarget);
+    const encodedFormData = new URLSearchParams();
+
+    formData.forEach((value, key) => {
+      encodedFormData.append(key, value.toString());
+    });
+
+    try {
+      const response = await fetch("/forms.html", {
+        method: "POST",
+        headers: { "Content-Type": "application/x-www-form-urlencoded" },
+        body: encodedFormData.toString(),
+      });
+
+      if (!response.ok) {
+        throw new Error("Subscription failed");
+      }
+
+      setSubscriberName("");
+      setSubscriberEmail("");
+      setIsSubscribed(true);
+    } catch {
+      setSubscribeError(
+        "Something did not flow through. Please try again in a moment.",
+      );
+    }
   };
 
   return (
@@ -228,8 +265,8 @@ export default function NewsletterPage() {
           content: (
             <>
               <p className="mt-4 italic">
-                "I release what is complete and welcome the new ideas meant to
-                guide me forward."
+                &quot;I release what is complete and welcome the new ideas meant
+                to guide me forward.&quot;
               </p>
 
               <p className="mt-4">
@@ -247,8 +284,8 @@ export default function NewsletterPage() {
           content: (
             <>
               <p className="mt-4 italic">
-                "This week, I soften, receive, release, and begin again with an
-                open heart and clear mind."
+                &quot;This week, I soften, receive, release, and begin again with
+                an open heart and clear mind.&quot;
               </p>
 
               <p className="mt-4">
@@ -325,7 +362,7 @@ export default function NewsletterPage() {
         </svg>
       </motion.div>
 
-      {/* Footer + Print Button */}
+      {/* Footer + Print and Subscribe Actions */}
       <footer className="print-only">
         Visit us at{" "}
         <a
@@ -337,13 +374,86 @@ export default function NewsletterPage() {
         </a>
       </footer>
 
-      <div className="text-center my-8 no-print">
-        <button
-          onClick={() => window.print()}
-          className="px-5 py-2 bg-[#1c1b2b] text-[#f9f5e6] rounded-lg shadow-md hover:bg-[#cbb89d] hover:text-[#1c1b2b] transition-all duration-300"
+      <div className="my-8 no-print space-y-6">
+        <div className="text-center">
+          <button
+            onClick={() => window.print()}
+            className="px-5 py-2 bg-[#1c1b2b] text-[#f9f5e6] rounded-lg shadow-md hover:bg-[#cbb89d] hover:text-[#1c1b2b] transition-all duration-300"
+          >
+            📄 Download as PDF
+          </button>
+        </div>
+
+        <form
+          name="harmony-newsletter-subscribe"
+          method="POST"
+          action="/forms.html"
+          onSubmit={handleSubscribe}
+          className="max-w-xl mx-auto bg-white/65 backdrop-blur-sm border border-[#e6c79266] rounded-2xl shadow-md p-5 text-center font-serif text-[#1c1b2b]"
         >
-          📄 Download as PDF
-        </button>
+          <input
+            type="hidden"
+            name="form-name"
+            value="harmony-newsletter-subscribe"
+          />
+
+          <p className="hidden">
+            <label>
+              Do not fill this out if you are human:{" "}
+              <input name="bot-field" tabIndex={-1} autoComplete="off" />
+            </label>
+          </p>
+
+          <p className="text-sm italic text-gray-600 mb-4">
+            Receive the weekly Yin Yang Newsletter gently in your inbox.
+          </p>
+
+          <div className="grid grid-cols-1 sm:grid-cols-2 gap-3 mb-4">
+            <label className="sr-only" htmlFor="subscriber-name">
+              Name
+            </label>
+            <input
+              id="subscriber-name"
+              name="name"
+              type="text"
+              value={subscriberName}
+              onChange={(event) => setSubscriberName(event.target.value)}
+              placeholder="Name"
+              className="w-full rounded-lg border border-[#d6be96] bg-[#fffaf3] px-4 py-2 text-sm text-[#1c1b2b] placeholder:text-gray-500 focus:outline-none focus:ring-2 focus:ring-[#cbb89d]"
+            />
+
+            <label className="sr-only" htmlFor="subscriber-email">
+              Email
+            </label>
+            <input
+              id="subscriber-email"
+              name="email"
+              type="email"
+              value={subscriberEmail}
+              onChange={(event) => setSubscriberEmail(event.target.value)}
+              placeholder="Email address"
+              required
+              className="w-full rounded-lg border border-[#d6be96] bg-[#fffaf3] px-4 py-2 text-sm text-[#1c1b2b] placeholder:text-gray-500 focus:outline-none focus:ring-2 focus:ring-[#cbb89d]"
+            />
+          </div>
+
+          <button
+            type="submit"
+            className="px-5 py-2 bg-[#1c1b2b] text-[#f9f5e6] rounded-lg shadow-md hover:bg-[#cbb89d] hover:text-[#1c1b2b] transition-all duration-300"
+          >
+            Receive Weekly Newsletter
+          </button>
+
+          {isSubscribed && (
+            <p className="mt-4 text-sm italic text-[#5c5244]">
+              You are on the list. Thank you for joining this weekly rhythm.
+            </p>
+          )}
+
+          {subscribeError && (
+            <p className="mt-4 text-sm italic text-red-700">{subscribeError}</p>
+          )}
+        </form>
       </div>
     </div>
   );
