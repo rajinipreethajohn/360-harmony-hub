@@ -1,50 +1,13 @@
 "use client";
 import useIsPrinting from "@/hooks/useIsPrinting";
 import { motion } from "framer-motion";
-import { useState, type FormEvent } from "react";
 
 export default function NewsletterPage() {
   const isPrinting = useIsPrinting();
-  const [subscriberName, setSubscriberName] = useState("");
-  const [subscriberEmail, setSubscriberEmail] = useState("");
-  const [isSubscribed, setIsSubscribed] = useState(false);
-  const [subscribeError, setSubscribeError] = useState("");
 
   const fadeIn = {
     hidden: { opacity: 0, y: 20 },
     visible: { opacity: 1, y: 0 },
-  };
-
-  const handleSubscribe = async (event: FormEvent<HTMLFormElement>) => {
-    event.preventDefault();
-    setSubscribeError("");
-
-    const formData = new FormData(event.currentTarget);
-    const encodedFormData = new URLSearchParams();
-
-    formData.forEach((value, key) => {
-      encodedFormData.append(key, value.toString());
-    });
-
-    try {
-      const response = await fetch("/forms.html", {
-        method: "POST",
-        headers: { "Content-Type": "application/x-www-form-urlencoded" },
-        body: encodedFormData.toString(),
-      });
-
-      if (!response.ok) {
-        throw new Error("Subscription failed");
-      }
-
-      setSubscriberName("");
-      setSubscriberEmail("");
-      setIsSubscribed(true);
-    } catch {
-      setSubscribeError(
-        "Something did not flow through. Please try again in a moment.",
-      );
-    }
   };
 
   return (
@@ -62,7 +25,7 @@ export default function NewsletterPage() {
         </h1>
 
         <h2 className="text-2xl font-serif text-gray-800 mb-1">
-          June 01 – June 07, 2026
+          June 08 – June 14, 2026
         </h2>
 
         <p className="italic text-sm text-gray-600 tracking-wide my-6">
@@ -73,8 +36,8 @@ export default function NewsletterPage() {
         <p className="italic text-lg text-gray-700">
           Theme:{" "}
           <b>
-            Emotional Clarity and Grounded Integration — Gemini Insight, Cancer
-            Feeling, and Taurus Steadiness
+            Sacred Reflection and New Mental Seeds — Gemini Clarity, Cancer
+            Nourishment, and Pisces Release
           </b>
         </p>
       </motion.div>
@@ -95,27 +58,27 @@ export default function NewsletterPage() {
       >
         <div className="text-center max-w-3xl mx-auto leading-loose text-[1.05rem] font-serif text-gray-700 tracking-wider">
           <p className="mb-6">
-            This week begins in the afterglow of the Sagittarius Full Moon,
-            inviting integration, reflection, and emotional processing. The{" "}
-            <b>Sun remains in Gemini</b>, keeping the mind curious, expressive,
-            and open to fresh perspectives, while{" "}
-            <b>Mercury enters Cancer on June 1</b>, shifting communication from
-            quick analysis into deeper emotional intelligence.
+            This week carries a beautiful blend of release, emotional
+            nourishment, and fresh mental beginnings. The{" "}
+            <b>Sun remains in Gemini</b>, keeping the mind curious, adaptable,
+            and open to new ideas, while <b>Mercury in Cancer</b> asks
+            communication to come from the heart as much as the intellect.
             <br />
-            <b>Venus in Cancer</b> continues to soften love, creativity, and
-            connection, encouraging tenderness, care, and emotional safety.
-            Meanwhile, <b>Mars in Taurus</b> grounds action into patience,
-            persistence, and embodied follow-through.
+            <b>Venus and Jupiter meet in Cancer around June 8–9</b>, softening
+            the emotional field and expanding themes of love, belonging,
+            compassion, family, and inner safety. This is a tender cosmic
+            opening — one that reminds you that growth can feel nurturing, not
+            only challenging.
             <br />
-            With the <b>waning gibbous Moon</b> moving through the week, this is
-            not a time to rush. It is a time to absorb what has been revealed,
-            process what feels true, and return to steady choices that nourish
-            both heart and body.
+            On <b>June 8</b>, the <b>Last Quarter Moon in Pisces</b> invites
+            release, reflection, and spiritual surrender. Then, on{" "}
+            <b>June 14</b>, the <b>New Moon in Gemini</b> opens a fresh cycle of
+            thought, learning, writing, communication, and new perspectives.
           </p>
 
           <p>
-            Let this week help you think clearly, feel honestly, and move
-            forward with grounded care.
+            Let this week help you release softly, receive deeply, and plant new
+            thoughts with intention.
           </p>
         </div>
       </motion.div>
@@ -124,45 +87,51 @@ export default function NewsletterPage() {
       {[
         {
           title: "🌕 Celestial Flow",
-          yin: "Let emotional wisdom soften your thoughts.",
-          yang: "Let grounded action support what feels true.",
+          yin: "Let emotional nourishment soften your inner world.",
+          yang: "Let new ideas guide fresh beginnings.",
           content: (
             <>
               <p className="mt-4">
                 <b>Astrological Highlights:</b>
                 <br />- <b>All week – Sun in Gemini</b>: curiosity,
-                communication, adaptability, learning, and fresh perspective.
-                <br />- <b>Jun 1 – Mercury enters Cancer</b>: emotional
+                communication, adaptability, learning, and mental renewal.
+                <br />- <b>All week – Mercury in Cancer</b>: emotional
                 intelligence, intuitive communication, memory, and heartfelt
                 conversations.
                 <br />- <b>All week – Venus in Cancer</b>: tenderness, nurturing
                 connection, emotional warmth, and soulful bonding.
+                <br />- <b>Jun 8–9 – Venus conjunct Jupiter in Cancer</b>:
+                emotional expansion, love, belonging, generosity, and healing
+                connection.
                 <br />- <b>All week – Mars in Taurus</b>: patience, persistence,
                 embodied action, and steady progress.
-                <br />- <b>All week – Waning Gibbous Moon</b>: integration,
-                reflection, emotional processing, and post-Full Moon clarity.
-                <br />- <b>All week – Saturn in Aries</b>: disciplined courage,
+                <br />- <b>Jun 8 – Last Quarter Moon in Pisces</b>: release,
+                surrender, compassion, closure, and spiritual reflection.
+                <br />- <b>Jun 14 – New Moon in Gemini</b>: new ideas, fresh
+                conversations, learning, writing, and mental reset.
+                <br />- <b>All week – Saturn in Pisces</b>: disciplined courage,
                 self-leadership, and responsible growth.
               </p>
 
               <p className="mt-4">
                 <b>Reflections:</b>
                 <br />
-                - What emotional truth is asking to be honored now?
+                - What am I ready to release with compassion rather than force?
                 <br />
-                - Where do I need softer communication and stronger grounding?
-                <br />- What recent insight am I ready to integrate into daily
-                life?
+                - Where do I need more emotional safety and honest connection?
+                <br />- What new idea or perspective wants to begin through me?
               </p>
 
               <p className="mt-4">
                 <b>Rituals:</b>
-                <br />- On <b>June 1</b>, write a heartfelt message, journal
-                entry, or private reflection about what you truly feel.
-                <br />- Midweek, choose one steady action that supports
-                emotional safety and long-term peace.
-                <br />- Throughout the week, slow down before responding. Let
-                your words come from both clarity and care.
+                <br />- On <b>June 8</b>, release one emotional pattern,
+                expectation, or fear through journaling, prayer, or quiet
+                reflection.
+                <br />- Around <b>June 8–9</b>, do one nurturing act for
+                yourself or someone you love.
+                <br />- On <b>June 14</b>, write three intentions for the Gemini
+                New Moon around communication, learning, creativity, or
+                connection.
               </p>
             </>
           ),
@@ -170,21 +139,20 @@ export default function NewsletterPage() {
 
         {
           title: "💗 Wellness & Vital Flow",
-          yin: "Let tenderness calm your nervous system.",
-          yang: "Let steady movement strengthen your body.",
+          yin: "Let tenderness restore your nervous system.",
+          yang: "Let steady movement support your vitality.",
           content: (
             <>
               <p className="mt-4">
-                Cancer and Taurus energy both remind you that the body needs
-                safety before it can thrive. Prioritize hydration, nourishing
-                meals, rest, touch, and rhythms that help you feel emotionally
-                held.
+                Cancer and Pisces energy this week may heighten sensitivity, so
+                prioritize emotional safety: hydration, nourishing meals, gentle
+                routines, quiet spaces, and comforting rituals.
               </p>
 
               <p className="mt-4">
-                Mars in Taurus favors steady, sustainable movement: walking,
-                strength work, yoga, mobility, gardening, or anything that helps
-                your body feel rooted and capable.
+                Mars in Taurus favors slow, sustainable movement. Choose
+                walking, stretching, strength work, yoga, gardening, or any
+                practice that helps your body feel rooted and supported.
               </p>
             </>
           ),
@@ -192,19 +160,19 @@ export default function NewsletterPage() {
 
         {
           title: "🌿 Rest & Renewal",
-          yin: "Let quiet reflection restore your inner waters.",
-          yang: "Let rest prepare your next grounded step.",
+          yin: "Let quiet surrender clear emotional weight.",
+          yang: "Let rest prepare your next mental beginning.",
           content: (
             <>
               <p className="mt-4">
-                This week is ideal for emotional integration after the Full
-                Moon. Give yourself space to process before making major
-                decisions.
+                The Last Quarter Moon in Pisces invites you to soften the grip
+                around what no longer needs to be carried. Rest, music, water,
+                prayer, and silence can feel especially healing.
               </p>
 
               <p className="mt-4">
-                Before sleep, ask: &quot;What feeling needs my compassion before
-                it can become wisdom?&quot;
+                Before sleep, ask: &quot;What am I ready to release so my mind
+                can begin again?&quot;
               </p>
             </>
           ),
@@ -212,20 +180,20 @@ export default function NewsletterPage() {
 
         {
           title: "✨ Abundance in Alignment",
-          yin: "Receive support that feels emotionally safe.",
-          yang: "Build patiently from practical truth.",
+          yin: "Receive support that feels nourishing and safe.",
+          yang: "Build steadily through clear communication.",
           content: (
             <>
               <p className="mt-4">
-                Gemini season supports ideas, communication, writing, marketing,
-                learning, and networking. Mercury in Cancer adds emotional
-                intelligence to your voice and choices.
+                Venus and Jupiter in Cancer highlight abundance through care,
+                trust, emotional intelligence, home, family, nourishment, and
+                meaningful connection.
               </p>
 
               <p className="mt-4">
-                Mars in Taurus reminds you that abundance grows through steady
-                follow-through. Choose one practical step and repeat it with
-                devotion.
+                The Gemini New Moon supports new ideas, writing, teaching,
+                marketing, conversations, networking, and learning. Plant one
+                seed that can grow through your voice.
               </p>
             </>
           ),
@@ -233,21 +201,21 @@ export default function NewsletterPage() {
 
         {
           title: "🧘 Stillness & Power",
-          yin: "Let feeling become guidance.",
-          yang: "Let patience become power.",
+          yin: "Let compassion become your inner medicine.",
+          yang: "Let clarity become your next beginning.",
           content: (
             <>
               <p className="mt-4">
-                Visualize a calm lake under morning light. Your thoughts ripple
-                across the surface, but beneath them is quiet depth. Let your
-                breath return you to that deeper knowing.
+                Visualize a soft river washing away old thoughts, fears, and
+                emotional heaviness. Then imagine a bright new page opening
+                before you — clean, spacious, and ready.
               </p>
 
               <p className="mt-4">
-                <b>Affirm:</b> I listen to my heart and move with steady trust.
+                <b>Affirm:</b> I release with compassion and begin again with
+                clarity.
                 <br />
-                <b>Prompt:</b> What would change if I trusted my emotional
-                wisdom as much as my logic?
+                <b>Prompt:</b> What new story am I ready to write for myself?
               </p>
             </>
           ),
@@ -255,18 +223,18 @@ export default function NewsletterPage() {
 
         {
           title: "🌟 Sacred Affirmation",
-          yin: "Let softness become your wisdom.",
-          yang: "Let steadiness shape your path.",
+          yin: "Let love soften old endings.",
+          yang: "Let new thoughts shape your path.",
           content: (
             <>
               <p className="mt-4 italic">
-                &quot;I honor what I feel, speak with care, and build my life
-                with grounded trust.&quot;
+                "I release what is complete and welcome the new ideas meant to
+                guide me forward."
               </p>
 
               <p className="mt-4">
-                Repeat this affirmation when your mind feels busy or your heart
-                needs reassurance.
+                Repeat this affirmation when you feel between endings and
+                beginnings.
               </p>
             </>
           ),
@@ -274,19 +242,20 @@ export default function NewsletterPage() {
 
         {
           title: "🔮 A Final Whisper",
-          yin: "Let emotion become medicine.",
-          yang: "Let grounded action become devotion.",
+          yin: "Let your heart receive what is tender.",
+          yang: "Let your mind open to what is new.",
           content: (
             <>
               <p className="mt-4 italic">
-                &quot;This week, I integrate what I have learned and move
-                forward with patience, care, and truth.&quot;
+                "This week, I soften, receive, release, and begin again with an
+                open heart and clear mind."
               </p>
 
               <p className="mt-4">
-                Gemini helps you understand. Cancer helps you feel. Taurus helps
-                you embody. Let this week become a bridge between insight and
-                action — gentle enough to heal, steady enough to last.
+                Pisces helps you release. Cancer helps you receive. Gemini helps
+                you begin again through thought, word, and curiosity. Let this
+                week become a sacred bridge between emotional healing and mental
+                renewal.
               </p>
             </>
           ),
@@ -356,7 +325,7 @@ export default function NewsletterPage() {
         </svg>
       </motion.div>
 
-      {/* Footer + Print and Subscribe Actions */}
+      {/* Footer + Print Button */}
       <footer className="print-only">
         Visit us at{" "}
         <a
@@ -368,86 +337,13 @@ export default function NewsletterPage() {
         </a>
       </footer>
 
-      <div className="my-8 no-print space-y-6">
-        <div className="text-center">
-          <button
-            onClick={() => window.print()}
-            className="px-5 py-2 bg-[#1c1b2b] text-[#f9f5e6] rounded-lg shadow-md hover:bg-[#cbb89d] hover:text-[#1c1b2b] transition-all duration-300"
-          >
-            📄 Download as PDF
-          </button>
-        </div>
-
-        <form
-          name="harmony-newsletter-subscribe"
-          method="POST"
-          action="/forms.html"
-          onSubmit={handleSubscribe}
-          className="max-w-xl mx-auto bg-white/65 backdrop-blur-sm border border-[#e6c79266] rounded-2xl shadow-md p-5 text-center font-serif text-[#1c1b2b]"
+      <div className="text-center my-8 no-print">
+        <button
+          onClick={() => window.print()}
+          className="px-5 py-2 bg-[#1c1b2b] text-[#f9f5e6] rounded-lg shadow-md hover:bg-[#cbb89d] hover:text-[#1c1b2b] transition-all duration-300"
         >
-          <input
-            type="hidden"
-            name="form-name"
-            value="harmony-newsletter-subscribe"
-          />
-
-          <p className="hidden">
-            <label>
-              Do not fill this out if you are human:{" "}
-              <input name="bot-field" tabIndex={-1} autoComplete="off" />
-            </label>
-          </p>
-
-          <p className="text-sm italic text-gray-600 mb-4">
-            Receive the weekly Yin Yang Newsletter gently in your inbox.
-          </p>
-
-          <div className="grid grid-cols-1 sm:grid-cols-2 gap-3 mb-4">
-            <label className="sr-only" htmlFor="subscriber-name">
-              Name
-            </label>
-            <input
-              id="subscriber-name"
-              name="name"
-              type="text"
-              value={subscriberName}
-              onChange={(event) => setSubscriberName(event.target.value)}
-              placeholder="Name"
-              className="w-full rounded-lg border border-[#d6be96] bg-[#fffaf3] px-4 py-2 text-sm text-[#1c1b2b] placeholder:text-gray-500 focus:outline-none focus:ring-2 focus:ring-[#cbb89d]"
-            />
-
-            <label className="sr-only" htmlFor="subscriber-email">
-              Email
-            </label>
-            <input
-              id="subscriber-email"
-              name="email"
-              type="email"
-              value={subscriberEmail}
-              onChange={(event) => setSubscriberEmail(event.target.value)}
-              placeholder="Email address"
-              required
-              className="w-full rounded-lg border border-[#d6be96] bg-[#fffaf3] px-4 py-2 text-sm text-[#1c1b2b] placeholder:text-gray-500 focus:outline-none focus:ring-2 focus:ring-[#cbb89d]"
-            />
-          </div>
-
-          <button
-            type="submit"
-            className="px-5 py-2 bg-[#1c1b2b] text-[#f9f5e6] rounded-lg shadow-md hover:bg-[#cbb89d] hover:text-[#1c1b2b] transition-all duration-300"
-          >
-            Receive Weekly Newsletter
-          </button>
-
-          {isSubscribed && (
-            <p className="mt-4 text-sm italic text-[#5c5244]">
-              You are on the list. Thank you for joining this weekly rhythm.
-            </p>
-          )}
-
-          {subscribeError && (
-            <p className="mt-4 text-sm italic text-red-700">{subscribeError}</p>
-          )}
-        </form>
+          📄 Download as PDF
+        </button>
       </div>
     </div>
   );
