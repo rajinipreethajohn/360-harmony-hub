@@ -62,7 +62,7 @@ export default function NewsletterPage() {
         </h1>
 
         <h2 className="text-2xl font-serif text-gray-800 mb-1">
-          June 15 – June 21, 2026
+          June 22 – June 28, 2026
         </h2>
 
         <p className="italic text-sm text-gray-600 tracking-wide my-6">
@@ -73,8 +73,8 @@ export default function NewsletterPage() {
         <p className="italic text-lg text-gray-700">
           Theme:{" "}
           <b>
-            New Thoughts and Heart-Led Radiance — Gemini Seeds, Leo Love, and
-            the Cancer Solstice Turning
+            Emotional Foundations and Mental Movement — Cancer Nourishment,
+            Libra Balance, and Gemini Momentum
           </b>
         </p>
       </motion.div>
@@ -95,28 +95,28 @@ export default function NewsletterPage() {
       >
         <div className="text-center max-w-3xl mx-auto leading-loose text-[1.05rem] font-serif text-gray-700 tracking-wider">
           <p className="mb-6">
-            This week begins with the quiet freshness of a{" "}
-            <b>New Moon in Gemini</b>, opening a new cycle of thought,
-            communication, learning, writing, and perspective. The{" "}
-            <b>Sun remains in Gemini</b> for most of the week, keeping the mind
-            curious, adaptable, and ready to explore new ideas.
+            This week carries the tender, protective energy of{" "}
+            <b>Cancer season</b>. The <b>Sun in Cancer</b> turns attention
+            toward home, belonging, emotional safety, nourishment, and the inner
+            world. After the mental freshness of Gemini season, life now asks:
+            what truly feels like shelter for your spirit?
             <br />
-            <b>Mercury in Cancer</b> asks words to come from emotional honesty,
-            memory, intuition, and care, while <b>Venus in Leo</b> brings
-            warmth, creativity, romance, confidence, and heart-led expression.
-            Meanwhile, <b>Mars in Taurus</b> reminds you to move steadily, not
-            urgently.
+            <b>Mercury in Cancer</b> keeps communication intuitive and
+            heart-led, while <b>Venus in Leo</b> adds warmth, creativity,
+            affection, and expressive love. Meanwhile, <b>Mars in Taurus</b>{" "}
+            continues to support steady effort and embodied action until{" "}
+            <b>June 28</b>, when <b>Mars enters Gemini</b>, shifting motivation
+            toward conversation, movement, learning, and mental agility.
             <br />
-            Around <b>June 17</b>, the <b>Moon and Venus</b> bring a tender
-            visual and energetic moment for love, beauty, and emotional
-            connection. Then, on <b>June 21</b>, the <b>June Solstice</b>{" "}
-            arrives as the Sun enters Cancer, turning the season toward home,
-            heart, nourishment, and inner belonging.
+            Around <b>June 22</b>, the <b>First Quarter Moon in Libra</b> asks
+            for balance, harmony, and thoughtful adjustment. As the Moon grows
+            toward fullness, this week invites both emotional grounding and
+            clearer relational choices.
           </p>
 
           <p>
-            Let this week help you plant new thoughts, speak with care, and move
-            toward the light with an open heart.
+            Let this week help you nourish what matters, speak with care, and
+            move forward with balance.
           </p>
         </div>
       </motion.div>
@@ -125,51 +125,51 @@ export default function NewsletterPage() {
       {[
         {
           title: "🌕 Celestial Flow",
-          yin: "Let emotional truth soften your communication.",
-          yang: "Let fresh ideas become brave new beginnings.",
+          yin: "Let emotional safety guide your choices.",
+          yang: "Let balanced action move your life forward.",
           content: (
             <>
               <p className="mt-4">
                 <b>Astrological Highlights:</b>
-                <br />- <b>Jun 15 – New Moon in Gemini</b>: fresh thoughts,
-                communication, learning, writing, and mental renewal.
-                <br />- <b>Jun 15–20 – Sun in Gemini</b>: curiosity,
-                adaptability, conversation, movement, and new perspectives.
-                <br />- <b>All week – Mercury in Cancer</b>: emotional
-                intelligence, intuitive communication, memory, and heartfelt
+                <br />- <b>All week – Sun in Cancer</b>: emotional awareness,
+                nourishment, home, belonging, intuition, and inner safety.
+                <br />- <b>All week – Mercury in Cancer</b>: heartfelt
+                communication, memory, emotional intelligence, and intuitive
                 conversations.
                 <br />- <b>All week – Venus in Leo</b>: warmth, creativity,
-                romance, confidence, playfulness, and heart-led expression.
-                <br />- <b>All week – Mars in Taurus</b>: patience, persistence,
-                embodied action, and steady progress.
-                <br />- <b>Jun 17 – Moon and Venus pairing</b>: tenderness,
-                beauty, emotional connection, and gentle affection.
-                <br />- <b>Jun 21 – June Solstice / Sun enters Cancer</b>:
-                seasonal turning, home, nourishment, belonging, and emotional
-                renewal.
-                <br />- <b>All week – Saturn in Aries</b>: disciplined courage,
-                self-leadership, and responsible growth.
+                romance, playfulness, confidence, and heart-led expression.
+                <br />- <b>Jun 22 – First Quarter Moon in Libra</b>: balance,
+                adjustment, harmony, relationship awareness, and aligned action.
+                <br />- <b>Jun 22–28 – Waxing Gibbous Moon</b>: growth,
+                refinement, preparation, and emotional momentum.
+                <br />- <b>Until Jun 28 – Mars in Taurus</b>: patience,
+                persistence, embodied action, and steady progress.
+                <br />- <b>Jun 28 – Mars enters Gemini</b>: movement,
+                conversation, curiosity, learning, and flexible motivation.
+                <br />-{" "}
+                <b>
+                  All week – Saturn in Aries, stationary retrograde this week
+                </b>
+                : disciplined courage, self-leadership, and responsible growth.
               </p>
 
               <p className="mt-4">
                 <b>Reflections:</b>
                 <br />
-                - What new idea or conversation is ready to begin?
+                - What helps me feel emotionally safe and supported?
                 <br />
-                - Where can I speak more honestly, but with greater care?
-                <br />- What does my heart want to express without shrinking?
+                - Where do I need more balance in my relationships or routines?
+                <br />- What conversation or idea is ready to move forward?
               </p>
 
               <p className="mt-4">
                 <b>Rituals:</b>
-                <br />- On <b>June 15</b>, write three Gemini New Moon
-                intentions around communication, learning, writing, or
-                connection.
-                <br />- On <b>June 17</b>, do one small act of beauty,
-                affection, or appreciation for yourself or someone you love.
-                <br />- On <b>June 21</b>, create a simple solstice ritual:
-                light a candle, sit in gratitude, or name what you want to
-                nourish in the season ahead.
+                <br />- On <b>June 22</b>, restore balance in one area of life:
+                your space, schedule, relationship, or emotional rhythm.
+                <br />- Midweek, choose one nurturing action that supports your
+                sense of home, body, or belonging.
+                <br />- On <b>June 28</b>, write down one idea, conversation, or
+                project that feels ready for movement.
               </p>
             </>
           ),
@@ -177,22 +177,21 @@ export default function NewsletterPage() {
 
         {
           title: "💗 Wellness & Vital Flow",
-          yin: "Let emotional care steady your nervous system.",
-          yang: "Let gentle consistency strengthen your body.",
+          yin: "Let nourishment calm your inner waters.",
+          yang: "Let steady movement support your strength.",
           content: (
             <>
               <p className="mt-4">
-                Gemini and Cancer energy can make the mind and heart feel busy
-                at once. Support yourself with hydration, grounding meals,
-                breathwork, gentle movement, and quiet moments away from excess
-                stimulation.
+                Cancer season reminds you that wellness begins with safety.
+                Prioritize hydration, warm meals, emotional rest, gentle
+                routines, and environments that help your nervous system soften.
               </p>
 
               <p className="mt-4">
-                Mars in Taurus favors sustainable wellness. Choose steady
-                routines: walking, stretching, strength work, mobility,
-                gardening, or any practice that helps your body feel rooted and
-                supported.
+                Mars in Taurus supports slow, consistent movement early in the
+                week. As Mars enters Gemini, your body may crave variety:
+                walking, stretching, dancing, mobility, or playful movement that
+                keeps energy flowing.
               </p>
             </>
           ),
@@ -200,19 +199,19 @@ export default function NewsletterPage() {
 
         {
           title: "🌿 Rest & Renewal",
-          yin: "Let stillness prepare the new beginning.",
-          yang: "Let rest protect your growing light.",
+          yin: "Let quiet care restore your heart.",
+          yang: "Let rest prepare your next clear action.",
           content: (
             <>
               <p className="mt-4">
-                New Moon weeks are not only for action; they are also for
-                listening. Give your mind space to reset before filling it with
-                too many new plans.
+                This week asks you to listen to your emotional needs before
+                pushing forward. Rest is not avoidance; it is preparation for
+                clearer action.
               </p>
 
               <p className="mt-4">
-                Before sleep, ask: &quot;What thought, story, or intention wants
-                to begin again through me?&quot;
+                Before sleep, ask: &quot;What part of me needs more tenderness,
+                protection, or balance?&quot;
               </p>
             </>
           ),
@@ -220,20 +219,20 @@ export default function NewsletterPage() {
 
         {
           title: "✨ Abundance in Alignment",
-          yin: "Receive inspiration that feels joyful and true.",
-          yang: "Build steadily through clear, caring action.",
+          yin: "Receive support that feels warm and sincere.",
+          yang: "Build through steady choices and clear communication.",
           content: (
             <>
               <p className="mt-4">
-                Gemini energy supports abundance through ideas, communication,
-                writing, marketing, teaching, networking, and learning. Let your
-                voice become part of your growth.
+                Cancer energy supports abundance through care, trust, emotional
+                intelligence, family, home, nourishment, and meaningful
+                connection.
               </p>
 
               <p className="mt-4">
-                Venus in Leo reminds you that visibility, confidence,
-                creativity, and joy can also be forms of prosperity. Share what
-                lights you up, but keep your actions grounded and sustainable.
+                Venus in Leo reminds you that confidence and creativity are also
+                resources. As Mars enters Gemini, conversations, writing,
+                networking, and ideas may open new doors.
               </p>
             </>
           ),
@@ -241,22 +240,22 @@ export default function NewsletterPage() {
 
         {
           title: "🧘 Stillness & Power",
-          yin: "Let care become your inner compass.",
-          yang: "Let courage express your heart clearly.",
+          yin: "Let emotional honesty become your anchor.",
+          yang: "Let curiosity become your movement.",
           content: (
             <>
               <p className="mt-4">
-                Visualize a small golden seed of light inside your chest. With
-                each inhale, it glows brighter. With each exhale, it sends
-                warmth through your words, choices, and next steps.
+                Visualize a quiet home within your heart. Its windows are open
+                to fresh air, but its foundation is steady. You can welcome new
+                movement without abandoning your center.
               </p>
 
               <p className="mt-4">
-                <b>Affirm:</b> I speak with care and express my light with
-                courage.
+                <b>Affirm:</b> I am safe to feel deeply and move forward with
+                clarity.
                 <br />
-                <b>Prompt:</b> What new message or creative truth wants to move
-                through me this week?
+                <b>Prompt:</b> What would change if I honored both my emotional
+                needs and my desire for growth?
               </p>
             </>
           ),
@@ -264,18 +263,18 @@ export default function NewsletterPage() {
 
         {
           title: "🌟 Sacred Affirmation",
-          yin: "Let softness guide your words.",
-          yang: "Let radiance guide your actions.",
+          yin: "Let care soften old defenses.",
+          yang: "Let clarity guide your next step.",
           content: (
             <>
               <p className="mt-4 italic">
-                &quot;I plant new thoughts with intention and express my heart
-                with courage.&quot;
+                &quot;I nourish my inner world and move forward with balanced
+                courage.&quot;
               </p>
 
               <p className="mt-4">
-                Repeat this affirmation when you feel ready to begin again, but
-                want to stay rooted in love.
+                Repeat this affirmation when you feel pulled between rest and
+                action.
               </p>
             </>
           ),
@@ -283,21 +282,19 @@ export default function NewsletterPage() {
 
         {
           title: "🔮 A Final Whisper",
-          yin: "Let the heart feel safe enough to open.",
-          yang: "Let the mind stay brave enough to begin.",
+          yin: "Let home begin within you.",
+          yang: "Let movement begin from truth.",
           content: (
             <>
               <p className="mt-4 italic">
-                &quot;This week, I begin again with clear thoughts, a warm
-                heart, and steady devotion.&quot;
+                &quot;This week, I protect what nourishes me and move toward
+                what feels honest, balanced, and alive.&quot;
               </p>
 
               <p className="mt-4">
-                Gemini helps you begin through thought and word. Leo reminds you
-                to shine from the heart. Cancer calls you home to what
-                nourishes. Let this week become a sacred bridge between new
-                ideas, emotional truth, and the light you are ready to carry
-                forward.
+                Cancer teaches you to care. Libra teaches you to balance. Gemini
+                teaches you to move, speak, and stay curious. Let this week
+                become a bridge between emotional safety and fresh momentum.
               </p>
             </>
           ),
