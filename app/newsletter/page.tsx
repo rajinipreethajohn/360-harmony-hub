@@ -62,7 +62,7 @@ export default function NewsletterPage() {
         </h1>
 
         <h2 className="text-2xl font-serif text-gray-800 mb-1">
-          June 22 – June 28, 2026
+          July 27 – August 02, 2026
         </h2>
 
         <p className="italic text-sm text-gray-600 tracking-wide my-6">
@@ -73,8 +73,8 @@ export default function NewsletterPage() {
         <p className="italic text-lg text-gray-700">
           Theme:{" "}
           <b>
-            Emotional Foundations and Mental Movement — Cancer Nourishment,
-            Libra Balance, and Gemini Momentum
+            Radiant Expansion and Liberating Truth — Leo Courage, Aquarius
+            Illumination, and Heart-Led Reinvention
           </b>
         </p>
       </motion.div>
@@ -95,28 +95,30 @@ export default function NewsletterPage() {
       >
         <div className="text-center max-w-3xl mx-auto leading-loose text-[1.05rem] font-serif text-gray-700 tracking-wider">
           <p className="mb-6">
-            This week carries the tender, protective energy of{" "}
-            <b>Cancer season</b>. The <b>Sun in Cancer</b> turns attention
-            toward home, belonging, emotional safety, nourishment, and the inner
-            world. After the mental freshness of Gemini season, life now asks:
-            what truly feels like shelter for your spirit?
+            This week carries bold, expansive energy as the{" "}
+            <b>Sun moves through Leo</b>, illuminating confidence, creativity,
+            self-expression, visibility, and the courage to live from the heart.
+            With <b>Jupiter also in Leo</b>, the invitation is not merely to be
+            seen — it is to grow into a larger and more generous expression of
+            who you truly are.
             <br />
-            <b>Mercury in Cancer</b> keeps communication intuitive and
-            heart-led, while <b>Venus in Leo</b> adds warmth, creativity,
-            affection, and expressive love. Meanwhile, <b>Mars in Taurus</b>{" "}
-            continues to support steady effort and embodied action until{" "}
-            <b>June 28</b>, when <b>Mars enters Gemini</b>, shifting motivation
-            toward conversation, movement, learning, and mental agility.
+            <b>Mercury is newly direct in Cancer</b>, helping emotional
+            conversations and delayed decisions begin moving forward again.
+            Communication may gradually feel clearer, but tenderness and
+            patience remain important as recent misunderstandings continue to
+            settle.
             <br />
-            Around <b>June 22</b>, the <b>First Quarter Moon in Libra</b> asks
-            for balance, harmony, and thoughtful adjustment. As the Moon grows
-            toward fullness, this week invites both emotional grounding and
-            clearer relational choices.
+            On <b>July 29</b>, the <b>Full Moon in Aquarius</b> illuminates
+            freedom, friendship, community, belonging, future vision, and the
+            courage to release roles that no longer reflect your authentic self.
+            The same Leo–Aquarius axis asks a powerful question: how can you
+            shine fully while contributing something meaningful to the wider
+            world?
           </p>
 
           <p>
-            Let this week help you nourish what matters, speak with care, and
-            move forward with balance.
+            Let this week help you release what limits your light and step
+            forward with courage, generosity, and truth.
           </p>
         </div>
       </motion.div>
@@ -125,51 +127,53 @@ export default function NewsletterPage() {
       {[
         {
           title: "🌕 Celestial Flow",
-          yin: "Let emotional safety guide your choices.",
-          yang: "Let balanced action move your life forward.",
+          yin: "Let spacious truth free your authentic self.",
+          yang: "Let courageous radiance move your life forward.",
           content: (
             <>
               <p className="mt-4">
                 <b>Astrological Highlights:</b>
-                <br />- <b>All week – Sun in Cancer</b>: emotional awareness,
-                nourishment, home, belonging, intuition, and inner safety.
-                <br />- <b>All week – Mercury in Cancer</b>: heartfelt
-                communication, memory, emotional intelligence, and intuitive
-                conversations.
-                <br />- <b>All week – Venus in Leo</b>: warmth, creativity,
-                romance, playfulness, confidence, and heart-led expression.
-                <br />- <b>Jun 22 – First Quarter Moon in Libra</b>: balance,
-                adjustment, harmony, relationship awareness, and aligned action.
-                <br />- <b>Jun 22–28 – Waxing Gibbous Moon</b>: growth,
-                refinement, preparation, and emotional momentum.
-                <br />- <b>Until Jun 28 – Mars in Taurus</b>: patience,
-                persistence, embodied action, and steady progress.
-                <br />- <b>Jun 28 – Mars enters Gemini</b>: movement,
-                conversation, curiosity, learning, and flexible motivation.
-                <br />-{" "}
-                <b>
-                  All week – Saturn in Aries, stationary retrograde this week
-                </b>
-                : disciplined courage, self-leadership, and responsible growth.
+                <br />- <b>All week – Sun in Leo</b>: confidence, creativity,
+                visibility, joy, leadership, and heart-led self-expression.
+                <br />- <b>All week – Jupiter in Leo</b>: expansion, generosity,
+                optimism, creative growth, and courageous possibility.
+                <br />- <b>All week – Mercury direct in Cancer</b>: emotional
+                clarity, heartfelt communication, memory, and gently resolving
+                unfinished conversations.
+                <br />- <b>All week – Venus in Virgo</b>: thoughtful love,
+                practical care, discernment, devotion, and meaningful
+                improvement.
+                <br />- <b>All week – Mars in Gemini</b>: mental movement,
+                conversation, curiosity, adaptability, and multiple directions
+                of action.
+                <br />- <b>Jul 29 – Full Moon in Aquarius</b>: liberation,
+                community, friendship, future vision, emotional illumination,
+                and authentic belonging.
+                <br />- <b>All week – Saturn retrograde in Aries</b>:
+                reassessing responsibility, leadership, courage, boundaries, and
+                long-term commitments.
               </p>
 
               <p className="mt-4">
                 <b>Reflections:</b>
                 <br />
-                - What helps me feel emotionally safe and supported?
+                - Where am I ready to stop shrinking my light?
                 <br />
-                - Where do I need more balance in my relationships or routines?
-                <br />- What conversation or idea is ready to move forward?
+                - Which role, expectation, or identity no longer feels
+                authentic?
+                <br />- How can my personal gifts contribute to something larger
+                than myself?
               </p>
 
               <p className="mt-4">
                 <b>Rituals:</b>
-                <br />- On <b>June 22</b>, restore balance in one area of life:
-                your space, schedule, relationship, or emotional rhythm.
-                <br />- Midweek, choose one nurturing action that supports your
-                sense of home, body, or belonging.
-                <br />- On <b>June 28</b>, write down one idea, conversation, or
-                project that feels ready for movement.
+                <br />- On <b>July 29</b>, write down one outdated role,
+                expectation, or social pattern you are ready to release.
+                <br />- Share one creative idea, truth, or expression that you
+                have been keeping hidden.
+                <br />- Before the week ends, reconnect with one friend,
+                community, or meaningful vision that reminds you of the future
+                you want to help create.
               </p>
             </>
           ),
@@ -177,21 +181,21 @@ export default function NewsletterPage() {
 
         {
           title: "💗 Wellness & Vital Flow",
-          yin: "Let nourishment calm your inner waters.",
-          yang: "Let steady movement support your strength.",
+          yin: "Let gentle care restore your inner rhythm.",
+          yang: "Let joyful movement awaken your vitality.",
           content: (
             <>
               <p className="mt-4">
-                Cancer season reminds you that wellness begins with safety.
-                Prioritize hydration, warm meals, emotional rest, gentle
-                routines, and environments that help your nervous system soften.
+                Leo energy benefits from warmth, creativity, sunlight, play, and
+                movement that reconnects you with joy. Let wellness include
+                pleasure and self-expression, not only discipline.
               </p>
 
               <p className="mt-4">
-                Mars in Taurus supports slow, consistent movement early in the
-                week. As Mars enters Gemini, your body may crave variety:
-                walking, stretching, dancing, mobility, or playful movement that
-                keeps energy flowing.
+                Venus in Virgo supports practical care: nourishing meals,
+                hydration, sleep, stretching, and simple routines that make your
+                body feel respected. Mars in Gemini may scatter energy, so
+                alternate stimulation with quiet grounding.
               </p>
             </>
           ),
@@ -199,19 +203,20 @@ export default function NewsletterPage() {
 
         {
           title: "🌿 Rest & Renewal",
-          yin: "Let quiet care restore your heart.",
-          yang: "Let rest prepare your next clear action.",
+          yin: "Let spaciousness clear emotional noise.",
+          yang: "Let rest protect your creative fire.",
           content: (
             <>
               <p className="mt-4">
-                This week asks you to listen to your emotional needs before
-                pushing forward. Rest is not avoidance; it is preparation for
-                clearer action.
+                The Aquarius Full Moon may make the mind feel active or socially
+                overstimulated. Create space away from constant messages,
+                opinions, and digital input so your own truth can become easier
+                to hear.
               </p>
 
               <p className="mt-4">
-                Before sleep, ask: &quot;What part of me needs more tenderness,
-                protection, or balance?&quot;
+                Before sleep, ask: &quot;What becomes possible when I stop
+                performing and simply allow myself to be real?&quot;
               </p>
             </>
           ),
@@ -219,20 +224,20 @@ export default function NewsletterPage() {
 
         {
           title: "✨ Abundance in Alignment",
-          yin: "Receive support that feels warm and sincere.",
-          yang: "Build through steady choices and clear communication.",
+          yin: "Receive opportunities that honor your true gifts.",
+          yang: "Let confident expression create meaningful growth.",
           content: (
             <>
               <p className="mt-4">
-                Cancer energy supports abundance through care, trust, emotional
-                intelligence, family, home, nourishment, and meaningful
-                connection.
+                The Sun and Jupiter in Leo support abundance through creativity,
+                confidence, leadership, generosity, visibility, and the courage
+                to share what makes you distinctive.
               </p>
 
               <p className="mt-4">
-                Venus in Leo reminds you that confidence and creativity are also
-                resources. As Mars enters Gemini, conversations, writing,
-                networking, and ideas may open new doors.
+                Venus in Virgo reminds you that inspiration becomes sustainable
+                through care and craftsmanship. Refine one offer, skill, system,
+                or creative project rather than chasing every new idea at once.
               </p>
             </>
           ),
@@ -240,22 +245,23 @@ export default function NewsletterPage() {
 
         {
           title: "🧘 Stillness & Power",
-          yin: "Let emotional honesty become your anchor.",
-          yang: "Let curiosity become your movement.",
+          yin: "Let freedom open space within your heart.",
+          yang: "Let courage make your light visible.",
           content: (
             <>
               <p className="mt-4">
-                Visualize a quiet home within your heart. Its windows are open
-                to fresh air, but its foundation is steady. You can welcome new
-                movement without abandoning your center.
+                Visualize a golden flame glowing in the center of your chest.
+                Around it is a wide, clear sky. Your light does not compete with
+                anyone else&apos;s freedom; it becomes brighter when both can
+                exist together.
               </p>
 
               <p className="mt-4">
-                <b>Affirm:</b> I am safe to feel deeply and move forward with
-                clarity.
+                <b>Affirm:</b> I honor my uniqueness and share my light with
+                courage.
                 <br />
-                <b>Prompt:</b> What would change if I honored both my emotional
-                needs and my desire for growth?
+                <b>Prompt:</b> What truth would I express if I no longer feared
+                being misunderstood?
               </p>
             </>
           ),
@@ -263,18 +269,18 @@ export default function NewsletterPage() {
 
         {
           title: "🌟 Sacred Affirmation",
-          yin: "Let care soften old defenses.",
-          yang: "Let clarity guide your next step.",
+          yin: "Let authenticity soften the need for approval.",
+          yang: "Let confidence guide your expression.",
           content: (
             <>
               <p className="mt-4 italic">
-                &quot;I nourish my inner world and move forward with balanced
-                courage.&quot;
+                &quot;I release the need to fit in and allow my authentic light
+                to serve the world.&quot;
               </p>
 
               <p className="mt-4">
-                Repeat this affirmation when you feel pulled between rest and
-                action.
+                Repeat this affirmation when you feel torn between belonging and
+                being fully yourself.
               </p>
             </>
           ),
@@ -282,19 +288,21 @@ export default function NewsletterPage() {
 
         {
           title: "🔮 A Final Whisper",
-          yin: "Let home begin within you.",
-          yang: "Let movement begin from truth.",
+          yin: "Let freedom return you to your truth.",
+          yang: "Let radiance carry your gifts outward.",
           content: (
             <>
               <p className="mt-4 italic">
-                &quot;This week, I protect what nourishes me and move toward
-                what feels honest, balanced, and alive.&quot;
+                &quot;This week, I release what dims me and step forward with an
+                open heart, a clear vision, and courageous light.&quot;
               </p>
 
               <p className="mt-4">
-                Cancer teaches you to care. Libra teaches you to balance. Gemini
-                teaches you to move, speak, and stay curious. Let this week
-                become a bridge between emotional safety and fresh momentum.
+                Leo reminds you to shine. Aquarius reminds you that your light
+                belongs within a larger constellation. Cancer reminds you to
+                speak from the heart, while Virgo asks you to make your gifts
+                useful and real. Let this week reconnect personal radiance with
+                meaningful contribution.
               </p>
             </>
           ),
