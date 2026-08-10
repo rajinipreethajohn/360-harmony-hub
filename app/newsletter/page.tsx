@@ -62,7 +62,7 @@ export default function NewsletterPage() {
         </h1>
 
         <h2 className="text-2xl font-serif text-gray-800 mb-1">
-          August 03 – August 09, 2026
+          August 10 – August 16, 2026
         </h2>
 
         <p className="italic text-sm text-gray-600 tracking-wide my-6">
@@ -73,8 +73,8 @@ export default function NewsletterPage() {
         <p className="italic text-lg text-gray-700">
           Theme:{" "}
           <b>
-            Radiant Truth and Graceful Rebalancing — Leo Courage, Taurus
-            Healing, and Libra Harmony
+            Radiant Beginnings and Emotional Courage — Leo Eclipse Renewal,
+            Cancer Action, and Heart-Led Becoming
           </b>
         </p>
       </motion.div>
@@ -95,29 +95,30 @@ export default function NewsletterPage() {
       >
         <div className="text-center max-w-3xl mx-auto leading-loose text-[1.05rem] font-serif text-gray-700 tracking-wider">
           <p className="mb-6">
-            This week keeps the heart illuminated beneath the <b>Sun in Leo</b>,
-            encouraging courage, creativity, confidence, and authentic
-            self-expression. With <b>Jupiter also in Leo</b>, growth asks for
-            generosity of spirit — not simply becoming louder, but becoming more
-            fully yourself.
+            This week carries powerful beginning energy beneath the radiant{" "}
+            <b>Sun in Leo</b>. With <b>Jupiter also in Leo</b>, themes of
+            courage, creativity, visibility, generosity, and authentic
+            self-expression continue to expand. And now <b>Mercury is in Leo</b>{" "}
+            too, giving thoughts and words more warmth, confidence, conviction,
+            and creative fire.
             <br />
-            On <b>August 3</b>, <b>Chiron stations retrograde in Taurus</b>,
-            turning attention toward quieter healing around worth, security,
-            embodiment, stability, and the places where enoughness has felt
-            uncertain. Then, on <b>August 6</b>, the <b>Last Quarter Moon</b>{" "}
-            invites release, simplification, and honest course correction.
+            On <b>August 11</b>, <b>Mars enters Cancer</b>, shifting action away
+            from restless mental motion and toward emotional instinct,
+            protection, home, family, belonging, and what feels personally worth
+            defending. Courage becomes less performative and more deeply rooted
+            in care.
             <br />
-            On <b>August 7</b>, <b>Venus enters Libra</b>, softening the
-            relational landscape and emphasizing harmony, beauty, fairness,
-            cooperation, and reciprocal connection. Meanwhile,{" "}
-            <b>Mercury remains in Cancer</b>, keeping communication heartfelt
-            and intuitive, while <b>Mars in Gemini</b> keeps ideas, movement,
-            curiosity, and conversations lively.
+            Then comes the defining celestial moment of the week: the{" "}
+            <b>Total Solar Eclipse and New Moon in Leo on August 12–13</b>. The
+            exact calendar date may vary slightly depending on timezone, but
+            this is a potent reset around identity, creativity, visibility,
+            leadership, joy, and the question of how fully you are willing to
+            inhabit your own life.
           </p>
 
           <p>
-            Let this week help you heal quietly, express yourself boldly, and
-            restore balance where your heart needs more grace.
+            Let this week help you begin again from the heart — not louder, but
+            truer.
           </p>
         </div>
       </motion.div>
@@ -126,8 +127,8 @@ export default function NewsletterPage() {
       {[
         {
           title: "🌕 Celestial Flow",
-          yin: "Let gentleness reveal what still needs healing.",
-          yang: "Let courageous truth restore authentic balance.",
+          yin: "Let the heart reveal what is ready to be reborn.",
+          yang: "Let courageous self-expression begin a new chapter.",
           content: (
             <>
               <p className="mt-4">
@@ -136,46 +137,43 @@ export default function NewsletterPage() {
                 visibility, joy, leadership, and heart-led self-expression.
                 <br />- <b>All week – Jupiter in Leo</b>: expansion, generosity,
                 optimism, creative growth, and courageous possibility.
-                <br />- <b>All week – Mercury in Cancer</b>: emotional
-                intelligence, intuitive communication, memory, and heartfelt
-                conversations.
-                <br />- <b>Aug 3 – Chiron stations retrograde in Taurus</b>:
-                inward healing around worth, security, embodiment, stability,
-                and self-trust.
-                <br />- <b>Aug 6 – Last Quarter Moon</b>: release,
-                simplification, reflection, and honest course correction.
-                <br />- <b>Until Aug 7 – Venus in Virgo</b>: practical care,
-                discernment, devotion, and thoughtful improvement.
-                <br />- <b>Aug 7 – Venus enters Libra</b>: harmony, beauty,
+                <br />- <b>All week – Mercury in Leo</b>: bold communication,
+                creative thinking, confidence, storytelling, and speaking from
+                the heart.
+                <br />- <b>All week – Venus in Libra</b>: harmony, beauty,
                 reciprocity, diplomacy, partnership, and graceful connection.
-                <br />- <b>All week – Mars in Gemini</b>: movement,
-                conversation, curiosity, adaptability, and mental momentum.
+                <br />- <b>Aug 11 – Mars enters Cancer</b>: protective action,
+                emotional courage, instinct, home, family, and defending what
+                matters.
+                <br />- <b>Aug 12–13 – Total Solar Eclipse / New Moon in Leo</b>
+                : powerful beginnings, identity renewal, creativity, visibility,
+                courage, joy, and heart-led reinvention.
                 <br />- <b>All week – Saturn retrograde in Aries</b>:
-                reassessing responsibility, leadership, courage, boundaries, and
+                reassessing leadership, responsibility, courage, boundaries, and
                 long-term commitments.
               </p>
 
               <p className="mt-4">
                 <b>Reflections:</b>
                 <br />
-                - Where does my sense of worth need gentleness rather than
-                proving?
+                - What version of myself am I ready to stop outgrowing quietly?
                 <br />
-                - What am I ready to simplify or stop carrying?
-                <br />- Where would greater reciprocity create more peace in my
-                relationships?
+                - Where am I being asked to become more visible, creative, or
+                courageous?
+                <br />- What deserves my protection because it genuinely matters
+                to my heart?
               </p>
 
               <p className="mt-4">
                 <b>Rituals:</b>
-                <br />- On <b>August 4</b>, journal about one area where you
-                have tied your worth to productivity, approval, or external
-                security.
-                <br />- On <b>August 6</b>, release one obligation, habit, or
-                expectation that is taking more energy than it deserves.
-                <br />- On <b>August 7</b>, bring beauty or balance into one
-                relationship or space through appreciation, conversation, art,
-                music, flowers, or a simple act of care.
+                <br />- Around <b>August 12–13</b>, write three intentions for
+                the Leo New Moon around courage, creativity, identity,
+                leadership, or authentic self-expression.
+                <br />- Choose one place where you have been waiting for
+                permission and give yourself permission instead.
+                <br />- Before the week ends, take one protective, caring action
+                for your home, family, emotional wellbeing, or inner sense of
+                safety.
               </p>
             </>
           ),
@@ -183,21 +181,22 @@ export default function NewsletterPage() {
 
         {
           title: "💗 Wellness & Vital Flow",
-          yin: "Let your body feel safe enough to soften.",
-          yang: "Let joyful movement keep your energy alive.",
+          yin: "Let emotional safety soften your nervous system.",
+          yang: "Let joyful movement strengthen your inner fire.",
           content: (
             <>
               <p className="mt-4">
-                Chiron&apos;s retrograde turn in Taurus makes embodiment a
-                meaningful theme this week. Return to simple physical anchors:
-                nourishing food, hydration, sleep, sunlight, stretching, touch,
-                and rhythms that remind your body it is safe to slow down.
+                Eclipse weeks can feel stimulating even when nothing outwardly
+                dramatic is happening. Give your nervous system more room:
+                hydration, nourishing meals, steady sleep, slower transitions,
+                and moments away from constant information.
               </p>
 
               <p className="mt-4">
-                Mars in Gemini benefits from variety. Walking, tennis, dancing,
-                mobility, playful movement, or changing your routine can keep
-                energy flowing without making wellness feel rigid.
+                Mars entering Cancer favors movement that feels supportive
+                rather than punishing. Walk, swim, stretch, strengthen, or move
+                in ways that reconnect you with your body instead of demanding
+                performance from it.
               </p>
             </>
           ),
@@ -205,19 +204,19 @@ export default function NewsletterPage() {
 
         {
           title: "🌿 Rest & Renewal",
-          yin: "Let quiet healing happen without explanation.",
-          yang: "Let rest clear the noise around your next step.",
+          yin: "Let stillness make space for the new self emerging.",
+          yang: "Let rest protect the courage required for change.",
           content: (
             <>
               <p className="mt-4">
-                The Last Quarter Moon favors subtraction rather than addition.
-                Give yourself permission to do less, consume less, and create
-                more breathing room before the next lunar cycle begins.
+                A New Moon is a beginning hidden in darkness. You do not need to
+                know exactly what comes next. Allow some intentions to remain
+                private while they gather strength.
               </p>
 
               <p className="mt-4">
-                Before sleep, ask: &quot;What would I release if I trusted that
-                my worth did not depend on holding everything together?&quot;
+                Before sleep, ask: &quot;Who am I becoming when I stop shaping
+                myself around other people&apos;s expectations?&quot;
               </p>
             </>
           ),
@@ -225,21 +224,22 @@ export default function NewsletterPage() {
 
         {
           title: "✨ Abundance in Alignment",
-          yin: "Receive what honors your value without strain.",
-          yang: "Let visible creativity meet thoughtful strategy.",
+          yin: "Receive opportunities that recognize your authentic gifts.",
+          yang: "Let visibility meet courageous, meaningful action.",
           content: (
             <>
               <p className="mt-4">
-                Leo energy continues to support abundance through creativity,
-                visibility, leadership, courage, generosity, and sharing what
-                makes your work distinctive.
+                With the Sun, Mercury, and Jupiter emphasizing Leo, abundance
+                can grow through creativity, leadership, visibility,
+                communication, confidence, and sharing what makes your work
+                distinctly yours.
               </p>
 
               <p className="mt-4">
-                Chiron in Taurus asks you to notice where fear around worth or
-                security limits receiving. Venus entering Libra reminds you that
-                collaboration, diplomacy, good relationships, and mutual benefit
-                can create opportunities that force alone cannot.
+                Venus in Libra reminds you that growth does not need to happen
+                alone. Collaboration, relationships, diplomacy, aesthetics, and
+                mutually beneficial partnerships can become powerful forms of
+                abundance.
               </p>
             </>
           ),
@@ -247,22 +247,21 @@ export default function NewsletterPage() {
 
         {
           title: "🧘 Stillness & Power",
-          yin: "Let enoughness settle quietly into your body.",
-          yang: "Let confidence rise without needing to prove.",
+          yin: "Let your inner light exist before anyone sees it.",
+          yang: "Let courage give that light a place in the world.",
           content: (
             <>
               <p className="mt-4">
-                Visualize your feet resting firmly on warm earth while a golden
-                light glows in your chest. You are both rooted and radiant.
-                Nothing needs to be performed for your worth to exist.
+                Visualize yourself standing before a sunrise. The horizon is
+                still dark, but light is already forming beneath it. You do not
+                rush the dawn. You simply know that something new has begun.
               </p>
 
               <p className="mt-4">
-                <b>Affirm:</b> I am grounded in my worth and free to express my
-                light.
+                <b>Affirm:</b> I am ready to inhabit my life more fully.
                 <br />
-                <b>Prompt:</b> What would I create, ask for, or receive if I
-                already believed I was enough?
+                <b>Prompt:</b> What would I begin if I trusted that being fully
+                myself was already enough?
               </p>
             </>
           ),
@@ -270,18 +269,18 @@ export default function NewsletterPage() {
 
         {
           title: "🌟 Sacred Affirmation",
-          yin: "Let worth exist before achievement.",
-          yang: "Let courage express what is already true.",
+          yin: "Let becoming unfold without force.",
+          yang: "Let courage answer the life calling you forward.",
           content: (
             <>
               <p className="mt-4 italic">
-                &quot;I do not need to prove my worth; I honor it, embody it,
-                and let my life grow from it.&quot;
+                &quot;I release the version of me built for approval and step
+                into the life that feels true.&quot;
               </p>
 
               <p className="mt-4">
-                Repeat this affirmation whenever comparison, overwork, or the
-                need for approval begins to pull you away from yourself.
+                Repeat this affirmation when an old identity feels safer than
+                the new possibility asking you to grow.
               </p>
             </>
           ),
@@ -289,21 +288,21 @@ export default function NewsletterPage() {
 
         {
           title: "🔮 A Final Whisper",
-          yin: "Let healing return you to enoughness.",
-          yang: "Let radiance meet the world with grace.",
+          yin: "Let the new beginning form quietly within.",
+          yang: "Let your heart become brave enough to live it.",
           content: (
             <>
               <p className="mt-4 italic">
-                &quot;This week, I release what exhausts me, remember my worth,
-                and choose relationships and actions rooted in truth.&quot;
+                &quot;This week, I begin again — with greater truth, deeper
+                courage, and a heart willing to be seen.&quot;
               </p>
 
               <p className="mt-4">
-                Leo reminds you to shine. Taurus reminds you that you are
-                already worthy beneath the performance. Libra reminds you that
-                beauty grows through balance and reciprocity. Let this week
-                reconnect courage with softness — and self-expression with
-                deeper self-respect.
+                Leo reminds you that radiance is not performance; it is the
+                courage to inhabit your own life. Cancer reminds you to protect
+                what matters. Libra reminds you that authentic connection leaves
+                room for both people to exist fully. Let this eclipse week open
+                a door toward a life that feels more unmistakably yours.
               </p>
             </>
           ),
