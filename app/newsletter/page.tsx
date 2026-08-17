@@ -62,7 +62,7 @@ export default function NewsletterPage() {
         </h1>
 
         <h2 className="text-2xl font-serif text-gray-800 mb-1">
-          August 10 – August 16, 2026
+          August 17 – August 23, 2026
         </h2>
 
         <p className="italic text-sm text-gray-600 tracking-wide my-6">
@@ -73,8 +73,8 @@ export default function NewsletterPage() {
         <p className="italic text-lg text-gray-700">
           Theme:{" "}
           <b>
-            Radiant Beginnings and Emotional Courage — Leo Eclipse Renewal,
-            Cancer Action, and Heart-Led Becoming
+            Radiance Into Refinement — Leo Courage, Virgo Clarity, and Balanced
+            Forward Movement
           </b>
         </p>
       </motion.div>
@@ -95,30 +95,29 @@ export default function NewsletterPage() {
       >
         <div className="text-center max-w-3xl mx-auto leading-loose text-[1.05rem] font-serif text-gray-700 tracking-wider">
           <p className="mb-6">
-            This week carries powerful beginning energy beneath the radiant{" "}
-            <b>Sun in Leo</b>. With <b>Jupiter also in Leo</b>, themes of
-            courage, creativity, visibility, generosity, and authentic
-            self-expression continue to expand. And now <b>Mercury is in Leo</b>{" "}
-            too, giving thoughts and words more warmth, confidence, conviction,
-            and creative fire.
+            This week begins beneath the radiant confidence of <b>Leo season</b>
+            , with the <b>Sun, Mercury, and Jupiter in Leo</b> keeping
+            creativity, visibility, courage, expression, and heart-led
+            leadership brightly illuminated. The energy still encourages you to
+            take up space — but increasingly, the question becomes what you want
+            to do with that light.
             <br />
-            On <b>August 11</b>, <b>Mars enters Cancer</b>, shifting action away
-            from restless mental motion and toward emotional instinct,
-            protection, home, family, belonging, and what feels personally worth
-            defending. Courage becomes less performative and more deeply rooted
-            in care.
+            Around <b>August 19–20</b>, the <b>First Quarter Moon in Scorpio</b>{" "}
+            brings a natural moment of movement, adjustment, and decision.
+            Intentions set around the recent New Moon begin asking for action
+            rather than imagination alone — with Scorpio's depth urging honest
+            transformation.
             <br />
-            Then comes the defining celestial moment of the week: the{" "}
-            <b>Total Solar Eclipse and New Moon in Leo on August 12–13</b>. The
-            exact calendar date may vary slightly depending on timezone, but
-            this is a potent reset around identity, creativity, visibility,
-            leadership, joy, and the question of how fully you are willing to
-            inhabit your own life.
+            Then, around <b>August 21–22</b>, the <b>Sun enters Virgo</b>,
+            beginning a quieter shift from radiance toward refinement. Attention
+            turns toward routines, health, service, organization, craftsmanship,
+            discernment, and the small choices that turn inspiration into a
+            sustainable life.
           </p>
 
           <p>
-            Let this week help you begin again from the heart — not louder, but
-            truer.
+            Let this week help you carry your light forward with greater
+            clarity, care, and intention.
           </p>
         </div>
       </motion.div>
@@ -127,53 +126,54 @@ export default function NewsletterPage() {
       {[
         {
           title: "🌕 Celestial Flow",
-          yin: "Let the heart reveal what is ready to be reborn.",
-          yang: "Let courageous self-expression begin a new chapter.",
+          yin: "Let discernment gently refine what your heart has begun.",
+          yang: "Let courageous action turn inspiration into form.",
           content: (
             <>
               <p className="mt-4">
                 <b>Astrological Highlights:</b>
-                <br />- <b>All week – Sun in Leo</b>: confidence, creativity,
+                <br />- <b>Early week – Sun in Leo</b>: confidence, creativity,
                 visibility, joy, leadership, and heart-led self-expression.
                 <br />- <b>All week – Jupiter in Leo</b>: expansion, generosity,
                 optimism, creative growth, and courageous possibility.
                 <br />- <b>All week – Mercury in Leo</b>: bold communication,
-                creative thinking, confidence, storytelling, and speaking from
+                storytelling, creative thinking, confidence, and speaking from
                 the heart.
                 <br />- <b>All week – Venus in Libra</b>: harmony, beauty,
                 reciprocity, diplomacy, partnership, and graceful connection.
-                <br />- <b>Aug 11 – Mars enters Cancer</b>: protective action,
-                emotional courage, instinct, home, family, and defending what
+                <br />- <b>All week – Mars in Cancer</b>: protective action,
+                emotional courage, intuition, home, family, and caring for what
                 matters.
-                <br />- <b>Aug 12–13 – Total Solar Eclipse / New Moon in Leo</b>
-                : powerful beginnings, identity renewal, creativity, visibility,
-                courage, joy, and heart-led reinvention.
+                <br />- <b>Aug 19–20 – First Quarter Moon</b>: action,
+                adjustment, decision-making, momentum, and strengthening recent
+                intentions through honest transformation.
+                <br />- <b>Aug 21–22 – Sun enters Virgo</b>: refinement,
+                organization, health, service, discernment, practical care, and
+                meaningful improvement.
                 <br />- <b>All week – Saturn retrograde in Aries</b>:
-                reassessing leadership, responsibility, courage, boundaries, and
+                reassessing responsibility, leadership, courage, boundaries, and
                 long-term commitments.
               </p>
 
               <p className="mt-4">
                 <b>Reflections:</b>
                 <br />
-                - What version of myself am I ready to stop outgrowing quietly?
+                - Which recent beginning now needs practical follow-through?
                 <br />
-                - Where am I being asked to become more visible, creative, or
-                courageous?
-                <br />- What deserves my protection because it genuinely matters
-                to my heart?
+                - What can I refine without turning refinement into
+                perfectionism?
+                <br />- Where would one simple routine make my life feel
+                lighter?
               </p>
 
               <p className="mt-4">
                 <b>Rituals:</b>
-                <br />- Around <b>August 12–13</b>, write three intentions for
-                the Leo New Moon around courage, creativity, identity,
-                leadership, or authentic self-expression.
-                <br />- Choose one place where you have been waiting for
-                permission and give yourself permission instead.
-                <br />- Before the week ends, take one protective, caring action
-                for your home, family, emotional wellbeing, or inner sense of
-                safety.
+                <br />- Around <b>August 19–20</b>, choose one intention from
+                the recent New Moon and take one visible step toward it.
+                <br />- As Virgo season begins, organize one small area of your
+                life: a desk, schedule, inbox, routine, or unfinished task.
+                <br />- Before the week ends, ask yourself what deserves
+                consistency rather than another burst of motivation.
               </p>
             </>
           ),
@@ -181,22 +181,21 @@ export default function NewsletterPage() {
 
         {
           title: "💗 Wellness & Vital Flow",
-          yin: "Let emotional safety soften your nervous system.",
-          yang: "Let joyful movement strengthen your inner fire.",
+          yin: "Let care become simple, steady, and restorative.",
+          yang: "Let consistency strengthen the body you live through.",
           content: (
             <>
               <p className="mt-4">
-                Eclipse weeks can feel stimulating even when nothing outwardly
-                dramatic is happening. Give your nervous system more room:
-                hydration, nourishing meals, steady sleep, slower transitions,
-                and moments away from constant information.
+                The transition toward Virgo season supports returning to the
+                basics: hydration, nourishing meals, regular sleep, stretching,
+                movement, sunlight, and routines that quietly support your
+                nervous system.
               </p>
 
               <p className="mt-4">
-                Mars entering Cancer favors movement that feels supportive
-                rather than punishing. Walk, swim, stretch, strengthen, or move
-                in ways that reconnect you with your body instead of demanding
-                performance from it.
+                Mars in Cancer reminds you that wellness does not need to feel
+                aggressive. Choose movement that leaves you feeling stronger and
+                more supported rather than depleted.
               </p>
             </>
           ),
@@ -204,19 +203,20 @@ export default function NewsletterPage() {
 
         {
           title: "🌿 Rest & Renewal",
-          yin: "Let stillness make space for the new self emerging.",
-          yang: "Let rest protect the courage required for change.",
+          yin: "Let quiet order create more breathing room.",
+          yang: "Let rest protect the energy needed for meaningful action.",
           content: (
             <>
               <p className="mt-4">
-                A New Moon is a beginning hidden in darkness. You do not need to
-                know exactly what comes next. Allow some intentions to remain
-                private while they gather strength.
+                Leo season may have encouraged expression and expansion. Virgo
+                season begins asking what can be simplified. Reduce unnecessary
+                noise, unfinished obligations, and small sources of friction
+                where possible.
               </p>
 
               <p className="mt-4">
-                Before sleep, ask: &quot;Who am I becoming when I stop shaping
-                myself around other people&apos;s expectations?&quot;
+                Before sleep, ask: &quot;What small change would make tomorrow
+                feel more peaceful?&quot;
               </p>
             </>
           ),
@@ -224,22 +224,20 @@ export default function NewsletterPage() {
 
         {
           title: "✨ Abundance in Alignment",
-          yin: "Receive opportunities that recognize your authentic gifts.",
-          yang: "Let visibility meet courageous, meaningful action.",
+          yin: "Receive opportunities that honor both value and balance.",
+          yang: "Let craftsmanship turn possibility into sustainable growth.",
           content: (
             <>
               <p className="mt-4">
-                With the Sun, Mercury, and Jupiter emphasizing Leo, abundance
-                can grow through creativity, leadership, visibility,
-                communication, confidence, and sharing what makes your work
-                distinctly yours.
+                Jupiter in Leo continues to support growth through visibility,
+                creativity, generosity, leadership, and the confidence to share
+                what makes your work distinctive.
               </p>
 
               <p className="mt-4">
-                Venus in Libra reminds you that growth does not need to happen
-                alone. Collaboration, relationships, diplomacy, aesthetics, and
-                mutually beneficial partnerships can become powerful forms of
-                abundance.
+                Virgo season adds an important second half to that equation:
+                refine what you offer, improve the system behind it, and make
+                your gifts easier for others to understand, trust, and use.
               </p>
             </>
           ),
@@ -247,21 +245,21 @@ export default function NewsletterPage() {
 
         {
           title: "🧘 Stillness & Power",
-          yin: "Let your inner light exist before anyone sees it.",
-          yang: "Let courage give that light a place in the world.",
+          yin: "Let clarity emerge through gentle attention.",
+          yang: "Let discipline protect what your heart wants to build.",
           content: (
             <>
               <p className="mt-4">
-                Visualize yourself standing before a sunrise. The horizon is
-                still dark, but light is already forming beneath it. You do not
-                rush the dawn. You simply know that something new has begun.
+                Visualize a bright golden flame inside your chest becoming a
+                steady lantern. The light remains, but now it has structure,
+                direction, and purpose.
               </p>
 
               <p className="mt-4">
-                <b>Affirm:</b> I am ready to inhabit my life more fully.
+                <b>Affirm:</b> I honor my light by giving it steady form.
                 <br />
-                <b>Prompt:</b> What would I begin if I trusted that being fully
-                myself was already enough?
+                <b>Prompt:</b> What deserves my consistent attention instead of
+                occasional intensity?
               </p>
             </>
           ),
@@ -269,18 +267,18 @@ export default function NewsletterPage() {
 
         {
           title: "🌟 Sacred Affirmation",
-          yin: "Let becoming unfold without force.",
-          yang: "Let courage answer the life calling you forward.",
+          yin: "Let enoughness soften the need for perfection.",
+          yang: "Let devotion turn intention into progress.",
           content: (
             <>
               <p className="mt-4 italic">
-                &quot;I release the version of me built for approval and step
-                into the life that feels true.&quot;
+                &quot;I refine with care, act with purpose, and trust the power
+                of steady progress.&quot;
               </p>
 
               <p className="mt-4">
-                Repeat this affirmation when an old identity feels safer than
-                the new possibility asking you to grow.
+                Repeat this affirmation when improvement begins turning into
+                self-criticism.
               </p>
             </>
           ),
@@ -288,21 +286,21 @@ export default function NewsletterPage() {
 
         {
           title: "🔮 A Final Whisper",
-          yin: "Let the new beginning form quietly within.",
-          yang: "Let your heart become brave enough to live it.",
+          yin: "Let gentleness guide what needs adjusting.",
+          yang: "Let your light become useful, grounded, and real.",
           content: (
             <>
               <p className="mt-4 italic">
-                &quot;This week, I begin again — with greater truth, deeper
-                courage, and a heart willing to be seen.&quot;
+                &quot;This week, I carry my courage into the details and build
+                what matters one thoughtful step at a time.&quot;
               </p>
 
               <p className="mt-4">
-                Leo reminds you that radiance is not performance; it is the
-                courage to inhabit your own life. Cancer reminds you to protect
-                what matters. Libra reminds you that authentic connection leaves
-                room for both people to exist fully. Let this eclipse week open
-                a door toward a life that feels more unmistakably yours.
+                Leo reminds you to shine. Virgo reminds you to refine. Libra
+                reminds you to stay balanced, while Cancer reminds you to
+                protect what matters. Let this week become the bridge between
+                inspiration and embodiment — where what you believe in begins
+                taking practical form.
               </p>
             </>
           ),
