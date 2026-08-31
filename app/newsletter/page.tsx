@@ -62,7 +62,7 @@ export default function NewsletterPage() {
         </h1>
 
         <h2 className="text-2xl font-serif text-gray-800 mb-1">
-          August 24 – August 30, 2026
+          August 31 – September 06, 2026
         </h2>
 
         <p className="italic text-sm text-gray-600 tracking-wide my-6">
@@ -73,8 +73,8 @@ export default function NewsletterPage() {
         <p className="italic text-lg text-gray-700">
           Theme:{" "}
           <b>
-            Sacred Refinement and Emotional Release — Virgo Clarity, Pisces
-            Surrender, and Heart-Led Integration
+            Quiet Integration and Clearer Choices — Virgo Discernment, Gemini
+            Release, and Libra Balance
           </b>
         </p>
       </motion.div>
@@ -95,29 +95,30 @@ export default function NewsletterPage() {
       >
         <div className="text-center max-w-3xl mx-auto leading-loose text-[1.05rem] font-serif text-gray-700 tracking-wider">
           <p className="mb-6">
-            This week settles fully into the clarifying rhythm of{" "}
-            <b>Virgo season</b>. The <b>Sun in Virgo</b> turns attention toward
-            discernment, health, routines, service, craftsmanship, and the
-            practical choices that make life work more smoothly. The invitation
-            is not perfection — it is refinement with purpose.
+            This week begins in the reflective aftermath of the recent{" "}
+            <b>Pisces lunar eclipse</b>, inviting integration rather than
+            immediate reinvention. The <b>Sun and Mercury in Virgo</b> bring
+            attention back to discernment, organization, health, routines,
+            thoughtful communication, and the practical details that help life
+            feel clearer.
             <br />
-            On <b>August 25</b>, <b>Mercury enters Virgo</b>, sharpening
-            thought, communication, organization, and attention to detail. Then,
-            on <b>August 27</b>, the <b>Sun meets Mercury in Virgo</b>, creating
-            a strong moment for insight, decisions, conversations, editing,
-            planning, and seeing what needs to become simpler or clearer.
+            <b>Venus in Libra</b> begins to soften relationships through
+            reciprocity, beauty, fairness, diplomacy, and balance, while{" "}
+            <b>Mars in Cancer</b> keeps action emotionally rooted — protective,
+            intuitive, and closely connected to home, family, safety, and what
+            genuinely matters.
             <br />
-            On <b>August 28</b>, the{" "}
-            <b>Full Moon and partial lunar eclipse in Pisces</b> brings the
-            Virgo–Pisces axis into full illumination. Virgo asks what can be
-            improved; Pisces asks what must be released. Together, they invite a
-            deeper balance between order and surrender, effort and trust,
-            practicality and intuition.
+            Around <b>September 4</b>, the <b>Last Quarter Moon in Gemini</b>{" "}
+            creates a natural point of release and mental editing. Old thoughts,
+            conversations, plans, and assumptions may be ready for revision.
+            Virgo asks what is useful; Gemini asks what still needs to be said,
+            understood, or simply let go.
           </p>
 
           <p>
-            Let this week help you refine what matters, release what cannot be
-            controlled, and return to a quieter kind of clarity.
+            Let this week help you integrate what has changed, simplify what has
+            become too complicated, and choose your next steps with quieter
+            clarity.
           </p>
         </div>
       </motion.div>
@@ -126,8 +127,8 @@ export default function NewsletterPage() {
       {[
         {
           title: "🌕 Celestial Flow",
-          yin: "Let surrender soften what effort cannot resolve.",
-          yang: "Let clear discernment strengthen what truly matters.",
+          yin: "Let reflection reveal what no longer needs to be carried.",
+          yang: "Let clear thinking guide practical, intentional choices.",
           content: (
             <>
               <p className="mt-4">
@@ -135,51 +136,51 @@ export default function NewsletterPage() {
                 <br />- <b>All week – Sun in Virgo</b>: discernment,
                 organization, health, service, craftsmanship, and practical
                 refinement.
-                <br />- <b>Early week – Mercury in Leo</b>: expressive thought,
-                confidence, creativity, and speaking from the heart.
-                <br />- <b>Aug 25 – Mercury enters Virgo</b>: clear thinking,
+                <br />- <b>All week – Mercury in Virgo</b>: clear thinking,
                 detailed communication, planning, editing, analysis, and
-                practical decisions.
-                <br />- <b>Aug 27 – Sun conjunct Mercury in Virgo</b>: insight,
-                mental clarity, important conversations, organization, and
-                seeing what needs attention.
-                <br />- <b>All week – Venus in Libra</b>: harmony, beauty,
-                reciprocity, diplomacy, partnership, and graceful connection.
+                thoughtful decisions.
+                <br />- <b>Most of the week – Venus in Libra (from Sept 02)</b>:
+                harmony, beauty, reciprocity, diplomacy, partnership, fairness,
+                and graceful connection.
                 <br />- <b>All week – Mars in Cancer</b>: protective action,
-                emotional courage, intuition, home, family, and caring for what
+                emotional courage, instinct, home, family, and caring for what
                 matters.
-                <br />-{" "}
-                <b>Aug 28 – Full Moon / Partial Lunar Eclipse in Pisces</b>:
-                culmination, emotional release, intuition, surrender,
-                compassion, spiritual insight, and closure.
                 <br />- <b>All week – Jupiter in Leo</b>: confidence,
-                generosity, creativity, expansion, and courageous possibility.
+                generosity, creativity, expansion, visibility, and courageous
+                possibility.
+                <br />- <b>Sep 4 – Last Quarter Moon in Gemini</b>: release,
+                mental editing, communication, reflection, changing perspective,
+                and clearing unfinished thoughts.
                 <br />- <b>All week – Saturn retrograde in Aries</b>:
-                reassessing responsibility, leadership, boundaries, courage, and
+                reassessing responsibility, leadership, courage, boundaries, and
                 long-term commitments.
+                <br />- <b>All week – Chiron retrograde in Taurus</b>: inward
+                healing around worth, stability, embodiment, security, and
+                self-trust.
               </p>
 
               <p className="mt-4">
                 <b>Reflections:</b>
                 <br />
-                - What genuinely needs improvement — and what simply needs
-                acceptance?
+                - Which thought, plan, or conversation no longer needs so much
+                mental energy?
                 <br />
-                - Where am I using control to avoid uncertainty?
-                <br />- What emotional weight is ready to be released rather
-                than analyzed again?
+                - What simple adjustment would make daily life feel more
+                spacious?
+                <br />- Where can I choose balance instead of automatically
+                choosing obligation?
               </p>
 
               <p className="mt-4">
                 <b>Rituals:</b>
-                <br />- On <b>August 25</b>, organize one area that has felt
-                mentally cluttered: your schedule, notes, inbox, finances, or
-                workspace.
-                <br />- On <b>August 27</b>, write down one decision or truth
-                that has become clearer and identify the simplest next step.
-                <br />- On <b>August 28</b>, create a quiet release ritual:
-                journal, meditate, spend time near water, or name something you
-                are finally willing to stop carrying.
+                <br />- Early in the week, review one routine, system, or
+                commitment and remove one unnecessary complication.
+                <br />- Around <b>September 4</b>, write down one recurring
+                thought, unfinished conversation, or old story you are ready to
+                release or reframe.
+                <br />- Before the week ends, create one small pocket of order:
+                clear a surface, simplify your calendar, organize your notes, or
+                finish one lingering task.
               </p>
             </>
           ),
@@ -187,22 +188,22 @@ export default function NewsletterPage() {
 
         {
           title: "💗 Wellness & Vital Flow",
-          yin: "Let your body soften where it has been holding too much.",
-          yang: "Let simple routines become quiet strength.",
+          yin: "Let gentleness help your body integrate what has shifted.",
+          yang: "Let simple routines become reliable strength.",
           content: (
             <>
               <p className="mt-4">
-                Virgo season supports wellness through consistency rather than
-                intensity. Return to basics: hydration, nourishing meals, sleep,
-                mobility, stretching, sunlight, and routines that reduce
-                unnecessary friction.
+                Virgo season favors wellness through consistency rather than
+                intensity. Support yourself with hydration, nourishing meals,
+                steady sleep, stretching, sunlight, movement, and routines that
+                make healthy choices easier to repeat.
               </p>
 
               <p className="mt-4">
-                The Pisces lunar eclipse may heighten emotional sensitivity.
-                Balance practical care with gentleness: slower evenings, fewer
-                inputs, restorative movement, and permission to rest when your
-                system asks for it.
+                Mars in Cancer adds an emotional dimension to physical energy.
+                Notice whether your body needs effort or reassurance. Movement
+                can be strengthening without becoming another demand you place
+                on yourself.
               </p>
             </>
           ),
@@ -210,19 +211,19 @@ export default function NewsletterPage() {
 
         {
           title: "🌿 Rest & Renewal",
-          yin: "Let stillness dissolve what no longer needs effort.",
-          yang: "Let order create space for genuine rest.",
+          yin: "Let mental noise soften into spaciousness.",
+          yang: "Let rest restore the clarity needed for wise action.",
           content: (
             <>
               <p className="mt-4">
-                This week asks for both simplification and surrender. Clear one
-                practical source of clutter, then leave enough empty space for
-                your mind and emotions to settle naturally.
+                The waning Moon supports subtraction. Reduce unnecessary input,
+                unfinished tabs, constant notifications, and conversations that
+                leave your mind carrying more than it needs.
               </p>
 
               <p className="mt-4">
-                Before sleep, ask: &quot;What would become lighter if I stopped
-                trying to solve everything tonight?&quot;
+                Before sleep, ask: &quot;What am I still thinking about that no
+                longer requires an answer tonight?&quot;
               </p>
             </>
           ),
@@ -230,22 +231,21 @@ export default function NewsletterPage() {
 
         {
           title: "✨ Abundance in Alignment",
-          yin: "Receive what flows without asking you to abandon yourself.",
-          yang: "Let refinement strengthen the value of what you offer.",
+          yin: "Receive opportunities that feel reciprocal and sustainable.",
+          yang: "Let thoughtful refinement increase the value of what you offer.",
           content: (
             <>
               <p className="mt-4">
-                Virgo energy supports abundance through skill, reliability,
-                systems, service, quality, and thoughtful improvement. This is
-                an excellent week to refine one process, offer, habit, or piece
-                of work rather than constantly starting something new.
+                Virgo energy supports abundance through quality, reliability,
+                skill, service, organization, and attention to the details that
+                make good work stronger.
               </p>
 
               <p className="mt-4">
-                Jupiter in Leo keeps the larger vision alive, while Venus in
-                Libra highlights collaboration and mutually supportive
-                relationships. Let confidence open the door, then let quality
-                and connection help you stay there.
+                Jupiter in Leo keeps confidence and creative possibility alive,
+                while Venus in Libra favors partnership, presentation,
+                collaboration, and mutually supportive relationships. Growth can
+                come from doing something better — not necessarily doing more.
               </p>
             </>
           ),
@@ -253,23 +253,23 @@ export default function NewsletterPage() {
 
         {
           title: "🧘 Stillness & Power",
-          yin: "Let intuition speak after the noise becomes quiet.",
-          yang: "Let clarity guide one simple next step.",
+          yin: "Let silence separate truth from mental repetition.",
+          yang: "Let discernment choose the next useful step.",
           content: (
             <>
               <p className="mt-4">
-                Visualize a bowl of clear water. At first, the surface is
-                moving. Then everything slowly becomes still, and what was
-                clouding the water settles naturally. Clarity does not always
-                need to be forced.
+                Visualize a desk covered with loose pages. One by one, you sort
+                them: keep, release, return later. Nothing needs to be solved
+                all at once. Clarity comes from knowing what deserves your
+                attention now.
               </p>
 
               <p className="mt-4">
-                <b>Affirm:</b> I refine what I can and release what I cannot
-                control.
+                <b>Affirm:</b> I release mental clutter and give my energy to
+                what matters.
                 <br />
-                <b>Prompt:</b> What am I ready to stop fixing and simply allow
-                to complete?
+                <b>Prompt:</b> What becomes clearer when I stop treating every
+                thought as equally important?
               </p>
             </>
           ),
@@ -277,18 +277,18 @@ export default function NewsletterPage() {
 
         {
           title: "🌟 Sacred Affirmation",
-          yin: "Let surrender create room for peace.",
-          yang: "Let discernment protect what deserves your energy.",
+          yin: "Let release make room for a quieter mind.",
+          yang: "Let clarity become practical and kind.",
           content: (
             <>
               <p className="mt-4 italic">
-                &quot;I release what is complete, refine what matters, and trust
-                what becomes clear in stillness.&quot;
+                &quot;I release what no longer needs my attention and choose
+                what supports clarity, balance, and peace.&quot;
               </p>
 
               <p className="mt-4">
-                Repeat this affirmation when the desire to perfect everything
-                begins to replace trust.
+                Repeat this affirmation when overthinking begins to make a
+                simple choice feel complicated.
               </p>
             </>
           ),
@@ -296,21 +296,21 @@ export default function NewsletterPage() {
 
         {
           title: "🔮 A Final Whisper",
-          yin: "Let softness complete what effort cannot.",
-          yang: "Let clarity become useful, grounded, and kind.",
+          yin: "Let integration happen without rushing the next beginning.",
+          yang: "Let thoughtful choices create steadier forward movement.",
           content: (
             <>
               <p className="mt-4 italic">
-                &quot;This week, I simplify what is complicated, release what is
-                finished, and make room for deeper peace.&quot;
+                &quot;This week, I clear what is finished, simplify what
+                remains, and make room for what deserves my energy next.&quot;
               </p>
 
               <p className="mt-4">
-                Virgo reminds you to discern. Pisces reminds you to surrender.
-                Libra reminds you to seek balance, while Cancer reminds you to
-                protect what matters emotionally. Let this week show you that
-                wisdom is not only knowing what to improve — it is also knowing
-                what to let go.
+                Virgo reminds you to discern. Gemini reminds you that thoughts
+                can change. Libra reminds you to seek balance, while Cancer
+                reminds you to protect what matters emotionally. Let this week
+                be less about forcing a new chapter and more about clearing the
+                page so the next one can begin cleanly.
               </p>
             </>
           ),
