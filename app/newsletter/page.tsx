@@ -62,7 +62,7 @@ export default function NewsletterPage() {
         </h1>
 
         <h2 className="text-2xl font-serif text-gray-800 mb-1">
-          September 14 – September 20, 2026
+          September 21 – September 27, 2026
         </h2>
 
         <p className="italic text-sm text-gray-600 tracking-wide my-6">
@@ -73,8 +73,8 @@ export default function NewsletterPage() {
         <p className="italic text-lg text-gray-700">
           Theme:{" "}
           <b>
-            Steady Action and Deeper Truth — Virgo Discernment, Scorpio
-            Intensity, and Sagittarius Forward Motion
+            Sacred Balance and Courageous Truth — Libra Harmony, Aries
+            Illumination, and Leo Fire
           </b>
         </p>
       </motion.div>
@@ -95,29 +95,37 @@ export default function NewsletterPage() {
       >
         <div className="text-center max-w-3xl mx-auto leading-loose text-[1.05rem] font-serif text-gray-700 tracking-wider">
           <p className="mb-6">
-            This week carries the practical intelligence of <b>Virgo season</b>,
-            asking you to turn recent intentions into useful, grounded action.
-            The <b>Sun in Virgo</b> continues to illuminate routines, health,
-            work, service, discernment, and the small details that quietly shape
-            larger outcomes.
+            This week begins with one final breath of <b>Virgo season</b>,
+            carrying forward its invitation to refine, organize, discern, and
+            bring greater intention to the details of daily life. On{" "}
+            <b>September 21</b>, <b>Mercury in Libra sextiles Jupiter in Leo</b>
+            , opening the week with expansive thinking, encouraging
+            conversations, creative ideas, and a greater willingness to see
+            possibility.
             <br />
-            Around <b>September 14–15</b>, the <b>Sun sextiles Mars</b>,
-            supporting steady effort and emotionally meaningful action. Then,
-            around <b>September 15–16</b>, <b>Venus in Scorpio squares Pluto</b>
-            , bringing greater intensity to themes of intimacy, trust, desire,
-            attachment, money, and personal values. What matters deeply may
-            become difficult to ignore.
+            On <b>September 22</b>, the <b>Sun enters Libra</b>, marking the
+            equinox and beginning a new seasonal chapter centered on balance,
+            relationship, reciprocity, fairness, beauty, and the art of meeting
+            life somewhere between self and other.
             <br />
-            On <b>September 18</b>, <b>Mercury in Libra opposes Saturn</b>,
-            encouraging maturity in communication and decisions. Around{" "}
-            <b>September 18–19</b>, the <b>First Quarter Moon in Sagittarius</b>{" "}
-            adds momentum, asking you to move beyond analysis and act on what
-            feels meaningful, honest, and worth exploring.
+            The week culminates with the{" "}
+            <b>Full Moon in Aries on September 26</b>. Across the Aries–Libra
+            axis, the question becomes clear: how do we honor ourselves without
+            losing connection, and how do we create harmony without abandoning
+            what is true? With the{" "}
+            <b>Sun opposing Neptune and then trining Pluto</b> around this Full
+            Moon, clarity may emerge through the meeting of intuition,
+            uncertainty, honesty, and deeper transformation.
+            <br />
+            Finally, on <b>September 27</b>, <b>Mars enters Leo</b>, beginning a
+            more expressive, creative, courageous, and visibly passionate cycle
+            of action.
           </p>
 
           <p>
-            Let this week help you act with intention, speak with maturity, and
-            move toward what feels both truthful and sustainable.
+            Let this week remind you that true balance is not the absence of
+            individuality — it is the ability to remain fully yourself while
+            meeting life with openness, courage, and grace.
           </p>
         </div>
       </motion.div>
@@ -126,73 +134,77 @@ export default function NewsletterPage() {
       {[
         {
           title: "🌕 Celestial Flow",
-          yin: "Let deeper truth reveal what deserves your devotion.",
-          yang: "Let purposeful action move your intentions into reality.",
+          yin: "Let connection reveal where greater balance is needed.",
+          yang: "Let courageous truth protect the integrity of who you are.",
           content: (
             <>
               <p className="mt-4">
                 <b>Astrological Highlights:</b>
-                <br />- <b>All week – Sun in Virgo</b>: discernment,
+                <br />- <b>Sep 21 – Mercury sextile Jupiter</b>: expansive
+                thinking, optimism, learning, meaningful conversations,
+                cooperation, perspective, and creative possibility.
+                <br />- <b>Until Sep 22 – Sun in Virgo</b>: discernment,
                 organization, health, service, craftsmanship, simplicity, and
                 practical refinement.
+                <br />- <b>Sep 22 – Sun enters Libra</b>: balance,
+                relationships, reciprocity, diplomacy, beauty, fairness,
+                collaboration, and greater awareness of others.
                 <br />- <b>All week – Mercury in Libra</b>: diplomacy, balanced
-                thinking, fairness, thoughtful communication, negotiation, and
+                thinking, thoughtful communication, negotiation, fairness, and
                 seeing multiple perspectives.
                 <br />- <b>All week – Venus in Scorpio</b>: emotional depth,
                 intimacy, trust, loyalty, vulnerability, desire, and shared
                 values.
-                <br />- <b>All week – Mars in Cancer</b>: protective action,
-                emotional courage, instinct, home, family, and caring for what
-                matters.
-                <br />- <b>Sep 14–15 – Sun sextile Mars</b>: productive action,
-                confidence, initiative, emotional motivation, and steady
-                follow-through.
-                <br />- <b>Sep 15–16 – Venus square Pluto</b>: intensity around
-                love, trust, attachment, desire, power, money, and personal
-                values.
-                <br />- <b>Sep 18 – Mercury opposite Saturn</b>: serious
-                conversations, responsibility, boundaries, careful decisions,
-                and mature communication.
-                <br />- <b>Sep 18–19 – First Quarter Moon in Sagittarius</b>:
-                action, momentum, truth-seeking, courage, perspective, and
-                moving recent intentions forward.
+                <br />- <b>Most of the week – Mars in Cancer</b>: protective
+                action, emotional courage, instinct, home, family, and caring
+                for what matters.
+                <br />- <b>Sep 25 – Sun opposite Neptune</b>: heightened
+                sensitivity, imagination, intuition, idealism, and a need for
+                discernment where circumstances feel unclear.
+                <br />- <b>Sep 26 – Sun trine Pluto</b>: inner strength, depth,
+                transformation, insight, empowerment, and willingness to face
+                what lies beneath the surface.
+                <br />- <b>Sep 26 – Full Moon in Aries</b>: culmination,
+                independence, courage, selfhood, initiative, emotional
+                revelation, and balancing personal needs with relationship.
+                <br />- <b>Sep 27 – Mars enters Leo</b>: creative action,
+                confidence, passion, courage, leadership, visibility, play, and
+                heart-led motivation.
                 <br />- <b>All week – Jupiter in Leo</b>: confidence,
                 generosity, creativity, expansion, visibility, and courageous
                 possibility.
                 <br />- <b>All week – Saturn retrograde in Aries</b>:
-                reassessing responsibility, leadership, courage, boundaries, and
-                long-term commitments.
-                <br />-{" "}
-                <b>
-                  This week –Chiron retrograde moves from Taurus to Aries (Sep
-                  17)
-                </b>
-                : early week focuses on worth, stability, and security; from the
-                17th onward, healing shifts toward identity, courage, and
-                assertiveness.
+                reassessing responsibility, independence, leadership, courage,
+                boundaries, and long-term commitments.
+                <br />- <b>All week – Chiron retrograde in Aries</b>: inward
+                reflection around courage, identity, self-assertion,
+                vulnerability, and the right to take up space.
               </p>
 
               <p className="mt-4">
                 <b>Reflections:</b>
                 <br />
-                - What deserves steady action rather than more preparation?
+                - Where am I creating peace by compromising something that
+                actually matters to me?
                 <br />
-                - Where is emotional intensity revealing something important
-                about my values?
-                <br />- What truth am I ready to act on, even if the entire path
-                is not yet clear?
+                - What relationship becomes healthier when I bring more of my
+                authentic self into it?
+                <br />- What truth is becoming impossible to ignore beneath this
+                Full Moon?
               </p>
 
               <p className="mt-4">
                 <b>Rituals:</b>
-                <br />- Around <b>September 14–15</b>, take one practical action
-                toward something you have been planning but postponing.
-                <br />- Midweek, journal about one relationship, attachment, or
-                desire that is showing you something deeper about what you truly
-                value.
-                <br />- Around <b>September 18–19</b>, revisit your recent New
-                Moon intentions and choose one that is ready for a visible next
-                step.
+                <br />- On <b>September 21</b>, write down one conversation,
+                idea, application, creative project, or possibility you would
+                like to expand.
+                <br />- As <b>Libra season</b> begins, choose one relationship
+                or area of life where greater reciprocity would create healthier
+                balance.
+                <br />- Around the <b>September 26 Full Moon</b>, write two
+                lists: what you need for yourself and what you want to give to
+                others. Notice where those lists support each other — and where
+                they do not.
               </p>
             </>
           ),
@@ -200,22 +212,23 @@ export default function NewsletterPage() {
 
         {
           title: "💗 Wellness & Vital Flow",
-          yin: "Let your body tell you where intensity needs softness.",
-          yang: "Let steady movement become supportive strength.",
+          yin: "Let your body receive care without needing to earn it.",
+          yang: "Let movement reconnect you with confidence and vitality.",
           content: (
             <>
               <p className="mt-4">
-                Virgo season continues to favor simple, repeatable care:
-                hydration, nourishing meals, regular sleep, sunlight,
-                stretching, strength, mobility, and routines that reduce
-                unnecessary stress.
+                The shift from Virgo into Libra season moves the emphasis from
+                constant improvement toward balance. Notice whether your
+                wellness routines support your life or whether they have quietly
+                become another standard you feel obligated to meet.
               </p>
 
               <p className="mt-4">
-                Mars in Cancer reminds you that energy is affected by emotional
-                wellbeing. Notice what restores you after demanding days.
-                Movement can create strength, while quiet, nourishment, and
-                emotional safety help that strength become sustainable.
+                As Mars prepares to leave Cancer and enter Leo, physical energy
+                may begin feeling more expressive and outward. Choose movement
+                that brings genuine vitality — strength, dance, sport, walking,
+                swimming, stretching, or anything that makes you feel more
+                present inside your body.
               </p>
             </>
           ),
@@ -223,20 +236,20 @@ export default function NewsletterPage() {
 
         {
           title: "🌿 Rest & Renewal",
-          yin: "Let stillness reveal what intensity has been trying to say.",
-          yang: "Let boundaries protect the rest your system needs.",
+          yin: "Let quiet restore the balance that constant adjustment cannot.",
+          yang: "Let clear boundaries protect the space you need to renew.",
           content: (
             <>
               <p className="mt-4">
-                With Venus in Scorpio and Mercury meeting Saturn by opposition,
-                emotional or relational questions may feel heavier than usual.
-                Resist the urge to resolve everything immediately. Some clarity
-                arrives only after the nervous system settles.
+                The Full Moon can bring emotions and realizations toward the
+                surface. With the Sun–Neptune opposition nearby, not every
+                feeling needs an immediate explanation. Give uncertainty enough
+                space to become clearer before turning it into a conclusion.
               </p>
 
               <p className="mt-4">
-                Before sleep, ask: &quot;What truth becomes easier to hear when
-                I stop demanding an immediate answer?&quot;
+                Before sleep, ask: &quot;Where would I feel more peaceful if I
+                stopped abandoning my own needs to preserve harmony?&quot;
               </p>
             </>
           ),
@@ -244,22 +257,22 @@ export default function NewsletterPage() {
 
         {
           title: "✨ Abundance in Alignment",
-          yin: "Receive opportunities rooted in trust and genuine value.",
-          yang: "Let disciplined action support meaningful growth.",
+          yin: "Receive relationships and opportunities that honor reciprocity.",
+          yang: "Let confident expression make your gifts easier to recognize.",
           content: (
             <>
               <p className="mt-4">
-                Virgo continues to support abundance through reliability,
-                craftsmanship, organization, skill, service, and thoughtful
-                refinement. Progress can come from strengthening what already
-                works rather than constantly creating something new.
+                Libra season highlights abundance through collaboration,
+                relationships, presentation, negotiation, beauty, diplomacy, and
+                mutually beneficial exchange. Consider where the right
+                partnership could create more possibility than solitary effort.
               </p>
 
               <p className="mt-4">
-                Jupiter in Leo supports visibility and creative confidence,
-                while Venus in Scorpio asks whether opportunities carry genuine
-                value beneath the surface. Choose depth over appearance and
-                sustainability over urgency.
+                Jupiter in Leo continues to favor creative confidence and
+                visibility, while Mars entering Leo adds momentum. Growth may
+                ask you not only to create something valuable, but to become
+                willing to stand behind it, speak about it, and let it be seen.
               </p>
             </>
           ),
@@ -267,23 +280,24 @@ export default function NewsletterPage() {
 
         {
           title: "🧘 Stillness & Power",
-          yin: "Let depth reveal what surface certainty cannot.",
-          yang: "Let conviction become one clear next step.",
+          yin: "Let relationship become a mirror without becoming your identity.",
+          yang: "Let courage keep you rooted in the truth of who you are.",
           content: (
             <>
               <p className="mt-4">
-                Visualize yourself standing where a narrow path opens into a
-                wide horizon. You cannot see every mile ahead, but you can see
-                enough to take the next step. Trust does not require complete
-                certainty.
+                Visualize a perfectly balanced scale. On one side rests the word
+                &quot;self.&quot; On the other rests the word
+                &quot;connection.&quot; Neither side needs to disappear for
+                balance to exist. Imagine both settling naturally into
+                equilibrium.
               </p>
 
               <p className="mt-4">
-                <b>Affirm:</b> I move with discernment, courage, and trust in
-                what is becoming clear.
+                <b>Affirm:</b> I honor myself fully while remaining open to
+                genuine connection.
                 <br />
-                <b>Prompt:</b> What am I ready to act on even without knowing
-                every detail of the outcome?
+                <b>Prompt:</b> Where can I create more balance without making
+                myself smaller?
               </p>
             </>
           ),
@@ -291,18 +305,18 @@ export default function NewsletterPage() {
 
         {
           title: "🌟 Sacred Affirmation",
-          yin: "Let truth deepen without becoming fear.",
-          yang: "Let courage move before certainty is complete.",
+          yin: "Let connection deepen without asking you to disappear.",
+          yang: "Let courage protect the truth that belongs to you.",
           content: (
             <>
               <p className="mt-4 italic">
-                &quot;I trust what is becoming clear and move forward with
-                steady, grounded courage.&quot;
+                &quot;I create harmony without abandoning myself, and I honor my
+                truth without closing my heart.&quot;
               </p>
 
               <p className="mt-4">
-                Repeat this affirmation when caution begins turning into
-                hesitation or overthinking.
+                Repeat this affirmation whenever keeping the peace begins to
+                require silence about something that genuinely matters.
               </p>
             </>
           ),
@@ -310,21 +324,23 @@ export default function NewsletterPage() {
 
         {
           title: "🔮 A Final Whisper",
-          yin: "Let honesty deepen what deserves to remain.",
-          yang: "Let action carry your intentions beyond thought.",
+          yin: "Let openness create room for deeper connection.",
+          yang: "Let your inner fire remind you that your truth also belongs.",
           content: (
             <>
               <p className="mt-4 italic">
-                &quot;This week, I listen deeply, choose carefully, and take the
-                next meaningful step with courage.&quot;
+                &quot;This week, I choose balance without self-abandonment,
+                connection without compromise, and courage without closing my
+                heart.&quot;
               </p>
 
               <p className="mt-4">
-                Virgo reminds you to discern. Libra reminds you to consider
-                perspective. Scorpio asks for emotional honesty, while
-                Sagittarius reminds you that truth eventually asks for movement.
-                Let this week become a bridge between understanding what matters
-                and having the courage to act on it.
+                Virgo reminds you to discern. Libra teaches the art of meeting
+                another. Scorpio asks for emotional honesty, while Aries reminds
+                you that there is still a self inside every relationship. And as
+                Mars enters Leo, courage becomes increasingly expressive. Let
+                this week show you that harmony is strongest when everyone at
+                the table is allowed to exist fully — including you.
               </p>
             </>
           ),
