@@ -63,7 +63,7 @@ export default function NewsletterPage() {
         </h1>
 
         <h2 className="text-2xl font-serif text-gray-800 mb-1">
-          September 28 – October 04, 2026
+          October 05 – October 11, 2026
         </h2>
 
         <p className="italic text-sm text-gray-600 tracking-wide my-6">
@@ -74,8 +74,8 @@ export default function NewsletterPage() {
         <p className="italic text-lg text-gray-700">
           Theme:{" "}
           <b>
-            Beneath the Surface — Libra Balance, Scorpio Truth, and the Courage
-            to Reassess What Matters
+            Returning to What Matters — Libra Renewal, Scorpio Truth, and the
+            Courage to Choose Differently
           </b>
         </p>
       </motion.div>
@@ -96,39 +96,30 @@ export default function NewsletterPage() {
       >
         <div className="text-center max-w-3xl mx-auto leading-loose text-[1.05rem] font-serif text-gray-700 tracking-wider">
           <p className="mb-6">
-            This week begins beneath the balancing influence of{" "}
-            <b>Libra season</b>, with the <b>Sun in Libra</b> continuing to
-            illuminate relationship, reciprocity, fairness, cooperation, beauty,
-            and the delicate meeting place between self and other. Yet beneath
-            Libra&apos;s search for harmony, the astrology of the week begins
-            moving steadily toward deeper territory.
+            This week unfolds during <b>Libra season</b>, while{" "}
+            <b>Venus retrograde in Scorpio</b> continues an astrological review
+            of relationships, intimacy, trust, desire, money, and self-worth.
             <br />
-            On <b>September 28</b>, the <b>Sun trines Uranus</b>, bringing a
-            refreshing current of openness, experimentation, originality, and
-            willingness to approach familiar situations differently. Then, on{" "}
-            <b>September 30</b>, <b>Mercury enters Scorpio</b>, shifting
-            communication away from surface-level balance and toward depth,
-            honesty, investigation, intuition, motives, and truths that may have
-            remained unspoken.
+            Around <b>October 6–7</b>, depending on timezone,{" "}
+            <b>Mercury meets retrograde Venus in Scorpio</b>, bringing
+            conversations and feelings into closer focus.
             <br />
-            Around <b>October 2–3</b>, the energy intensifies.{" "}
-            <b>Mercury squares Mars and Pluto</b>, while{" "}
-            <b>Mars trines Neptune and opposes Pluto</b>. Words, convictions,
-            desires, power dynamics, and buried tensions may carry greater
-            force, making conscious communication especially valuable.
+            On <b>October 7</b>,{" "}
+            <b>Mars in Leo forms a sextile with Uranus in Gemini</b>, an aspect
+            traditionally associated with experimentation, flexibility, and
+            fresh approaches.
             <br />
-            On <b>October 3</b>, <b>Venus stations retrograde in Scorpio</b>,
-            beginning a deeper review of love, relationships, intimacy, trust,
-            money, desire, self-worth, and personal values. The{" "}
-            <b>Last Quarter Moon in Cancer</b> on the same day adds another
-            invitation to release, reassess, and make emotional space before the
-            next lunar cycle begins.
+            The week culminates with the <b>October 10 New Moon in Libra</b>,
+            followed by <b>Venus retrograde squaring Mars in Leo</b>. Together,
+            these signatures invite reflection on balance, desire, reciprocity,
+            boundaries, and the difference between preserving peace and creating
+            genuine harmony.
           </p>
 
           <p>
-            Let this week remind you that harmony is not created by avoiding
-            depth. Sometimes balance becomes possible only after we are willing
-            to look honestly at what lies beneath the surface.
+            Let this week help you distinguish between keeping the peace and
+            creating genuine harmony — and begin again from a place where truth,
+            desire, self-respect, and connection are all allowed to exist.
           </p>
         </div>
       </motion.div>
@@ -137,52 +128,46 @@ export default function NewsletterPage() {
       {[
         {
           title: "🌕 Celestial Flow",
-          yin: "Let what lies beneath the surface reveal itself without force.",
-          yang: "Let courage meet truth with clarity rather than reaction.",
+          yin: "Let reflection reveal what your relationships and values are teaching you.",
+          yang: "Let courageous choices create a more honest kind of balance.",
           content: (
             <>
               <p className="mt-4">
                 <b>Astrological Highlights:</b>
                 <br />- <b>All week – Sun in Libra</b>: balance, relationship,
-                reciprocity, diplomacy, beauty, fairness, cooperation, and
-                awareness of multiple perspectives.
+                reciprocity, diplomacy, beauty, fairness, cooperation, and the
+                art of honoring both self and other.
+                <br />- <b>All week – Mercury in Scorpio</b>: deeper thinking,
+                investigation, intuition, psychological insight, meaningful
+                conversations, truth-seeking, and attention to what remains
+                beneath the surface.
+                <br />- <b>All week – Venus retrograde in Scorpio</b>:
+                reassessing relationships, intimacy, trust, desire, money,
+                self-worth, attachment, and personal values.
                 <br />- <b>All week – Mars in Leo</b>: creative action,
                 confidence, passion, courage, leadership, visibility, play, and
                 heart-led motivation.
                 <br />- <b>All week – Jupiter in Leo</b>: expansion, generosity,
                 creativity, confidence, visibility, optimism, and courageous
                 possibility.
-                <br />- <b>Sep 28 – Sun trine Uranus</b>: originality,
-                flexibility, experimentation, fresh perspective, independence,
-                and openness to constructive change.
-                <br />- <b>Until Sep 30 – Mercury in Libra</b>: diplomacy,
-                balanced thinking, negotiation, fairness, thoughtful
-                communication, and seeing multiple perspectives.
-                <br />- <b>Sep 30 – Mercury enters Scorpio</b>: deeper thinking,
-                investigation, intuition, psychological insight, meaningful
-                conversations, truth-seeking, and attention to what remains
-                hidden.
-                <br />- <b>Oct 2 – Mercury square Mars</b>: fast thinking,
-                assertive communication, debate, impatience, strong opinions,
-                and the need to pause before reacting.
-                <br />- <b>Oct 2 – Mercury square Pluto</b>: penetrating
-                thought, intense conversations, questions of power, hidden
-                motives, conviction, and deeper mental focus.
-                <br />- <b>Oct 2 – Mars trine Neptune</b>: intuitive action,
-                imagination, compassion, creativity, inspiration, and acting
-                from a deeper sense of meaning.
-                <br />- <b>Oct 3 – Venus stations retrograde in Scorpio</b>:
-                reassessment of relationships, intimacy, trust, desire, money,
-                self-worth, attachment, and personal values.
-                <br />- <b>Oct 3 – Mars opposite Pluto</b>: powerful drive,
-                intensity, ambition, confrontation with control or resistance,
-                and the need to use personal power consciously.
-                <br />- <b>Oct 3 – Last Quarter Moon in Cancer</b>: emotional
-                release, reflection, home, belonging, security, nourishment, and
-                clearing what no longer supports the next beginning.
-                <br />- <b>Oct 4 – Sun opposite Saturn</b>: responsibility,
-                boundaries, maturity, accountability, patience, and confronting
-                what requires greater commitment or realism.
+                <br />-{" "}
+                <b>Around Oct 6/7 – Mercury conjunct Venus retrograde</b>:
+                revisiting conversations, relationships, feelings, agreements,
+                values, desires, financial choices, and truths that may now be
+                understood differently.
+                <br />- <b>Oct 7 – Mars sextile Uranus</b>: experimentation,
+                inventive action, independence, courage, fresh approaches,
+                spontaneity, and constructive change.
+                <br />- <b>Oct 9 – Mercury quincunx Saturn</b>: adjustment,
+                careful thinking, responsibility, realism, and reconsidering
+                plans or conversations where something does not yet fit.
+                <br />- <b>Oct 10 – New Moon in Libra</b>: a fresh beginning
+                around partnership, reciprocity, harmony, negotiation, fairness,
+                cooperation, beauty, and creating healthier relational patterns.
+                <br />- <b>Oct 10 – Venus square Mars</b>: attraction, desire,
+                passion, creative tension, differing needs, relationship
+                dynamics, and learning how to honor both connection and
+                individuality.
                 <br />- <b>All week – Saturn retrograde in Aries</b>:
                 reassessing responsibility, independence, leadership, courage,
                 boundaries, and long-term commitments.
@@ -198,27 +183,25 @@ export default function NewsletterPage() {
               <p className="mt-4">
                 <b>Reflections:</b>
                 <br />
-                - What am I beginning to understand now that I am willing to
-                look beneath the surface?
+                - Which relationship pattern am I now able to see more clearly?
                 <br />
-                - Which relationship, desire, or value deserves thoughtful
-                reassessment rather than an immediate decision?
-                <br />- Where can I respond from personal power instead of
-                reacting from defensiveness?
+                - Where have I confused harmony with avoiding an uncomfortable
+                truth?
+                <br />- What would reciprocity look like if my needs mattered
+                just as much as everyone else&apos;s?
               </p>
 
               <p className="mt-4">
                 <b>Rituals:</b>
-                <br />- On <b>September 28</b>, change one familiar pattern,
-                routine, or approach and notice what becomes possible when you
-                allow yourself to experiment.
-                <br />- As <b>Mercury enters Scorpio</b>, journal about one
-                question you have been circling around and ask yourself what you
-                already know beneath the explanations.
-                <br />- Around <b>October 3</b>, begin a quiet Venus retrograde
-                reflection: What do I value now? What feels reciprocal? What am
-                I holding onto because it is meaningful — and what am I holding
-                onto simply because it is familiar?
+                <br />- Around <b>October 6</b>, revisit an old journal entry,
+                conversation, relationship lesson, or decision and notice what
+                you understand differently now.
+                <br />- On <b>October 7</b>, deliberately do one familiar thing
+                differently. Break a small pattern and notice what new
+                possibility appears.
+                <br />- Around the <b>October 10 New Moon</b>, write one
+                intention for your relationship with yourself and one for your
+                relationships with others. Let both begin with mutual respect.
               </p>
             </>
           ),
@@ -226,23 +209,23 @@ export default function NewsletterPage() {
 
         {
           title: "💗 Wellness & Vital Flow",
-          yin: "Let your body reveal what intensity has been asking you to hear.",
-          yang: "Let strength move through you without becoming force.",
+          yin: "Let your body receive care without turning care into another obligation.",
+          yang: "Let movement reconnect you with vitality, confidence, and joy.",
           content: (
             <>
               <p className="mt-4">
-                Mars in Leo supports expressive, energizing movement, but the
-                intensity surrounding Mars and Pluto this week makes conscious
-                pacing especially valuable. Strength does not require pushing
-                through every signal your body gives you.
+                Mars in Leo favors movement that feels expressive and alive.
+                Strength training, sport, dance, walking, swimming, stretching,
+                or playful movement can reconnect physical effort with enjoyment
+                rather than treating the body as another project to perfect.
               </p>
 
               <p className="mt-4">
-                The Cancer Last Quarter Moon favors nourishment, emotional
-                grounding, rest, hydration, comforting food, gentle mobility,
-                sleep, and time in spaces where your nervous system can settle.
-                Let recovery remain part of strength rather than something that
-                happens only after exhaustion.
+                Venus retrograde in Scorpio also encourages a deeper question:
+                how do you treat your body when nobody else is watching? Let
+                nourishment, sleep, recovery, movement, and self-care come from
+                respect for the body you inhabit rather than from comparison or
+                punishment.
               </p>
             </>
           ),
@@ -250,21 +233,22 @@ export default function NewsletterPage() {
 
         {
           title: "🌿 Rest & Renewal",
-          yin: "Let release create space where intensity has accumulated.",
-          yang: "Let boundaries protect the quiet needed for perspective.",
+          yin: "Let quiet make room for feelings that need to be understood.",
+          yang: "Let clear boundaries protect the space required for renewal.",
           content: (
             <>
               <p className="mt-4">
-                Mercury in Scorpio can draw the mind toward deeper questions,
-                while Venus stationing retrograde may bring old feelings,
-                relationships, desires, memories, or unresolved values back into
-                awareness. Not everything that returns requires immediate
-                action.
+                The waning Moon dominates most of the week before
+                Saturday&apos;s New Moon, making the days leading up to it
+                especially suited to clearing, simplifying, finishing, and
+                releasing. Venus retrograde suggests that emotional clutter
+                deserves attention too.
               </p>
 
               <p className="mt-4">
-                Before sleep, ask: &quot;What can I allow myself to understand
-                slowly instead of demanding an answer tonight?&quot;
+                Before sleep, ask: &quot;What am I ready to stop carrying into
+                the next chapter of my relationships — including my relationship
+                with myself?&quot;
               </p>
             </>
           ),
@@ -272,24 +256,25 @@ export default function NewsletterPage() {
 
         {
           title: "✨ Abundance in Alignment",
-          yin: "Receive what reflects your deeper values rather than surface desire.",
-          yang: "Let courage and integrity guide where you invest your energy.",
+          yin: "Receive what reflects your values rather than what merely looks desirable.",
+          yang: "Let confidence serve what is genuinely worth building.",
           content: (
             <>
               <p className="mt-4">
-                Venus stationing retrograde in Scorpio shifts abundance inward.
-                This is a useful time to reconsider what value actually means:
-                where your money goes, what your work is worth, which
-                relationships feel reciprocal, and whether your choices still
-                reflect what matters to you now.
+                Venus retrograde invites review rather than automatic expansion.
+                Look again at spending, pricing, possessions, collaborations,
+                agreements, and the ways you measure value. Something does not
+                become valuable simply because it is desired — and something
+                meaningful does not become less valuable because it requires
+                patience.
               </p>
 
               <p className="mt-4">
-                Jupiter and Mars in Leo continue to support confidence,
-                creativity, visibility, and expressive leadership. Yet this week
-                reminds you that sustainable growth needs more than enthusiasm.
-                Let ambition remain connected to purpose, values, and the kind
-                of life you genuinely want to create.
+                Jupiter and Mars in Leo continue to encourage creative
+                confidence, leadership, visibility, and bold expression, while
+                the Libra New Moon highlights partnership. Consider where the
+                right collaboration could support growth without requiring you
+                to compromise what matters.
               </p>
             </>
           ),
@@ -297,23 +282,24 @@ export default function NewsletterPage() {
 
         {
           title: "🧘 Stillness & Power",
-          yin: "Let stillness reveal what effort has kept hidden.",
-          yang: "Let conscious power replace the need to control.",
+          yin: "Let reflection show you what balance feels like from within.",
+          yang: "Let self-respect become part of every agreement you make.",
           content: (
             <>
               <p className="mt-4">
-                Visualize yourself standing beside deep, still water. The
-                surface reflects the sky, but beneath it exists an entire unseen
-                world. You do not need to disturb the water to know that depth
-                exists. Simply remain present long enough for what matters to
-                become visible.
+                Visualize two candles burning beside one another. Neither must
+                dim for the other to shine. Their flames remain distinct, yet
+                together they create more light. Let this become your image of
+                healthy connection: closeness without disappearance, love
+                without self-abandonment.
               </p>
 
               <p className="mt-4">
-                <b>Affirm:</b> I can face what is true without losing my center.
+                <b>Affirm:</b> I can honor my own truth and remain open to
+                genuine connection.
                 <br />
-                <b>Prompt:</b> What becomes visible when I stop trying to
-                control what I might discover?
+                <b>Prompt:</b> What would change if I stopped believing that
+                harmony requires someone to become smaller?
               </p>
             </>
           ),
@@ -321,19 +307,18 @@ export default function NewsletterPage() {
 
         {
           title: "🌟 Sacred Affirmation",
-          yin: "Let truth arrive in its own time.",
-          yang: "Let courage hold steady when deeper honesty is required.",
+          yin: "Let connection begin with honest listening.",
+          yang: "Let self-respect remain present inside every relationship.",
           content: (
             <>
               <p className="mt-4 italic">
-                &quot;I meet what is true with courage, reassess what matters
-                with honesty, and release what no longer belongs in my
-                becoming.&quot;
+                &quot;I welcome relationships, choices, and opportunities that
+                honor both my heart and my truth.&quot;
               </p>
 
               <p className="mt-4">
-                Repeat this affirmation when intensity tempts you toward
-                immediate reaction instead of deeper understanding.
+                Repeat this affirmation whenever the desire to preserve harmony
+                tempts you to ignore what you genuinely feel or need.
               </p>
             </>
           ),
@@ -341,22 +326,24 @@ export default function NewsletterPage() {
 
         {
           title: "🔮 A Final Whisper",
-          yin: "Let depth teach you what surface harmony cannot.",
-          yang: "Let your power become deliberate, grounded, and wise.",
+          yin: "Let love deepen through honesty rather than performance.",
+          yang: "Let courage create relationships in which everyone can remain whole.",
           content: (
             <>
               <p className="mt-4 italic">
-                &quot;This week, I listen beneath the noise, honor what is being
-                revealed, and choose from a deeper place within myself.&quot;
+                &quot;This week, I release old ways of relating, listen to what
+                my values are becoming, and begin again from a place of greater
+                truth and balance.&quot;
               </p>
 
               <p className="mt-4">
-                Libra reminds you to seek balance. Scorpio asks whether that
-                balance is honest. Leo reminds you to act from the heart, while
-                Cancer reminds you that emotional safety matters too. And as
-                Venus begins her retrograde journey, the question becomes less
-                about what looks valuable from the outside and more about what
-                remains valuable when you look deeply within.
+                Libra reminds you that connection matters. Scorpio reminds you
+                that honesty matters too. Leo asks you to keep your heart alive,
+                while Aries reminds you that there must still be a self inside
+                every partnership. This New Moon does not ask you to create
+                perfect harmony. It asks you to create something more honest:
+                relationships in which closeness and individuality are allowed
+                to coexist.
               </p>
             </>
           ),
